@@ -26,6 +26,7 @@ Clone le repo :
 git clone https://github.com/tonpseudo/ton-projet.git
 cd ton-projet
 pip install -r requirements.txt
+```
 
 
 ## 🤝 Contribuer
