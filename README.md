@@ -16,10 +16,7 @@ faire éffondrer les barrières linguistiques qui existe entre les ethnies du Ga
 - [Utilisation](#-utilisation)
 - [Contribuer](#-contribuer)
 - [Licence](#-licence)
-
-## ✨ Aperçu
-
-![Demo](./assets/demo.gif)  
+ 
 
 ## ⚙️ Installation
 
