@@ -1,0 +1,579 @@
+à cause de : dibandu 
+à côté: vamugule
+à l'intérieur: ô gari 
+abandonner: sile 
+abeille: ñosi
+abîmer: bule 
+accepter: singe 
+accident: lakeside 
+accoucher: bure 
+accuser: mfwengigile 
+acheter: sumbe 
+adresse: durese 
+aéroport: diviasu 
+africain: mwise afrik 
+agriculture: divare 
+aider: wamuse
+aïl : layi
+aimer: ronde
+ainsi: kabo, kabogu
+air: dupépi
+ajouter: bwèse
+aller: wende
+allumer: banze 
+allumette: fofuru
+âme: iñuñi
+amer: nduli
+ami: mbatsi
+amitié: dinonge
+amour: yirondu
+an, année: ilime
+ananas: dikonzi
+anglais (la langue) : ingési
+anglais (les personnes) : mwise ngési, ngési 
+animal: ibulu
+annoncer: tsingule
+appeler: nengile
+apporter: bège
+apprendre: nènge
+après-demain: mune mosi 
+après-midi: tsisige
+arabe: murabe
+araignée: dibube
+arbre: mwiri
+armée: yigoru
+arriver: ruge
+artisan: murungitsi 
+assemblée: dibundu
+assez: vane dédi, dédi, avotsu 
+assiette: ipèle
+association: dikute, diguri 
+attendre: kelise
+attention: ukèbe
+attraper: gange
+aube: makièle
+au nom de : mu dine di
+au revoir: uke ngwali 
+augmenter: bwele
+aujourd'hui: na muni, na nangu 
+autre: mususu, isusu
+autrefois: va gulu 
+avec lui/elle: nandi 
+avec: na
+aveugle: bidunge 
+avion: dikumbi 
+avoir: ne
+bagage: mufune
+bague: morn
+balance: mudodu 
+balayer: gombule 
+ballon: ndèle
+banane: mupale, kwage 
+bananier: ipuge
+banque: banke 
+baobab: mufume 
+barbe: yédu 
+bateau: meli 
+bavarder: vose 
+beau: bweji, boti 
+bénédiction: bweiii
+bienvenu: samba!
+bizarre: javuri-javuri
+blanc: vème
+blanc (homme) : ibambe, mundongu
+blesser: nemise
+boire: nu
+bol: dimogi
+bon: iboti
+bonjour: marambuge 
+bonne nuit: mukolu boti 
+bonsoir: wi mogi 
+bouche: munu
+boue: burobu
+bouger: kunge
+bouillir: rogise
+bouteille: mbute, mbwatile, mulingi 
+branche: ditayi
+bras: gogu
+brique: irike
+brosse à dents: isugululu 
+brosse: burose
+bruit: nduku
+brûler: nenze
+buffle: pase 
+bureau: biru
+ça ne fait rien: vaga diambu 
+ça suffit! : vane dédi, avotsu 
+cacher: swège
+cadavre: mfumbi
+cadeau: pagu
+cafard: duvesi
+café: kali
+calcul: kalkile 
+calendrier: mulimu 
+camion: kambini
+canne à sucre: musungu 
+carte: karte
+casser: bule
+casserole: dwengu 
+certains: amosi
+chaise: ivike
+chaleur: yusile
+chambre: ibuku i ndagu 
+champ: nungi
+chance: yès
+changer: sanze
+chanter: wimbile 
+chapeau: iviovi 
+chaque: kadi 
+charbon: digale 
+chasseur: murèle
+chat: ñagu 
+chauffeur: muviritsi 
+chaussette: sokète 
+chaussure: duvondu 
+chemin: nzile 
+chemise: ikutu 
+chercher: rombe 
+cheveux: nange 
+chez: ombu, omu
+chien: mondi 
+choisir: sale 
+chose: yime 
+ciel: julu 
+cigarette: tsunge 
+ciment: sime 
+cinéma: sineme 
+clan: ibandu 
+classe: kiase
+clé: sabi
+cloche: ngunge 
+clou: dusongu 
+cochon: ngulu 
+coco: dikôke 
+cocotier: mukoke 
+cœur: murime 
+colère: kabu
+collège: kolèse 
+coller: namise 
+colline: mukongu 
+combien: kweñi ? 
+comme: nane 
+commencer: bande 
+comment: tsieñi ? 
+comprendre: gulu
+comprimé: mulunde
+compter: tale 
+confiance: yèntse 
+connaissance: ijabu 
+connaître: jabe 
+conseil: dilongi 
+construction: tungitsi 
+construire: runge
+content: nzangu 
+continent: dilongu 
+corps: duñuru 
+coton: mukôndu 
+cou: kingu 
+coudre: rarige 
+couteau: dibage
+craindre: dume
+creuser: time
+crier: gamuge
+crocodile: gandu
+croire: singe
+cuir: lambe
+cuisine: kusini
+cuisinier: kusini, mulambi
+cultivateur: muvaritsi 
+cultiver: vare
+d'accord: yine 
+dame: madami 
+danse: muyinu 
+danser: -yine 
+début: va dibandu 
+déchirer: pase 
+dehors: dulômbili 
+demain: mugese
+demander : vwivule 
+démarche: mwèndu 
+déménager: kumuge 
+dent: dinu
+depuis: vane kale 
+derrière: ônzime 
+descendre: sunde 
+désherber: sole 
+dessus: vajulu 
+dette: dinwane 
+devant: va gusu 
+diarrhée: muvànzu 
+dictionnaire: diku
+dieu: nzambi 
+dimanche: tsone 
+dire: tsingule 
+discours: tubu 
+discuter: tsunde 
+dispute: musosi 
+distance: wèndu 
+diviser: gabe 
+docteur: doke
+document: dukime 
+doigt: mulémbu 
+donc: kabogu 
+donner: vège 
+dormir: bundeme 
+drapeau: ilimbu 
+droite: mabale
+eau: mambe
+école: ikole 
+économie: ikonomi
+écouter: gulu 
+écrire: rende 
+église: ingange 
+électricité: kure 
+éléphant: nzagu 
+élève: mwane ikole 
+élever: bungule 
+éleveur: mubungutsi
+employer: musatsi 
+employeur: musalitsi 
+emprunter: nwane 
+endroit: mbure 
+enfance: bungébi 
+enfant: mwane 
+enseigner: longe 
+ensemble: jobotsu
+entre: va gari
+entrer: kote
+enveloppe: muvilope 
+envoyer: tinde
+épaule: disambeke 
+épine: dusiendi, dusosu 
+éplucher: gobe
+épouse: mugatsi 
+épouser: wèle 
+époux: mulumi 
+esprit: iñuñi 
+essayer: mange 
+et : na
+éteindre: tsimise 
+étranger: mweñi 
+être: be
+étudier: tidi 
+Europe: irope 
+eux: jogu
+exact : anane
+examen: lekisame 
+excusez-moi: kokolu 
+expérience: mumangu 
+expliquer: silulile 
+explication: isilu
+fabriquer: runge
+fâcher (se): uñoge
+faim: nzale
+faire: vage
+famille: ifumbe 
+fardeau: mufune 
+farine: farine
+femme: mugétu 
+fenêtre: divwase
+fer: budilu
+fermer: dibige, tsibige 
+fête: nzangile
+feu: muji
+fièvre: dibagu
+fil: tweñi, ñongi
+file d'attente: mulonge 
+fleur: ngondi
+foi: dubèle
+fois: kumbu, ñ0ngu
+force: mangolu
+forêt: musiru, dijombi 
+fourchette: tume, musomu 
+français: mwise fwale
+frapper: dimbe 
+frère: mwane nguji 
+frontière: pange
+fruit: mulunde 
+fumée: nzumbili 
+fumer: vole 
+fusil: bute
+garde: watsi
+gauche: magétu
+genou: dikotulu
+glisser: siètuge
+grâce à : mbétsi, yèse yotsu 
+grand-père: kage 
+grand-mère: kage
+gratuit: mwénzili
+grève: dionzu
+grossesse: dimi
+groupe: dibundu, diguri, inombu 
+guérir: buge
+habiller: dware
+habitants: batsige
+heure: diwéru
+hier: masige
+hippopotame: mfubu
+histoire: bukulu
+homme (être humain) : dibale, mutu 
+honte: isoñi
+hôpital: pitali 
+huile: matsi
+ici: avave
+idée: ditase
+image: igolini
+impôt: lèpu 
+indépendance: dipande 
+instituteur: mulonzi 
+intelligence: dièle 
+interdiction: ivinge 
+interdire: gandise
+interprète: ikambi
+jambe: dikulu
+jeter: bwage
+jeu: ingane
+jeune fille: numbe 
+jeune homme: mufudu 
+joie: nzangu
+jour: ilumbu
+juge: ngèle
+jusqu'à: dédi na, dédi no
+kilo: dupitsu, kilu
+là-bas: a gone 
+lait: dibéñi 
+lampe: lambi 
+langue: mbémbu 
+largeur: pwañi 
+laver (se) : bwile 
+laver: suse 
+lettre: isangomu 
+linge: bidwaru 
+lion: imbungu
+lire: range
+livre: dibuku
+loi: mugage
+loin: vale 
+longueur: pwalongi 
+largeur: pwañi 
+lune: tsungi 
+lunettes: bagokule
+maçon: masu 
+madame: madami 
+magasin: magasi 
+maigre: digasu 
+main: dikàke 
+maïs: duvutu 
+mais: tumbe 
+maison: ndagu 
+malade: ibédu 
+maladie: bwali
+mal de tête: muru komine 
+maman: mame
+manger: ji
+mangue: mumange
+manioc: mulèmbe, mugume 
+manquer: bike
+marché: dikase
+marcher: wènde
+mariage: diwèle
+marre: fwiri
+marteau: martu
+matin: kédi
+méchant: mwifi 
+médicament: ilongu
+menteur: mufutsi 
+mépriser: lènze 
+mer: mubu 
+merci: diboti 
+miel: buji 
+militaire: gore 
+minuit: gari wisi 
+miroir: dumwénu 
+moi: ménu
+mois: muwéli 
+monde: bulongu 
+montagne: mukongu 
+monter: bare 
+montrer: lase
+mort: dufu
+mot: igume
+mourir: fu 
+moustiquaire: gombu 
+moustique: ifuru 
+mouton: tabe
+mur: ibage
+nager: riale 
+nation: nasi 
+nettoyer: liomise 
+nez: mbasu
+nom: dine
+non: nési
+nourrir: lisile 
+nourriture: biguji 
+nouvelle: musamu 
+nuit: mukolu
+obéir: dèdile 
+odeur: mbunge 
+oeil: disu
+oeuf: diaki 
+oignon: ñonde 
+oiseau: tsoli 
+oncle: katsi 
+ordure: biriri 
+oreille: dituji 
+oreiller: ipondeme 
+os : ivisi
+où ? : a vé ? o
+oublier: libene 
+oui: yine
+pain: pémbi, dipe 
+panier: ponzi 
+pantalon: mukandi 
+papier: mugande
+papillon: dikukuli
+pâques: pake
+paquet: paid, ifunde, digare, diumbe 
+parapluie: musande
+parents: biburu
+paresseux: mubolu, mutsori 
+parlement: itsundu
+part: dikabu
+partager: gabe
+passager: mulinzi
+passer: viose
+patate: ilungu
+pauvre: ijage
+payer: sumbe
+pays: dilongu
+paysan: mwise dimbu 
+peau: mukate
+péché: disumu 
+penser: tase
+père: taji 
+permission: musuge 
+personne: mutu 
+peu: pesu
+peur: gome
+peut-être: tanguji 
+photo: igolini
+pierre: dimañi
+pile: pile
+piment: dunungu
+plaie: pure
+pleurer: lile
+plier: furige
+pluie: mfule
+pont: ikadi
+pourquoi: mumbayi ?
+pousser: sindile
+pouvoir: bukongu 
+prendre: bonge 
+prier: sambile 
+prison: tsugu
+prix: dufunu, dupiru 
+problème: diambu
+qualité: munongu 
+quartier: inànge 
+qui: ani?
+quoi: yiniyi, ayi !
+racine: dungànzi 
+radio: radi
+raison: ndunge 
+refuser: buse
+région: musiengi 
+remplir: base 
+rendez-vous: ibèngunu 
+renverser: puge 
+respiration: muvumu 
+rester: siale
+réunion: mugungi 
+rêve: ndosi
+rêver: dore 
+riche: isine 
+richesse: busine 
+rire: dikèki 
+rivière: mujambe 
+riz: uresi
+robe: ilinge
+route: mumbambe
+sable: isièke, busièyi 
+sac: komi
+salaire: dipéyi
+sale: mwinzi
+saluer: simbe 
+sang: malungu 
+savane: kumu
+sel: musayi 
+serpent: ñoge 
+seul: pinze 
+seulement: bu, wa 
+si : ike
+signature: ilimbe 
+silence: duvotse 
+singe: kari
+sœur: ibusi
+soif: yangele, pwile mambe 
+soir: tsisige
+sol: butambe
+soldat: gore
+soleil: ñangu 
+sommeil: yilu 
+sortir: pale 
+souffle: muvumu 
+souffrir: tsoge 
+sueur: dirugeme 
+suivre: duke
+table: tavule
+tambour: ndungu, mulombu 
+téléphone: iviose mbile 
+télévision: ilase bigolini 
+tempête: mungudi
+temps: ilème
+terre: butambe
+tête: muru
+tirer: dute
+toi: ndéju
+toilette (w. c.) : itsagu
+tombe: mbine
+tomber: bèruge
+tortue: ibonge 
+travailler: sale 
+tromper: dionge 
+trou: idune 
+trouver: bagule 
+tuer: boke
+un : imosi 
+urine: masube 
+uriner: sube
+vache: ngombi 
+variole: itutu 
+vendre: sumbise 
+venir: ruge 
+vent: mupunge,punge 
+viande: name
+vie: monu
+vieillesse: bununu
+vieux: inunu
+village: dimbu
+ville: divule
+vin: malamu
+visage: yinzi
+voir: labe
+voiture: lotu
+voix: diufi
+voler: dage
+voler (oiseau) : puremuge 
+voleur: mudagi
+vomir: luge
+voyage: mulingu
+voyager: linge
+vraie: ngènze, dingènze
+yaourt: yagure 
+zéro: vùnge
+
+
+
+
+
+
