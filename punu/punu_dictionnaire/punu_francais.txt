@@ -1,63 +1,92 @@
 a : il
 a : elle
-aguni :paroù?
-aguneni : qui est-ce?
+aguñi : par où?
+aguneñi : qui est-ce?
 agone: là-bas
-agunu : ici (vers ici)
+agunu : ici
+agunu : vers ici
 amumu: là-dedans
-amune : là-bas (dans l'autre récipient) ani: qui, lequel?
-anàne : c'est comme ça, c'est ça avàne :là
+amune : là-bas
+añi: qui, lequel?
+anàne : c'est comme ça
+anàne :  c'est ça 
+avàne :là
 avàve :ici
-avéni, avè : où
+avéñi : où
+avè : où
 ba : ils
 ba : elles
 babàke : taillader rapidement
 babàse : remplir rapidement
 babile :brûler
-babule : flamber (un animal)
-badige: plaquer, badigeonner
+babule : flamber un animal
+badige: plaquer
+badige: badigeonner
 bagule :trouver
 bagunu : ressembler
-bagusunu : trouver une ressemblance -baie: aérer, déblayer
+bagusunu : trouver une ressemblance 
+bale: aérer
+bale: déblayer
 balule : ébrécher
 bambige : serrer
 bande: commencer
 bande: en bas
-bande kubu (ba) : bas ventre -bandige : courber
+bande kubu (ba) : bas ventre 
+bandige : courber
 bandimine : couver
 banze :allumer
-bare: monter, grimper
+bare: monter
+bare: grimper
 base: remplir
-batile :engloutir, avaler
+batile :engloutir
+batile: avaler
 bé : la langue a fourché
 bébéli : tout près de
 bèfule :ébrécher
-bège : porter, apporter, emporter -bèkule :entamer
+bège : porter
+bège: apporter
+bège: emporter
+bèkule :entamer
 bèle : être malade
-béli : près, près de
+béli : près
+bèli : près de
 bèluse :guérir
 bèmbe :toucher
-bémbige : bercer, consoler
-bèngusunu : aller à la rencontre d'un tiers -beruse :fairetomber
-bète :renverser
-bètse :veiller auprès d'un malade -biale : être promu
+bémbige : bercer
+bémbige : consoler
+bèngusunu : aller à la rencontre d'un tiers 
+beruse :faire tomber
+bète : renverser
+bètse : veiller auprès d'un malade 
+biale : être promu
 bioge : roter
-bige: pronostiquer un malheur -bike: manquer, absenter
-bikumbu : comportement abject bikumbu : nouvelles
-bilongu (i) : remèdes, médicaments bilusi (i) : vomi ou vomissures
+bige: pronostiquer un malheur 
+bike: manquer
+bike: absenter
+bikumbu : comportement abject 
+bikumbu : nouvelles
+bilongu (i) : remèdes, 
+bilongu: médicaments 
+bilusi (i) : vomi
+bilusi (i) : vomissures
 bindige : fermer à clef
 binge: poursuivre
 bingulu (i) : mauvaises habitudes
 birambi (i) : soupçons
 birontsi (i) : ronflements biswasu :rapidité
-bituti (i):eausale
-bitoli (i) : problèmes bivatile :obstination -boke :tuer
+bituti (i): eau sale
+bitoli (i) : problèmes 
+bivatile :obstination 
+boke :tuer
 bokise : perdre un parent
 bole: ramasser
 bonge :prendre
-boti (bi pour les choses et ba pour les hommes) : bon -botse :mouiller
+boti : bon 
+botse :mouiller
 bubitu : gencives
-budige : barrer, obstruer un chemin budilu (ma) :fer
+budige : barrer
+budige: obstruer un chemin 
+budilu (ma) :fer
 budungu : verbe divin
 buji :miel
 buge : soigner
@@ -68,17 +97,25 @@ bukulu : tradition
 bule :briser
 bulagu : folie
 bumbe :façonner
-bumbe : embrasser, érinter bundésti : baby-sitting
-bundumbe: autorité, pouvoir, richesse -bure: enfanter
+bumbe : embrasser
+bumbe: érinter 
+bundésti : baby-sitting
+bundumbe: autorité
+bundumbe: pouvoir
+bundumbe: richesse 
+bure: enfanter
 burèle :chasse
 buse: refuser
-busine :richesse bute (ma) :fusil 
+busine :richesse 
+bute (ma) :fusil 
 butambe : terre 
 buvèdi :moqueries
 buvuandi : beauté
-bwage :jeter, lancer
+bwage :jeter
+bwage: lancer
 bwagene : se lamenter en groupe 
-bwali (ma) : mal, maladie 
+bwali (ma) : mal
+bwali: maladie 
 bwange :tisser
 bwatu (ma) : pirogue
 bwèjise : rendre beau ou bien
@@ -101,14 +138,17 @@ diguki (ma) :tas
 digumbi (ma) :navire
 dikabu (ma) : part
 dikalu (ma) :bicyclette
-dikibise :taquineries, agacement
+dikibise :taquineries
+dikibise: agacement
 dikimbe (ma) : insigne initiatique
 dikongu (ma) : sagaie
-dikube (ma) : forge, forgeron
+dikube (ma) : forge
+dikube: forgeron
 diku (mi) : dictionnaire
 dikuku (ma) : écorce
 dikule :toiser
-dikumbi (ma) : l'avion, fusée
+dikumbi (ma) : l'avion
+dikumbi: fusée
 dikunde (ma) : tourterelle
 dikundu : sorcellerie
 dikutu (ma) : poteau
@@ -123,14 +163,17 @@ dilolu (ma) :papaye
 dile : gagner, réussir
 dilongi (ma) :conseil
 dilute (ma) :trou
-dimaiii (ma) : pierre, caillou, rocher
+dimañi (ma) : pierre
+dimañi: caillou
+dimañi: rocher
 dimbe :frapper
 dimbu (mi) : village
 dimi (mi) :grossesse
 dimungi : brouillard
 dine (mi) :nom
 dingènde : chose ou personne ratatinée 
-dingènze (ma) : vérité, chose vraie 
+dingènze (ma) : vérité
+dingènze (ma): chose vraie 
 dingibe (ma) : vin de palme
 dingundu (ma) : hanche 
 dingungu (ma) : bruit distinctif 
@@ -193,10 +236,11 @@ dokule :cueillir
 donze :approfondir
 dore: rêver
 dubabele : bégaiement 
-dubambe (mba) : rotin dubile :fosse
+dubambe (mba) : rotin 
+dubile :fosse
 dubolongu (mbo) : aubergine 
 dubongu : tissu en raphia 
-dufu :lamort
+dufu :la mort
 dufunu (ma) : prix
 dugaji (ma) :feuille
 dugane (bak) : pustule de gale 
@@ -213,9 +257,11 @@ dukabonu (kam) : pangolin
 dukande : insomnie
 dukonduku (ko) :crochet
 dukuji (ku) : écureuil volant 
-dulombili : place du village, cour 
-dumise :glorifier,vanter
--dumuge : sauter
+dulombili : place du village
+dulombili : cour 
+dumise :glorifier
+dumise: vanter
+dumuge : sauter
 dumwènu (mbwè) : miroir
 dunangu : orgueil
 dunangu : fanfaronnade
@@ -227,7 +273,8 @@ durundu (tu) : fruit rouge
 dusale (tsa) :plume
 dusambu (tsa) : prière
 dusari (tsa) : petite aubergine amère 
-dusavu (tsa) : conte, fable
+dusavu (tsa) : conte
+dusavu: fable
 dusimbi (tsi) : planche
 dusongu (tso) : pointe
 dusosu (tso) : écharde
@@ -236,67 +283,92 @@ dusièndi (ma) : épine
 dute :tirer
 dutsi :éternuement
 dutsole (tsole) :ciseaux
-duvèsi (ba/pè) : cafard, cancrelat
+duvèsi (ba/pè) : cafard
+duvèsi: cancrelat
 dwabi (nia) : bretelle de panier 
-dwale (nia) : ongle, griffe 
+dwale (nia) : ongle
+dwale: griffe 
 dwèngu (ma) :marmite
 fife : sucer
 fike : boire en filtrant le liquide entre les dents 
 fube :mélanger
 fuge : couper les cheveux
-funde: accuser, dénoncer
+funde: accuser
+funde: dénoncer
 funde: fouiller
 fundu :conciliabule
 fure :mentir
-fute : payer, cracher
+fute : payer
+fute: cracher
 fwale :France
 fwate : aller à travers la petite brousse 
 fwènge: suppurer
-fwèngilile: calomnier, accuser injustement 
-fwère : puiser, ramasser
+fwèngilile: calomnier
+fwèngilile: accuser injustement 
+fwère : puiser
+fwère: ramasser
 fwimbe: partager inégalement 
 fwiñi : serrer en tirant
 fwiri : ennui, agacement
 gabe :partager
 gabuge :revenir
-gabuse : rendre, remettre
+gabuse : rendre
+gabuse: remettre
 gake :mordre
 galene : se disputer un objet 
-game: presser, essorer
+game: presser
+game: essorer
 gamuge :crier
 gandise :interdire
-gànge: attraper, saisir, empoigner 
-gange : frire, rôtir
+gànge: attraper
+gànge: saisir
+gànge: empoigner 
+gange : frire
+gange: rôtir
 gari : au milieu de
-gébule : cligner de l' œil, faire du pied 
+gébule : cligner de l' œil
+gébule: faire du pied 
 ngéji : prunelle de l'œil
 gobise :respecter
 gobule :recracher
-golile : se laver, se frotter de l'huile 
-golule : égrener, arracher
-gome : crainte, peur
-gombe : racler, gratter
+golile : se laver
+golile: se frotter de l'huile 
+golule : égrener
+golule: arracher
+gome : crainte
+gome: peur
+gombe : racler
+gombe: gratter
 gombule: balayer
 gonge : contourner
 gore: se chauffer
 gorule :égratigner
 gubene :heurter
-gubule: épousseter, brosser 
+gubule: épousseter
+gubule: brosser 
 gudige :retourner
 gufise :raccourcir
-gukulile : imiter, reproduire
-gulu (ba) : ancien, vieux
-gulu : entendre, écouter
-gumbe : mugir, rugir, grogner 
-gumbe : couvrir, entourer 
-gumbesne: s'embrasser, s'étreindre 
+gukulile : imiter
+gukulile: reproduire
+gulu (ba) : ancien
+gulu: vieux
+gulu : entendre
+gulu: écouter
+gumbe : mugir
+gumbe: rugir
+gumbe: grogner 
+gumbe : couvrir
+gumbe: entourer 
+gumbesne: s'embrasser
+gumbesne: s'étreindre 
 gumuse : faire sécher
 ibalu : écorce d'arbre
 ibambe : homme blanc
 ibandu : clan
 ibédu (bi) : malade
 ibinde (bi) : malchance
-ibindi (bi) : cadavre, dépouille 
+ibindi (bi) : cadavre
+ibindi (bi)  : dépouille 
 ibonge (bi) : tortue
 ibotsi (bi) : pourriture 
 iburu (bi) : parent
@@ -306,7 +378,8 @@ idube (bi) : nasse
 idume (bi) : danger
 idumbitsi (bi) : ombre
 idumi (bi) : coup de tonnerre 
-idune (bi) : trou, cavité
+idune (bi) : trou
+idune (bi) : cavité
 idwaru (bi) : vêtement
 ifufu (bi) : miette
 ifufu (bi) : pauvre
@@ -315,14 +388,18 @@ ifwale : langue française
 ifwinzi (bi) : jabot de volaille 
 igabe (bi) : coup de poing 
 igangi (bi) : petite saison sèche 
-igare (bi) : caisse, malle, valise
-igume (bi) : parole, mot
+igare (bi) : caisse
+igare (bi) : malle
+igare (bi) : valise
+igume (bi) : parole
+igume (bi) : mot
 igungule tubi : inondation d'une rivière 
 ikadi (bi) : pont
 ikaji (bi) : cadavre
 ikambi (bi) : interprète
 ikari (bi) : chute
-ikémbi (bi) : nain, courteau
+ikémbi (bi) : nain
+ikémbi (bi) : courteau
 ikènzi (bi) : grillon
 ikéngu (bi) : petite marmite en terre 
 ikétsi (bi) : chassie des yeux
@@ -331,11 +408,13 @@ ikoku (bi) :bosse
 ikoku : danse de rejouissance
 ikotige (bi) : canif
 ikotsulu (bi) : toux
-ikoyi (bi) : handicapé (paraplégique) 
+ikoyi (bi) : handicapé 
+ikoyi (bi) : paraplégique
 ikuku (bi) : cuisine
 ikumbu : amende
 ikuru (bi) : fagot
-ikutu (bi) : chemise, blouse
+ikutu (bi) : chemise
+ikutu (bi) : blouse
 ilange (bi) : trompe d'éléphant
 ilèke (bi) : source
 iléli (bi) : fibre de bananier
@@ -346,7 +425,8 @@ ilime (bi) : année
 ilimbe (bi) : marque 
 ilimbu (bi) : drapeau 
 ilindi (bi) : radeau
-ilinge (bi) : soutane, robe 
+ilinge (bi) : soutane
+ilinge (bi) : robe 
 ilombi (bi) : nouvelle 
 ilumbi (bi) : message 
 ilumbu (bi) :jour
@@ -359,9 +439,12 @@ ingange (bi) : église
 ingidi (bi) : petit xylophone 
 ingongiñi (bi) : chatouillement 
 ingume (bi) : stérile
-inombu (bi) : troupe, troupeau 
-iñuñi (bi) : âme, esprit
-inunu (bi) :vieux, vieillard 
+inombu (bi) : troupe
+inombu (bi) :troupeau 
+iñuñi (bi) : âme 
+iñuñi (bi) : esprit
+inunu (bi) :vieux
+inunu (bi) : vieillard 
 iñuru : odeur corporelle
 ipape (bi) : morve
 ipèle (bi) : assiette
@@ -372,9 +455,12 @@ irèndi (bi) : morceau d'étoffe
 ironzi (bi) : ronflement
 irure (bi) :flacon
 isage (bi) : grappe de fruits 
-isalu (bi) : travail, métier, tâche 
+isalu (bi) : travail
+isalu (bi) :métier
+isalu (bi) : tâche 
 isame (bi) : grosse termitière 
-isange (bi) : cruche, jarre
+isange (bi) : cruche
+isange (bi) : jarre
 isanu (bi) : peigne
 isindu (bi) : tronc d'arbre étêté
 isinge (bi) : herbe
@@ -382,33 +468,42 @@ isinzi (bi) : souche pointue
 isièmu (bi) : remèdes
 isièngu (bi) :insulte
 isièyi (bu) : sable
-isombule (bi) : manière de porter le pagne. 
+isombule (bi) : manière de porter le pagne
 isoñi : honte
-isupu (bi) : gaine, fourreau
+isupu (bi) : gaine
+isupu (bi) : fourreau
 isusube (bi) : vessie
 iswasu (bi) : rhume
 iswisu : regarder fixement
 itale (bi) : fumoir
 itande (bi) : marché
-itengi (bi) : masque, tesson, carapace 
+itengi (bi) : masque
+itengi (bi) :tesson
+itengi (bi) : carapace 
 itsatse (bi) : chenille
 itsibe (bi) : eau profonde
-itsige (bi) : siège, lit
+itsige (bi) : siège
+itsige (bi) : lit
 itsièndi (bi) : panaris
-itumbe (bi) : image, gravure, statue 
-itunzi (bi) : sot, bête
+itumbe (bi) : image
+itumbe (bi) : gravure
+itumbe (bi): statue 
+itunzi (bi) : sot
+itunzi (bi) : bête
 itutu (bi) :variole
 itutu (bi) : torche de jonc 
 ivaru (bi) : plante
 ivèle (bi) : rapide
-iviovi (bi) : chapeau, casquette
+iviovi (bi) : casquette
+iviovi (bi) : chapeau
 jabe : savoir, connaître 
 jambile : comme le dit tel...
 ji : manger
 jibe: gourmandise
 kabu (ma) :colère
 kafi (ba) :pagaie
-kage (ba) :grand-père, grand-mère 
+kage (ba) :grand-père 
+kage (ba) :grand-mère 
 kaki (ba) :foudre
 kale (ba) : le crabe
 kambe : manquer de quelque chose 
@@ -416,28 +511,35 @@ kange (ba) :pintade
 kangi (ba) :incendie
 kase (ba) : démangeaison
 katsi (ba) : oncle maternel
-kédi (ba/ma) : matin kégèngi :frais
+kédi (ba/ma) : matin 
+kégèngi :frais
 kèle : attendre 
 kèlise :garder
 kibe: couvrir
-kibise : agacer, taquiner
+kibise : agacer
+kibise : taquiner
 kile : repasser
 kingu (ba) :cou
 kobi:sacoche
 kobige :accrocher
 kokolu :pardon
-kondini : en vain, inutilement 
-kôngu (ba) :jarre, cruche en terre 
+kondini : en vain
+kondini: inutilement 
+kôngu (ba) :jarre
+kôngu (ba) :cruche en terre 
 kongu (ba) : antilope de rivière 
-kosi (ba) : effigie ou statue fétiche 
-kote :rentrer, s'introduire
+kosi (ba) : effigie
+kosi (ba) : statue fétiche 
+kote :rentrer
+kote: s'introduire
 kotise : faire rentrer
 kotsule: tousser
 kugumfu : poussière 
 kuke :semer 
 kumbu (ba) :devise 
 kunge: cuivre
-kuñi : privation de viande kuru (ba) :aisselle
+kuñi : privation de viande 
+kuru (ba) :aisselle
 kute :entourer
 kuteme : s'agenouiller 
 kwalele (ba) :traverse 
@@ -448,11 +550,17 @@ lage : semer
 lambe: faire cuire
 lambi (ba) :lampe
 lège : épier
-lèle : bercer, caresser, élever un enfant
-lelévi : plein, raz bord
-lélige : prendre, suspendre
-lémbige : consoler, apaiser
-lèmbule : appliquer de l'huile sur un abcès, caresser 
+lèle : bercer
+lèle : caresser
+lèle : élever un enfant
+lelévi : plein
+lelévi: raz bord
+lélige : suspendre
+lélige : prendre
+lémbige : consoler
+lémbige: apaiser
+lèmbule : appliquer de l'huile sur un abcès
+lèmbule: caresser 
 lènde : supplier
 lènze : mépriser
 lengule : examiner contempler
@@ -460,24 +568,32 @@ lève: faire un serment
 lile : pleurer
 linge: voyager
 lobe: pêcher
-lobuge : enjamber, traverser
-loge: envoûter, ensorceler, maudir 
-lubuge : être malin, rusé, fûté 
+lobuge : enjamber
+lobuge: traverser
+loge: envoûter
+loge: ensorceler
+loge: maudir 
+lubuge : être malin
+lubuge: rusé
+lubuge: fûté 
 luge: vomir
 luge: nommer
 lukule :achever
-longe: enseigner, promettre
+longe: enseigner
+longe: promettre
 mabale : droite
 mabufu : cendres 
 madibe :surdité 
 madungu : hernie 
-mafiñi (ma) : pus, sanie 
+mafiñi (ma) : pus
+mafiñi (ma) : sanie
 magétu :gauche
 make: sève
 makengi (di) :bave
-makibu : gage (devinettes) 
+makibu : gage 
+makibu : devinettes
 malamu : vin de palme 
-malémbi : embrassade (enfants)
+malémbi : embrassade
 malu :confluent
 malumbi : louange aux ancêtres 
 malungu : sang
@@ -491,14 +607,17 @@ mapémi : menaces
 marangi (di) : fesses
 masige :hier
 masuku : clappes
-mate: monter, grimper
+mate: monter
+mate: grimper
 matsi :huile
 mbale (ba) :igname
 mbari (ba) : palmier
-mbatsi (ba) : ami, camarade 
+mbatsi (ba) : ami
+mbatsi (ba) : camarade 
 mbèle :tort
 mbémbu (ba) : voix
-mbèngi (ba) : ravin, précipice 
+mbèngi (ba) : ravin
+mbèngi (ba) : précipice 
 mbingu : nourriture
 mbisu :cru
 mbugu (ba) :bouchée
@@ -526,17 +645,20 @@ mudodu (mi) : balance
 mofume (mi) : fromager 
 mufune (mi) : charge
 mufundu (mi) : plainte
-mugamu (mi) : cri, hurlement
+mugamu (mi) : cri
+muggamu: hurlement
 mugangu : saveur agréable
 mukate (mi) : peau
 mukolu (mi) : nuit
-mukongu (mi) : colline, montagne
+mukongu (mi) : colline
+mukongu: montagne
 mukube : forgeron
 mukùbe : bec
 mùkubi : malfaisance
 mukudu : corde
 mukwati : machette
-mukwili (ba) : veuf, veuve 
+mukwili (ba) : veuf
+mukwili (ba): veuve 
 mule (miu) :bénédiction 
 mulèmbe (mi) : manioc 
 mulingu (mi) :voyage 
@@ -582,13 +704,16 @@ muyombu (mi): parfum
 mwaji :beau-frère
 mwane (ba) :enfant
 mwembe :bouillon
-mwéñi (bé) : visiteur, étranger
+mwéñi (bé) : visiteur
+mwéñi (bé) : étranger
 mwètse : clair de lune 
-mwinzi : crasse, saleté
+mwinzi : crasse
+mwinzi: saleté
 na : avec
 nane : faire des massages 
 nangule :soulever
-ndami (ba) : camarade, ami 
+ndami (ba) : camarade
+ndami (ba) : ami 
 ndagu (ma/ba) : case, maison 
 ndèle (ba) :ballon, balle
 ndétsi (ba) : berceur d'enfant 
