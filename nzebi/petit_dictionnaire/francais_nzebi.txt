@@ -820,47 +820,34 @@ EXPLIQUER : VANGA LELE
 EXPLORATEUR  :   MOUKOTI
 EXPLORER  : KOTO   
 EXPRES    :   MOUTEBA
-EXTRAIRE   : POSSA 
+EXTRAIRE   : POSSA
 
+FABLE :   LESSABA
+SE FACHER  : KAMBAGHA
+SE FACHER : KAMBOUGHA
+FADE   :  PODI
+FAIBLE :  VOLO
+FAIBLESSE : KOLO
+FAIM   :   NDZALA
+FAIRE : SADA
+FAIRE : SA 
+AGIR : SA
+FAIRE ACCOUCHER :  BOTESSA    
+FAIRE ALLUSION : LOUTA MOUGHOUDOU
+FAIRE BOIRE : NIODOSSO    
+FAIRE CHAUFFER : LEKE
+FAIRE CONFIANCE : SA MOUTEMA
 
+FAIRE CONFIANCE : SA  CHIA CHITA
+ FAIRE CONFIANCE : SA TSONGO
 
-
-    FABLE    LESSABA
-KAKBAGHA 
-    FACHER      (SE -)
-KA1ŒOUGHA    
-    FACHER      (SE -)
-
-    FADE     PODI
-
-    FAIBLE   VOLO
-
-    FAIBLESSEKOLa
-
-    FAIM      NDZALA
-
-SADA     
-    FAIRE
-(agir)SA     
-    FAIRE
-BOTESSA 
-    FAIRE ACCOUCHER
-LOUTA  MOUGHOUDOU
-    FAIRE ALLUSION
-NIODOSSO    
-    FAIRE BOIRE
-LEKE     
-    FAIRE CHAUFFER
-
-    FAIRE CONFIANCE SA      MOU TEMA
-
-    FAIRE CONFIANCE SA  CHIA CHITA
-
-SA      TSONGO
-    FAIRE CONFIANCE
+   
 
 
     - 44-
+
+
+
 
 
 
@@ -2749,17 +2736,6 @@ PROVERBE TSA-:-SAEA
 
 
 
-    ....................
-
-
-
-
-- 76-
-
-
-
-
-
 QUANT    'A MOIKOU KE
 QUARANTIEJŒ    CHA XAKOUMI KANA
 
@@ -3700,19 +3676,6 @@ TUEERCULE      <PETIT -,  !{AB I LA
     TURBULENTS  BIVOULOU
 
 
-
-
-    ....................
-
-
-
-
-- 92-
-
-
-
-
-
 UN   M'JCHI
 
 UN PAQUET   l BOUTO~J1 MO':H!
@@ -3821,13 +3784,6 @@ VERSER      (SE   -)   YITA ('J)
 
 VEI<:::ER (t r a r!si tif)    y     (tA)
 r Tor; l:..A
-
-
-94   ..
-    Licence accordée à Ronnie MVE MEBALE ronmvemebala@gmail.com - ip:88.122.177.93
-.~~~m:~~~>~~~"':~':'»~~~:~'~~~'.~~~,;,,~'~:::~~~4'~~:'j:")r{:r~1J'~~~:>A':''"$:%.,'''''~~%ff~W:',"jt~w-~~~~~':,,>,>,:i,,:,,~;~*'::>'::::>"
-
-
 
 
 VERSER    AVEC PRECAUTION     LEKE 
@@ -4020,17 +3976,6 @@ AGNI     BOVE   CE N'EST PAS AINSI
 AKA      ALORS
 
 AVION LA INGAMBA (L'-) HELICOPTERE    (= l'avion dame-jeaI
-
-
-
-
-....................
-
-
-
-
-- 9.~
-
 
 
 
