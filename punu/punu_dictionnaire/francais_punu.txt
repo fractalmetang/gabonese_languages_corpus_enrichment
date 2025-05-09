@@ -571,9 +571,3 @@ voyager: linge
 vraie: ngènze, dingènze
 yaourt: yagure 
 zéro: vùnge
-
-
-
-
-
-

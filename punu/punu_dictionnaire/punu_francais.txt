@@ -714,31 +714,38 @@ nane : faire des massages
 nangule :soulever
 ndami (ba) : camarade
 ndami (ba) : ami 
-ndagu (ma/ba) : case, maison 
-ndèle (ba) :ballon, balle
+ndagu  : case
+ndagu: maison 
+ndèle (ba) :balle
+ndèle (ba) :ballon
 ndétsi (ba) : berceur d'enfant 
 ndige (ba) : appât
 ndike (bi) : petit panier à poisson 
-ndilu (ba) : limite, bordure 
+ndilu (ba) : limite
+ndilu (ba) : bordure 
 ndimbe (ba) :couleur
 ndunge : raison 
 nemise :blesser 
 nènge :apprendre 
 nèngile :appeler 
 nési : non
-ngande (ba) : cour, place du village 
+ngande (ba) : cour
+ngande (ba) : place du village 
 ngange (ba) : tradipraticien
 ngañi :aigre
-ngèmbe (ba) : short, culotte
+ngèmbe (ba) : short
+ngèmbe (ba): culotte
 ngènge (ba) : scolopendre 
-ngo : panthère, léopard 
+ngo : panthère
+ngo: léopard 
 ngomfi :harpe
 ngombu : raphia
 ngondi (ba) :fleur 
 ngunge (ba) :cloche
 ngusu :jalousie
 ngwangu (ba) :bâton
-nongu (ba) :proverbe, parabole 
+nongu (ba) :proverbe
+nongu (ba) :parabole 
 nwane :emprunter
 nza : ensuite
 nzale :faim 
@@ -761,24 +768,32 @@ patule :arracher
 pémbi (ba) :kaolin 
 pènge (ba) :menton 
 pèñi (ba) : nudité 
-pinze : seul, solitude 
+pinze : seul
+pinze: solitude 
 pitse :peser
 pube (ba) : natte
 pugu :patience
 punge (mi) :vent
-puni: meurtrier, brigand 
-pupe : asperger, bouger 
+puni: meurtrier
+puni: brigand 
+pupe : asperger
+pupe: bouger 
 puye (ba) : écho
-pwañi (ba) : largeur, ampleur 
+pwañi (ba) : largeur
+pwañi (ba) : ampleur 
 pwasese (ba) :intervalle 
-pwèle :beaucoup, nombreux 
-pwiti (ba) : trou, crevasse
-rabile : brûler (plaie), mordre 
+pwèle :nombreux
+pwèle :beaucoup
+pwiti (ba) : crevasse
+pwiti (ba) : trou
+rabile : brûler (plaie)
+rabile: mordre 
 rakule : arracher
 range: lire
 rangemine : se souvenir 
 rarige : coudre
-règeme : trembler, frissonner 
+règeme : trembler
+règeme: frissonner 
 rine :fuir
 riri :rouge
 rombe :chercher
@@ -789,57 +804,73 @@ sale: travailler
 sàle : choisir
 sambile :prier
 sàmbule : présenter 
-sanze: chasser, expulser 
+sanze: chasser
+sanze: expulser 
 save: désirer
-sàve: conter, raconter, dénoncer
-sibe : aiguiser, affûter
+sàve: conter
+sàve: raconter
+sàve: dénoncer
+sibe : aiguiser
+sibe: affûter
 sige :jouer (instrument)
 sike : caler
 simbe :saluer
 sindige :envoyer 
 sindile :pousser 
 singisile :féliciter 
-sobene : mêler, mélanger
-soge : alterner,
+sobene : mêler
+sobene: mélanger
+soge : alterner
 sole: débroussailler
 sonde: prendre goût
 sopene :échanger
 sube :uriner
-sumbe : acheter, payer
+sumbe : acheter
+sumbe: payer
 sumbise :vendre
 sumune : braver un interdit 
-sundile : subitement, tout à coup 
+sundile : subitement
+sundile: tout à coup 
 sunduge : descendre
 sunze :déposer
-sungesene: opposer, parallèle 
+sungesene: opposer
+sungesene: parallèle 
 suse: laver
 swèkige :étrangler
 swème : se cacher
 ta, tanguji : peut-être
-tabule: rompre, couper
+tabule: rompre
+tabule: couper
 takule : commencer à marcher 
 tale: compter
 tali (ba) : bloc de pierre
 tandige :aligner
 tapele :insolence
 tase : penser
-tate (ba) : papa, père
+tate (ba) : papa
+tate (ba): père
 tate: exprimer sa douleur
 time: creuser
-timbe : tanguer, somnoler
+timbe : tanguer
+timbe : somnoler
 timbe (ba) : racine de manioc 
-timbuge : bander, être en érection 
+timbuge : bander
+timbuge: être en érection 
 tinde :envoyer
 tsakule : peigner 
 tsakule : injurier 
 tsande (ba) : le pagne 
 tsalu :termitière
 tsase : effet du piment
-tsige : enterrer, enfouir
+tsige : enterrer
+tsige: enfouir
 tsimbu :setromper
 tsimise :éteindre
-tsindule : effacer, essuyer, épousseter 
-tsingule :dire,avouer
+tsindule : effacer
+tsindule: essuyer
+tsindule: épousseter 
+tsingule :dire
+tsingule: avouer
 tsoke :piquer
 tsoli : oiseau
 tsone (ba) : semaine
@@ -850,25 +881,31 @@ tsunde :discuter
 tsungi :mois
 tsungule : blesser
 tsuve (ba) : calebasse
-tuge (ba) : caution, gage 
+tuge (ba) : caution
 tumbe :mais
 tumbe :valdinguer
-tumune : attaquer, provoquer 
-tute: accumuler, amasser
+tumune : attaquer
+tumune: provoquer 
+tute: accumuler
+tute: amasser
 va : il y a
 vage : faire
 vale: loin
 vande: féticher
-vànde : faire des nattes, tresser 
+vànde : faire des nattes
+vànde: tresser 
 vale: tailler
-vàne : payer, rembourser 
+vàne : payer
+vàne: rembourser 
 vare :planter
 vase: corder
 vate: s'entêter
-vatsi : à terre, par terre
+vatsi : à terre
+vatsi : par terre
 va gusu : devant
 vège: donner
-vème : blanc, blancheur 
+vème : blanc
+vème: blancheur 
 vèmfe: se moucher 
 vènde :lécher
 vèngutse :excepter
@@ -876,34 +913,42 @@ vère : tirer au fusil
 vève: sedédoubler 
 viluge :fleurir
 vine: haïr
-viri : très, intensité
+viri : très
+viri: intensité
 vive: attendre
 vole: fumer
 vombulu : ouvert
 vonde: demander 
 vondini-vondini: avec nonchalence
 vonu : très maigre
-vose : parler, dire
+vose : parler
+vose: dire
 vove :bavarder
-vule : déshabiller, dénuder 
+vule : déshabiller
+vule: dénuder 
 vume: respirer
-vuse :répandre, exhaler
+vuse :répandre
+vuse: exhaler
 wabe :pêcher
 wabule : sortir la nourriture d'une marmite 
 wake: recevoir
 wale: étendre
 walule : raconter un rêve
 wamuse :aider
-wèle : marier, épouser
-wélige: essayer, comparer 
+wèle : marier
+wèle: épouser
+wélige: essayer
+wélige: comparer 
 wème :désobéir
 wimbile :chanter
 wisi : temps
-wivule :interroger, demander
+wivule :interroger
+wivule: demander
 yabutsu (bi) : porte 
 yambe (bi) : sauce 
 yangele :soif
-yanzule (bi) : filtre, tamis 
+yanzule (bi) : filtre
+yanzule (bi) : tamis 
 yari (bi) : côté
 yasi (bi) : tranche 
 yélu (bi) : mesure 
@@ -911,7 +956,7 @@ yévi (bi) : corbeille
 yèse (bi) : chance 
 yombu (mi) : crème 
 yotsi :froid
-yuiii (bi) : acné
+yuñi (bi) : acné
 bande kubu :le bas ventre 
 bambange : les testicules 
 ngule : les ovaires
@@ -1083,7 +1128,8 @@ ilobu (bi) : le babouin
 imbungu (bi) : le lion
 ifuru (bi) : le moustique
 isibu (bi) : l'antilope
-itsalele (bi) : le chacal, le renard 
+itsalele (bi) : le chacal
+itsalele (bi) : le renard 
 kale (ba) :le crabe
 kange (ba) : la pintade
 koku mulumi : le coq
@@ -2563,41 +2609,3 @@ wu jabe di mbatsi: tu peux régler ceux des autres!
 tsiengi vesa: c'est la mort.
 ibinde: c'est un malheur.
 ibinde gonge batu via: que le malheur passe loin des hommes et rapidement
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
