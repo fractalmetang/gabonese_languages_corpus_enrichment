@@ -1,38 +1,2104 @@
-Abemba: il ne faut pas gouter 
-Abeweo: il ne faut pas te fâcher 
-Adeha: il ne faut pas pleurer Aguana : se séparer
-Aka: mange
-Akagua: manger
-Akambogua: il ne faut pas t'énerver 
-Akeya: il ne faut pas partir Ambagua: préparer
-Anaka: Regarder 
-Anaka: regarde
-Anè: enfants
-Anè: ceux-là
-Aniè: vous
-Andjabé: Nzébi
-Anyaka: il ne faut pas cabiner
-Assèka: il ne faut pas rire
-Asi mokobé: les assassins
-Asi mokobé: les tueurs 
-Awowo: il ne faut pas parler
-Bota a pitsi: fusil nocturne
-Botagua: accoucher
-Botagua: engendrer 
-Botagua: mettre au monde
-Bounzagua : gaspiller
-Boussougua: fuir
-Boussougua: s'évader
-Boussougua: s'en fuir 
-Boussouha: supprimer
-Boutagua: chercher
-Bowemba: vampirisme
-Bwembè: la politique
-Bwéta: puise
-Bwétagua: puiser
-Bwété: cérémonie d'initiation pour homme dans le bwiti
-Catsi: oncle
-Coda : montre 
-Couda : noisette 
-Coukouha : ouvrir 
-Coukégua : fermer
+Abemba ,  il ne faut pas gouter 
+Abeweo ,  il ne faut pas te fâcher 
+Adeha ,  il ne faut pas pleurer 
+Aguana  ,  se séparer
+Aka ,  mange
+Akagua ,  manger
+Akambogua ,  il ne faut pas t'énerver 
+Akeya ,  il ne faut pas partir 
+Ambagua ,  préparer
+Anaka ,  Regarder 
+Anaka ,  regarde
+Anè ,  enfants
+Anè ,  ceux-là
+Aniè ,  vous
+Andjabé ,  Nzébi
+Anyaka ,  il ne faut pas cabiner
+Assèka ,  il ne faut pas rire
+Asi mokobé ,  les assassins
+Asi mokobé ,  les tueurs 
+Awowo ,  il ne faut pas parler
+Bota a pitsi ,  fusil nocturne
+Botagua ,  accoucher
+Botagua ,  engendrer 
+Botagua ,  mettre au monde
+Bounzagua  ,  gaspiller
+Boussougua ,  fuir
+Boussougua ,  s'évader
+Boussougua ,  s'en fuir 
+Boussouha ,  supprimer
+Boutagua ,  chercher
+Bowemba ,  vampirisme
+Bwembè ,  la politique
+Bwéta ,  puise
+Bwétagua ,  puiser
+Bwété ,  cérémonie d'initiation pour homme dans le bwiti
+Catsi ,  oncle
+Coda  ,  montre 
+Couda  ,  noisette 
+Coukouha  ,  ouvrir 
+Coukégua  ,  fermer
+Deha ,  pleurs
+Dehagua ,  pleurer
+Dembi ,  lampe
+Dendhéa ,  cascader
+Dengagua ,  rattraper
+Dengagua ,  réussir
+Dengagua ,  avoir 
+Dengana  ,  se retrouver
+Dengagua ,  se rencontrer 
+Dibaié ,  deux
+Dibwéti ,  les cuillères
+Diko ,  soir
+Diko ,  soirée
+Dikoda ,  école
+Digua’a  ,  rester
+Digua’a  ,  habiter 
+Dimbana ,  disparaitre 
+Dimbaneda ,  faire disparaitre 
+Dinaï  ,  quatre
+Dingagua ,  durer
+Dingagua ,  mettre du temps 
+Dioagua ,  Tuer 
+Dioagua ,  Assasiner
+Dissou ,  chique
+Ditaï na dinaï ,  neuf
+Ditaï ,  cinq
+Ditato ,  trois
+Doka ,  crabe
+Domagua ,  coucher avec 
+Domagua ,  faire l'amour avec 
+Dongagua ,  guérir
+Doto ,  voiture
+Douka ,  demander 
+Doukagua ,  demander 
+Doukagua ,  cueillir 
+Douta  ,  tirer
+Ebandja ,  corps de garde 
+Ebédi  ,  l’accola
+Ebênê ,  le sein
+Eboguè  ,  le bois sacré 
+Ebombo ,  rhume
+Ebomé  ,  avoir des problèmes avec quelqu'un
+Ebomé  ,  fruit de brousse qui n'est pas mangeable
+Ebando  ,  début
+Ebando  ,  commencement
+Ebosso ,  les restes d'excréments 
+Ebouéta ,  patate
+Eboui ,  grossesse
+Eboumba ,  l'intestin
+Edimèti ,  allumette
+Edinga ,  la durée
+Edodo ,  la papaye
+Edonda  ,  petit ami
+Edonda  ,  petite amie 
+Edonghé ,  cru
+Egnêpa ,  la beauté
+Eguoba  ,  le respect
+Eguodo ,  sorcellerie
+Eguoundou  ,  poubelle
+Ehaké ,  œuf
+Ehobo ,  la pêche 
+Ekamo  ,  chance
+Ekassa  ,  pont 
+Ekè ,  petit
+Ekè ,  peu
+Ekèna  ,  la malignité 
+Ekèna  ,  être malin
+Ekoko  ,  le lit
+Ekongho ,  sagaie 
+Emangha ,  mangue 
+Embo ,  la chanson 
+Emèka ,  la pêche 
+Emègna ,  connaissance
+Enagua ,  voir
+Enda ,  faire
+Endagua ,  enflé
+Endagua ,  gonflé 
+Enêguê ,  chassie
+Enênghâ ,  apprentissage 
+Engamba ,  les bidons
+Engo ,  lui
+Engo ,  il  
+Engo ,  elle
+Enguê ,  citrouille
+Engonè ,  le voilà
+Engonè ,  la voilà 
+Enièpa  ,  beauté
+Enièsso ,  le vagin
+Epêdê ,  assiettes
+Epo ,  un
+Essani ,  cartouche
+Essiguo ,  atanga sauvage 
+Essinga ,  l'herbe
+Esso ,  œil
+Etahi ,  la pierre
+Etambo  ,  le piège
+Etè ,  caillou
+Etè à kidagua ,  fer à repasser 
+Etembé  ,  empreinte de pied 
+Etengo ,  fantôme
+Etingho ,  l'ironie
+Etoki ,  l'injure
+Ewa ,  là
+Ewa ,  ici
+Ewè ,  toi
+Ewè ,  tu 
+Ewèda ,  l'heure 
+Ewitsi ,  noir 
+Ewo ,  même
+Ewo ,  mais 
+Ewoté ,  teigne
+Gnakoha ,  gratter
+Gueanga ,  ananas
+Guebamba ,  blanc
+Guébameha  ,  Regarder
+Guébameha  ,  suivre 
+Guébando ,  début
+Guébando ,  commencement 
+Guébembé  ,  sac
+Guebongo ,  banc
+Guebanga za okondo ,  régime de banane 
+Guéboui ,  ventre
+Guéboungou  ,  gobelet
+Guécondabatsa  ,  limasse
+Guédiba ,  marigot
+Guédounghé  ,  maboule
+Gueeanga ,  veillée
+Guéêno  ,  miroir
+Guega ,  rouge
+Guêgnagua ,  se battre
+Guegno rêto ,  main gauche
+Guegno rêto ,  à gauche 
+Guegno moro ,  main droite
+Guegno moro ,  à droite
+Guegua ,  cercueil 
+Guéguombéguombé ,  le parapluie 
+Guékadi ,  le palmier
+Guékadé  ,  banditisme 
+Guékodabatsa  ,  la limasse 
+Guékondi ,  le fauteuil
+Guekondo ,  carpe
+Guékoutou  ,  le hibou
+Guémbana ,  discuter quelque chose 
+Guénana ,  huit
+Guéngamba ,  le bidon 
+Guéombé ,  famille 
+Guépango ,  les Fang 
+Guépêdê ,  assiette 
+Guessa ,  mélange 
+Guessagua ,  Mélanger 
+Guessangoumou ,  papier 
+Guessewo ,  saison 
+Guessia ,  les Ghisir
+Guessima ,  habitude
+Guessima ,  comportement 
+Guéssinga  ,  l’herbe
+Guessouete ,  rhume
+Guessoure ,  paie
+Guessoure ,  flatulente 
+Guétabé ,  aller bien
+Guètagua ,  circoncire 
+Guétambo ,  piège
+Guetawa ,  natte
+Guetsatsa ,  chenille 
+Guétsotsotsotso ,  papillon 
+Guewa ,  verre
+Guewanguio ,  la hache 
+Guewasso  ,  lime
+Guewasso  ,  tronçonneuse 
+Guobèda  ,  respecter 
+Guoguegnogue moro ,  à droite 
+Guoguegnogue rêto ,  à gauche 
+Guo donguou ,  en aval
+Guo éko ,  en amont 
+Guo katsè ,  à l'intérieur 
+Guo kaba ,  au milieu 
+Guo tsénié ,  au bord de 
+Guokobango ,  à côté 
+Guomo ,  peur
+Guondé  ,  pourquoi
+Guonè ,  là-bas 
+Guotongoni ,  loin 
+Guougnagua ,  balancer
+Habi ,  feuille
+Héaki  ,  mouche
+Hêba ,  la maison
+Hitsa  ,  donner
+Hoboguo ,  pêcher
+Hodoguo ,  dure
+Hodoni ,  mûre 
+Hodoni ,  personne mûre 
+Hohambédi ,  préparation 
+Homanda ,  soleil
+Homanda ,  le jour
+Idia ,  maman 
+Idiè ,  mère 
+Imbo ,  moustique 
+Indjoha ,  chien 
+Itsagua ,  donner
+Kaba ,  milieu
+Kabagua  ,  partager
+Kadi ,  la sœur 
+Kangagua ,  griller 
+Katsa ,  le peigne
+Katsè ,  intérieur
+Kêba ,  les larmes 
+Kêbanghana ,  se soucier 
+Kêhagua ,  aller
+Kêhagua ,  partir 
+Kéma ,  singe
+Kida ,  tarot
+Kidagua ,  repasser
+Kitcha ,  coupe
+Kitcha ,  cisaille
+Kitchagua ,  Couper
+Kitchagua ,  cisailler 
+Kitsangana ,  traverser
+Kitsangana ,  traverse 
+Kobango ,  à côté
+Kognoguo ,  se reposer
+Kognoguo ,  faire la sieste 
+Kombé ,  soleil
+Kodo ,  rat palmiste
+Komboha  ,  saluer
+Kondagua ,  traverser
+Kondo ,  fesse
+Kongui  ,  cils
+Kouda  ,  noisette
+Koukégua  ,  fermer
+Kowè  ,  poils
+Mabéguo ,  histoires
+Mabéguo ,  choses 
+Mabênê ,  les seins
+Mabo ,  pu
+Maboumba ,  les intestins
+Mabwéta ,  patates 
+Madimèti ,  allumettes 
+Madoukou ,  vin
+Madoukou ,  boisson 
+Madoukou ma niégue ,  jus 
+Maké ,  œufs
+Manguê ,  lamantin 
+Massaguou ,  atanga 
+Massani ,  cartouches 
+Massiguo ,  atanga sauvage 
+Matangotango  ,  le conte 
+Matê ,  crachat
+Matoki ,  les injures 
+Matoto ,  banane sauvage 
+Mawo ,  mêmes
+Mawoté ,  teignes
+Mawoua ,  cerveau
+Mbèdè  ,  sardine fumée 
+Mbédi ,  rivière
+Mbêguo ,  depuis longtemps 
+Mbéka ,  marmite
+Mbida ,  noix de palmes
+Mbida ,  noix 
+Mboda ,  endroit
+Mboda ,  lieu
+Mboda ,  place 
+Mbogua ,  médicament 
+Mboka ,  village
+Mboma ,  poitrine
+Mbombé  ,  boulette
+Mbonga ,  odeur
+Mboté ,  grosse gifle
+Mboua ,  la pluie
+Mbouti ,  bouteille
+Mbouti a madoukou ,  bouteille de vin 
+Mê ,  moi
+Mê ,  je
+Mègnagua ,  connaitre 
+Mêko ,  olive
+Mèma ,  avoue 
+Mèmagua ,  avouer 
+Mênè  ,  demain
+Miâ ,  boyaux
+Miba ,  mangue sauvage
+Mibéro ,  tubercules
+Miguoguou ,  margouillats
+Miguoto ,  la rivière
+Mikanda ,  pagnes
+Mikéko ,  les barrages
+Mikéko ,  les contrôles
+Mikoko ,  Les cannes à sucre 
+Mikoko ,  Sucre 
+Mimbo ,  les chansons
+Minanga ,  étoiles
+Minitèdi ,  militaire
+Mino ,  les dents
+Mipendé ,  pieds
+Missapi ,  les clefs 
+Missawi ,  doigts
+Misso ,  yeux 
+Mitangotango ,  les contes 
+Mitsé ,  têtes
+Mitsouma  ,  fauchettes 
+Miumbou  ,  les lèvres 
+Moâ  ,  le boyau
+Mobâ ,  mort subite
+Mobate ,  slip
+Mobéguo ,  tubercule
+Moboguani ,  le soigneur
+Moboguani ,  le médecin 
+Mobongo ,  le pygmée
+Modanga ,  claire de lune
+Modessi ,  Le riz
+Modiako ,  nourriture
+Modioussoumedou ,  le dernier
+Modioussoumedou ,  la dernière
+Modombo ,  sceau
+Modombo a mêba ,  sceau d'eau 
+Modoumou ,  tonnerre 
+Modouma ,  serpent noir
+Mogna  ,  bouche
+Mogna’a  ,  grenouille
+Mogno ,  vie
+Mogonga ,  cou
+Moguèngani ,  le coiffeur 
+Moguangou ,  la saveur 
+Moguèto ,  la femme 
+Moguodo ,  sorcière 
+Moguoguou ,  margouillat 
+Moguomba ,  barrière 
+Mohambinè ,  le préparateur 
+Mokabo ,  limite
+Mokama ,  cinq cent 
+Mokanda ,  pagne 
+Mokandè ,  pantalon 
+Mokèdi  ,  l'autre
+Mokéko ,  barrage
+Mokéko ,  contrôle 
+Mokenghè ,  renard blanc 
+Mokiapindi  ,  charpentier 
+Mokobé ,  tuerie
+Mokoka ,  renard noir
+Mokoko ,  La canne à sucre.
+Mokoko ,  Le sucre
+Mokondjinè ,  l'arrangeur
+Mokondjinè ,  le réparateur 
+Mokondo ,  la queue
+Mombé  ,  chance
+Mombéna  ,  le chasseur
+Mombi  ,  banane mûre
+Momoguo  ,  l'homme
+Monanga ,  étoile
+Mondjambou  ,  jeune garçon 
+Mondomba  ,  un riche
+Mondomba  ,  le riche 
+Mongo  ,  les ethnies
+Mongo  ,  les langues 
+Mongombé ,  crocodile 
+Mongongo ,  sitar 
+Mongongo ,  arc à bouche
+Mongongo ,  boite
+Monombè  ,  race noire
+Mopa’a  ,  banane 
+Mopa'a  ,  doigt de banane
+Mopango  ,  un Fang
+Mopèmba  ,  le pain
+Mopendé  ,  pied
+Mopindi ,  campement
+Mopiti ,  manioc
+Mopouma ,  année
+Mopounou ,  un punu
+Mosi mokobé ,  l'assassin
+Mosi mokobé ,  le tueur
+Mossaguo ,  machette
+Mossapi ,  la clef
+Mossawi ,  doigt
+Mossiassia ,  un ghisir
+Mossoba ,  bon
+Mossoba ,  bonne
+Mossoba ,  jolie
+Mossoba ,  belle
+Mossoè  ,  fesse
+Mossoè  ,  cul
+Mossomba  ,  tam-tam 
+Mossouda ,  la purée
+Mossowè ,  cul
+Motabé ,  branche 
+Motamba ,  racine 
+Motanda ,  la cuisse 
+Motatinè ,  le couturier 
+Motéma ,  cœur 
+Motèndinè ,  l'écrivain
+Motèndinè ,  l'écrivaine
+Motibongo ,  tordu
+Moto  ,  cendres 
+Motoba ,  six 
+Motongo ,  le pilon 
+Motongou  ,  nombril 
+Motonissa ,  cinq mille 
+Motsé ,  tête
+Motséwi ,  le joueur 
+Motsouma  ,  fauchette
+Moumbou  ,  la lèvre
+Mowango  ,  touraco 
+Mowangui ,  abatteur 
+Mowangui ,  le créateur 
+Mowanguinè ,  le créateur 
+Mowi ,  l'abeille
+Mowo ,  autre
+Mowo ,  l'autre 
+Mwambi  ,  préparateur 
+Mwambo ,  sacrifice 
+Mwana ,  enfant
+Mwanè ,  enfant 
+Mwanenghé  ,  petit 
+Mwétso  ,  plaie
+Na  ,  Et
+Na  ,  Avec
+Ndambo  ,  ballon
+Ndambo  ,  caoutchouc
+Ndambo  ,  bidon
+Ndémbo  ,  signe 
+Ndiba ,  surdité 
+Ndjeha ,  route
+Ndjeha ,  piste 
+Ndjiguo ,  chimpanzé 
+Ndjima ,  dix 
+Ndjoka ,  pénis 
+Ndjotsi ,  chat
+Ndjotsi ,  chatte 
+Ndomé ,  le frère 
+Ndongui ,  conseil 
+Ndonguidiè ,  conseils 
+Ndoti  ,  rêve
+Nengagua ,  apprendre
+Nengagua ,  étudier 
+Ngadi ,  tornade
+Nganga ,  charlatan
+Nganiè  ,  acide
+Ngodi  ,  ronflement
+Ngomba ,  porte-épic
+Ngombi  ,  guitare
+Ngomo  ,  tam-tam
+Ngombè  ,  le varan
+Ngondè ,  mois
+Ngoto ,  scorpion
+Ngoubou ,  chute d'eau
+Ngoubou ,  hippopotame
+Ngoyi ,  le t-shirt
+Nguia ,  gorille
+Nguiî  ,  cimetière
+Nguina ,  poux
+Niawo ,  vite
+Niénguio ,  vouloir
+Nikagua  ,  plier
+Nikagua  ,  retourner
+Niniagua ,  Pisser
+Niniagua ,  uriner
+Nyama ,  viande
+Nyama guo pindi ,  la viande de brousse 
+Nyèguè  ,  sucrée
+Nyoguo  ,  serpent 
+Nyohi  ,  oiseau 
+Nyongo ,  mille pattes 
+Nza’a  ,  la faim 
+Nzambé ,  Dieu 
+Nzègu ,  panthère 
+Nzibo ,  antilope noir 
+Nzoka ,  le pénis 
+Nzokou ,  éléphant 
+Nzonghé ,  le foie
+Oba’a ,  ciel
+Obwéti ,  la cuillère
+Odessi ,  cassable
+Oka ,  allons
+Oka  ,  aller
+Okagni ,  allons-y
+Okeya  ,  se laver
+Okoguo ,  comprendre
+Okoha  ,  éplucher
+Okondo ,  banane
+Okouké ,  le couvercle
+Okouké ,  la porte
+Ogui ,  voix
+Oguio ,  folie
+Oguoguo ,  bras
+Oma ,  personne
+Oma ,  gens
+Omanga ,  manguier
+Omba  ,  la porte
+Ombamba ,  route
+Ombéna ,  la chasse
+Ombo ,  le miel
+Omèni ,  la langue de la bouche
+Omèni ,  la langue 
+Ongongo  ,  matin
+Onièpa ,  être belle
+Onièpa ,  tu es beau
+Onièpa ,  tu es belle 
+Opomo ,  guêpe
+Opondou ,  chaussure
+Otangana ,  dépasser
+Otenda  ,  bois amère 
+Oto ,  corps
+Ossono ,  liane
+Ossouna  ,  mouche tsétsé 
+Owa ,  mort
+Owemba ,  la méchanceté 
+Owoha ,  laver
+Owohaka ,  lave
+Padagua ,  Gaspiller
+Padagua ,  violer 
+Padi ,  emprunte d'animal 
+Pagua  ,  doute
+Pambo ,  ver de terre 
+Panda ,  la paresse
+Pango ,  Fang
+Patsagua ,  chasser
+Payi  ,  vieux
+Payi  ,  âgée
+Payi  ,  grand
+Payi  ,  grande 
+Pêkagua ,  monter
+Pèmba ,  le kaolin
+Pénda ,  arachide
+Pièwia ,  mal
+Pièwia ,  douleur
+Pika ,  couvre
+Pikagua ,  couvrir
+Pindi ,  brousse
+Pindi ,  forêt
+Pingo ,  plusieurs
+Pingo ,  beaucoup 
+Pitsi ,  la nuit
+Pô’o ,  nyembwe
+Pohé ,  testicule
+Pondou ,  chaussures 
+Popêdaka ,  calmer 
+Pota ,  blessure
+Poto ,  maïs 
+Poupagua  ,  bouger
+Sambagua ,  délivrer 
+Sambéda ,  prier
+Sandada ,  policier
+Sandada ,  gendarme 
+Sèwoa ,  choisir
+Somba ,  paie
+Somba ,  payé 
+Sombagua ,  acheter 
+Soto ,  le feu 
+Soumagua ,  descendre 
+Soumbéda ,  attraper 
+Soumédâ ,  déposer 
+Sowé ,  la soif
+Tata  ,  cous
+Tatagua  ,  coudre
+Tatotato  ,  faire la division de la famille
+Tatotato  ,  avoir plus de considération pour quelqu'un par rapport à un autre.
+Tawoudé  ,  table
+Têmagua  ,  se lever
+Têmagua  ,  se mettre débout 
+Tèndagua  ,  écrire
+Tengagua  ,  compter
+Tengouna  ,  lire
+Tênogua  ,  glisser
+Téta ,  papa
+Tétè ,  père
+Timbè ,  la planche
+Tobi ,  excréments
+Todo  ,  serviette
+Tokoha ,  injurier
+Tomagua ,  envoyer
+Tombéda ,  éclairer
+Tombo  ,  jeune fille
+Tongoguo  ,  clac sonner
+Tongongo  ,  petit ver présent dans l'œil 
+Toto  ,  Terre
+Toto  ,  terre
+Toubéda  ,  montrer
+Touhagua  ,  cracher
+Toumagua  ,  fusiller
+Toumbagua ,  brûler
+Toungou  ,  endroit
+Toungou  ,  lieu
+Toungou  ,  place 
+Tsagua  ,  plantation
+Tsango  ,  nouvelle
+Tsembwé ,  sept
+Tséndé ,  écureuil
+Tsèndè ,  épine
+Tsènghê  ,  pays
+Tsènghê  ,  monde
+Tsènghênè ,  pays
+Tsènghênè ,  monde 
+Tsétsi ,  gazelle
+Tséwagua ,  jouer
+Tsibidi ,  hérisson
+Tsinghaï ,  concurrence
+Tso ,  corbeille
+Tsogué ,  cheveux
+Tsoguoguo ,  souffrir
+Tsoguoto ,  aisselle
+Tsongui ,  aiguille
+Tsongo ,  chambre
+Tsoguo ,  prison
+Tsombè ,  agoutis
+Tsombè ,  hannetons 
+Tsono ,  semaine
+Tsono ,  dimanche
+Tsouakagua ,  piler
+Tsouma ,  couteau
+Tsoutsagua ,  Coucher avec 
+Tsoutsagua ,  Baiser
+Twohagua ,  chanter
+Waguèwaguè ,  doucement
+Waguèwaguè ,  lentement 
+Wangagua  ,  abattre
+Wango ,  être dans.
+Wapéwapé ,  proche
+Wembo ,  blanc
+Wembo ,  blanche 
+Wè ,  nous
+Wianga ,  sel
+Widi ,  ville
+Wigua ,  viens 
+Wigua ,  venir
+Wipesou  ,  peu
+Woto ,  berce
+Wotoguo ,  bercer
+Wotsagua  ,  limer
+Wotsagua  ,  aiguiser 
+Woutégua  ,  emballer
+Wowagua  ,  couler
+Na nyongio tsoutsa na mogueto a gueb amba  ,  Je veux coucher avec une femme blanche.
+Na panghié tsoguo guo denga mbodanè doé  ,  J’avais d’abord souffert pour avoir la place là.
+Pango nè andé pidi asi mokobé  ,  Les fang sont vraiment des assassins
+Mê na cousi mapangha o éboudi à idi à mi  ,  Je suis le premier né de ma mère
+abi  ,  la feuille.
+eake ,  l'oeuf.
+pivi  ,  l'aubergine.
+poto  ,  le maïs.
+obubu  ,  la gencive.
+ghepèpe  ,  la brise.
+paii  ,  le vieillard
+mobeii  ,  le malade
+ngoii  ,  l'habit
+ebuii  ,  le ventre.
+wami  ,  le mien
+elavea  ,  tomber.
+yiyo  ,  le sommeil
+kyapi, l'amorce.
+gegiyo, le fou
+gegiyo, la folle.
+djue, les cheveux blancs.
+moma, l'homme
+mbadi, la cour
+mboka, le village.
+nane, ainsi
+ndéo, le temps
+ngadi, la foudre.
+nyama, l'animal
+nyoï, l'oiseau.
+oma, l'objet
+mavasa, les jumeaux.
+tsavu, le savon
+tsèghè, le mandrill
+tsina, la base
+tsoi, la honte
+tsuma, le couteau.
+muana momogho, un enfant garçon
+ana a moghoo, des enfants garçons
+muana moghèto, une enfant fille
+ana a ghèto, des enfants filles
+taba a mome, un bouc
+taba a moghadi, une chèvre
+taba ya miome, des boucs 
+taba ya mighadi, des chèvres
+amanga, une mangue
+emanga, une mangue
+mimanga, des mangues
+bamanga, des mangues
+ghepa, un os
+epa, des os.
+Mèba, l'eau
+madi, l'huile
+maduku, le vin de palme
+mavua, la cervelle
+ndjina, le sang
+ngudi, la force
+Kuda, une noix
+kuda, des noix 
+mboka, un village
+mboka, des villages 
+ndjea, un sentier
+ndjea, des sentiers 
+tsoso, une poule
+tsos, des poules 
+viyo, une torche
+viyo, des torches
+Obenda, un rasoir
+okondja, une paille
+ongoda, un copeau 
+оpapa, une aile
+benda, des rasoirs
+kondja, des pailles
+ngoda, des copeaux
+papa, des ailes
+momogho, l'homme
+moghèto, la femme
+moghènda, l'étranger
+monughi, le pagayeur
+moyandji, le travailleur
+movegha, l'esclave
+amomogho, les hommes
+amoghèto, les femmes
+amoghènda, les étrangers
+amonughi, les pagayeurs
+amoyandji, les travailleurs
+amovegha, les esclaves
+mosingi, la genette
+mobaka, la mangouste
+moghèna, la puce
+monyaa, la grenouille
+movèghè, la sauterelle
+mokoko, la canne à sucre
+motove, la savane
+mopaka, le nouveau village
+mosapi, la clef
+mosavi, le doigt
+misingi, les genettes
+mibaka, les mangoustes
+mighèna, les puces
+minyaa, les grenouilles
+mivèghè, les sauterelles
+mikoko, les cannes à sucre
+mitove, les savanes
+mipaka, les nouveaux villages
+misapi, les clefs
+misavi, les doigts
+muandja, la toiture
+muanga, la barre de fer
+muata, le chenal
+muèdi, l'épervier
+muèngè, le brochet
+miandja, les toitures
+mianga, les barres de fer
+miaata, les chenaux
+mièdi, les éperviers
+mièngè, les brochets
+Ekökö, le lit
+Epaaki, le bonnet 
+Etae, la pierre
+Esèngi, le chiffon
+Eboota, le clan
+Makökö, les lits
+Mapaaki, les bonnets  
+Matae, les pierres
+Masèngi, les chiffons
+Maboota, les clans
+ghebogha, le champ
+gheyöbò, la civette  
+ghesambi, le panier
+ghetava, la natte
+ghetete, l'arbre
+ebogha, les champs
+eyöbö, les civettes  
+esambi, les paniers
+etava, les nattes
+etete, les arbres
+ina, le nom 
+ino, la dent 
+isö, l'oeil
+imbo, le chant
+iba, la mangue
+mina, les noms
+mino, les dents
+misö, les yeux
+mimbo, les chants
+miba, les mangues
+bisi, la cour arrière
+dambi, la lampe
+kema, le singe
+mbongo, la pirogue
+bisi, les cours arrières
+dambi, les lampes
+kema, les singes
+mbongo, les pirogues
+ndjoma, le buffle
+ngando, le crocodile
+nyösi, le silure 
+penda, l'arachide
+tsèndè, l'épine
+taba, la chèvre
+ndjoma, les buffles
+ngando, les crocodiles
+nyösi, les silures
+penda, les arachides
+tsèndè, les épines
+taba, les chèvres
+opombo, le nez
+obueti, la cuillère
+okuke, la porte
+osuna, la mouche rouge
+oeko, l'écorce
+oèngu, l'ortie
+dipombo, les nez
+dibueti, les cuillères
+dikuke, les portes
+disuna, les mouches rouges
+yeko, les écorces
+yèngu, les orties
+obandja, la latte de raphia
+okondja, la feuille de raphia
+oköndö, la grosse banane
+oköngi, le cil
+opapa, l'aile
+otako, la feuille de tabac
+bandja, les lattes de raphia
+kondja, les feuilles de raphia
+köndö, les grosses bananes
+köngi, les cils
+papa, les ailes
+tako, les feuilles de tabac
+osaa, la plume
+osoghe, le cheveu
+osono, le lien de rotin
+tsaa, les plumes
+tsoghe, les cheveux
+tsono, les liens de rotin
+soma, l'objet
+sobe, le plantoire
+sötö, le feu
+sate, le fragment
+sèngèsè, la coque
+yoma, les objets
+yobe, les plantoires
+yötö, les feux
+yate, les fragments
+yèngèsè, les coques
+Motangaii, l'européen
+monombe, le noir
+mosumbe, le notable
+mosugha, l'indigent
+mosuudu, l'adolescent
+mitangaii, les européens
+minömbe, les noirs
+misumbe, les notables
+misugha, les indigents
+misuudu, les adolescents
+Moa, l'intestin
+monya, la bouche
+mia, les intestins
+mionya, les bouches
+Moonda, le fruit
+mionda, les fruits
+moongo, le bec
+miongo, les becs.
+Eöbo, l'hameçon
+eöngo, la langue
+möbo, les hameçons
+möngo, les tribus
+Endjwa, le chien
+eta, la fois
+Bota, le fusil
+tota, les fusils
+Eba, la case
+abi, la feuille
+ata, l'ongle
+yèba, les cases
+yabi, les feuilles
+yata, les ongles.
+oso, le visage
+oto, la corps
+dioso, les visage
+yoto, les corps 
+Oghogho, le bras
+möghö, les bras
+Okodo, la jambe
+makodo, les jambes
+va, l'endroit
+voma, l'endroit
+va, la place
+voma, l'endroit
+viyo, la résine
+vianga, le sel
+ana, des enfants
+ana è, les enfants
+ghetete è, l'arbre
+mboka nè, le village
+mitove miè, les savanes
+ghepèdè sa iya, l'assiete de ma mère
+mboka ya Mitsöghö, les villages Mitsöghö
+ghepèdè, l'assiette
+iya : mère
+ghevövi, l'orateur
+moambi, cuisinier, 
+amba, cuire
+monughi, pagayeur
+etöki, insulte
+evovo, parole 
+vövö, parler
+moghino, danse
+ghina, danser
+osambo, prière
+samba, prier
+ebèa, maladie
+evunda, grosseur
+okèdi, démarche
+ovövèdi, expression
+bèa, être malade
+vunda, être gros
+marcher, kèa
+mbogha, remède
+okuke, fermeture
+ghebateo, échelle
+gheghömböö, balai
+ghetambo, piège
+bogha, guérir
+kukegha, fermer
+bata, monter
+ghömbö, balayer
+tamba, piéger
+mabèa, les maladies
+evövö, la palabre
+mavövö, les palabres
+asaï a ghebamba, les ouvriers du blanc
+asaï a ebamba, les ouvriers des blancs
+motabe a oghuma, la branche du fromager
+mitabe mia dighuma, les branches des fromagers
+ekönghö a köda, l'aiguille d'une montre
+maköngò ma köda, les aiguilles des montres 
+ghesambi sa moghètò, le panier de la femme
+esambi a aghètö, les paniers des femmes
+ino a ndjèghö,  la dent de la panthère
+mino ma ndjèghö,  les dents des panthères
+tsuma a muana,  le couteau de l'enfant
+tsuma y a ana, les couteaux des enfants
+okuke a éba,  la porte de la maison
+dikuke ya yèba, les portes des maisons 
+sate a apemba,  le morceau de pain
+yate a pemba, les morceaux de pain
+vi-ngando via Abongo , le petit campement des pygmées 
+to-ngando ta Aböngo , les petits campements des pygmées
+mikodi mia gho Matènde, les collines de Matendé 
+etete a gho pindi, Les arbres de la forêt
+tsagha ya gho Matadi, Les plantations de Matadi
+momoghöo movoni, l'homme grand
+mokodi ovoni, la montagne grande
+etae evoni, la pierre grande 
+ghetete ghevoni, l'arbre grand
+ino evoni, la dent grande 
+mboka eponi, le village grand
+opombo ovoni, le nez grand 
+soma ghevoni, l'objet grand
+amoghöo avoni, les hommes grands
+mikodi mivoni, les montagnes grandes
+matae mavoni, les pierres grandes
+etete evoni, les arbres grands 
+mino mavoni, les dents grandes
+mboka diponi, les villages grands 
+dipombo diponi, les nez grands
+yoma evoni, les objets grands
+momoghöo moghè-moghè, l'homme petit
+mokodi oghè-oghè, la montagne petite
+etae eghè-eghè, la pierre petite
+ghetete gheghè-gheghè, l'arbre petit
+ino eghè-eghè, la dent petite 
+mboka eké-eké, le village petit
+opombo oghè-oghè, le nez petit
+soma gheghè-gheghè, l'objet petit
+vi-taba vighè-vighè, le tout petit cabri
+amoghöo aghè-aghè, les hommes petits
+mikodi mighè-mighè, les montagnes petites
+matae maghè-maghè, les pierres petites
+etete eghè-eghè, les arbres petits
+mino maghè-maghè, les dents petites
+mboka diké-diké, les villages petits
+dipombo eghè-eghè, les nez petits
+yoma eghè-eghè, les objets petits
+to-taba toghè-toghè, les tout petits cabris
+mosoba, bon
+mosoba, beau
+mobongo, entier, 
+mobongo, complet
+mobongo, spécial
+Moma a mosoba, un brave homme
+Öma a misoba, de braves gens
+Ghekoondo sa mobongo, une carpe entière
+Ekondo a mibongo, des carpes entières.
+momoghoo a ekadogha,  un homme orgueilleux
+ana a dikata,  des enfants paresseux
+maghanga ma ndo, un remède amer
+mitema mia ngusu, des coeurs jaloux
+kema ya mavono, des singes malins
+ebegho a tsoii, une chose honteuse
+endjuwa a modoko, un chien gourmand
+mèba ma epio, de l'eau chaude
+Pökö, un
+mövö, un
+övö, un
+ghevö, un
+evö, un
+epö, un
+abae, deux
+mibae, deux
+mabae, deux
+ebae, deux
+dibae, deux
+tato, trois
+atato, trois
+mitato, trois
+etato, trois
+ditato, trois
+nai, quatre
+anai, quatre
+minai, quatre
+enai, quatre
+dinai, quatre
+tai, cinq
+atai, cinq
+mitai, cinq
+matai, cinq
+etai, cinq
+ditai, cinq
+motoba, six
+tsabuè, sept
+ghenana, huit
+etai n'enai, neuf
+ndjima, dix
+ndjima na movö, onze
+ndjima n'abae, douze
+ndjima dibae, vingt
+ndjima motoba, soixante
+ndjima ditai na dinai, quatre-vingt-dix
+mokoma, cent
+mikoma mitato, trois cents
+mikam tsambwè, sept cents
+mikama mitai na minai, neuf cents
+tösina, mille
+tonisa, mille
+tösina dinai, quatre milles
+ndjima a tösina, dix milles
+mokoma a tösina, cent milles
+tösina a tösina, un million
+momoghöo a mapanga, le premier homme
+mokodi a mobae, la deuxième colline
+ghesambi sa motato, le troisième panier 
+ngondè a monai, le quatrième mois
+endjuwa a motai, le cinquième chien
+inya a motoba, le sixième jour
+gheghaa sa tsambwè, la septième caisse
+ghetete sa motai na monai, le neuvième arbre
+evanga a ndjima, le dixième commandement
+lmuana a gho ngima, le dernier enfant
+ghebendeke, morceau
+ghebendeke sa mopiti, un demi-manioc
+sate sa degha, un demi biscuit
+motena a madi, une demi-bouteille d'huile
+vi bendeke via mopati, un quart de manioc
+vi sate via mbaa, un quart d'igname
+vi tena via mbuti, un quart de litre
+Kadi ami, ma soeur.
+Ghebogha soo, ton champ.
+Ghebogha soo, ton champ.
+mikanda, ses pagnes
+mièdi, ses pagnes
+to taba tao, leurs petites chèvres
+Kadi ami, ma soeur.
+Ghebogha soo, ton champ.
+Tsuma ami, mon couteau
+tsuma nè yami, ce couteau est à moi
+tsuma tè yami, ce couteau est à moi
+Muan'ami, mon enfant
+"Muan'ö, wanda? tè wami." , "A qui est cet enfant? c'est le mien."
+Mbok'aso e tôngo, notre village est loin d'ici
+Mbokande e ênano ghonè? tè yaso,  quel est le village qu'on aperçoit là-bas? c'est le nôtre. 
+"Ghepède ghè ghe boeghi ni, sa nda? Tè söö.", A qui est l'assiette cassée ? Elle est à toi.
+moma nè oo, cet homme-ci
+moma né onè, cet homme-là
+Ana è aa, ces enfants-ci
+ana è anè, ces enfants-là.
+"mokanda o nyongheo mè tè oo, kaka onè", "c'est cette étoffe-ci que je veux, et non pas l'autre."
+Na ghabi etete ehae: eghe ghe boti mionda miè; ghenè ghe si bota, j'ai planté deux arbres: celui-ci a produit des fruits, celui-là est sans fruits.
+mèe, moi
+mi, moi
+na, je
+mi, je
+ewe, toi
+ewe, te
+gho, toi
+gho, te
+angho, lui
+angho, le
+angho, elle
+angho, la
+mo, lui
+mo, elle
+mo, le
+mo, la
+o, tu
+wèè, nous
+to, nous
+anye, vous
+no, vous
+aangho, Eux
+aangho, elles
+ango, lui
+èdi, lui
+a, il
+a, elle
+tè ango, c'est lui
+Ewè inda?, Qui es-tu? 
+dighaka na mi, Reste avec moi 
+kèaka n'edi., Pars avec lui.
+kaka mèè, ce n'est pas moi
+na èni, j'ai vu
+o pati, tu mens
+a èbogho gho Divanga, Il a couché à Divanga
+to dingoii kuda, nous avons ramassé des noix
+no sokéda pèpè, vous faites trop de bruit
+aa nga vigha mènè, ils viendront
+va ma botu mèè, quand je suis né
+va nga buea wè gho Evuta, Lorsque nous arriverons à Evuta
+kema nè e yoiki ewè, Le singe que tu as tué
+sika nè e ma bènda anyè, l'argent dont vous avez parlé
+mboka nè e ma ghwa ango, le village où il esyt décédé
+o bönö mèè, tu me regardes
+a tököi ewè, Il t'a insulté
+itsa ango, Donne-lui
+A sa nga gho mènya, Il ne te reconnaîtra pas
+na nga mo bomoa, je le frapperai
+a bambea wèè,  il nous appelle
+na vighi gho e-no èna, je suis venu pour vous voir
+Mapadi a ghwe gho Byogho, Mapadi est mort à Byogho. 
+Kéma yè di amugha, les singes hurlent.
+Ghépède ghè sèdi ghe boeghi son assiette est cassée. 
+Miba mè ma ombi, les mangues sont mûres.
+mèè dota, moi aussi
+ango dota, lui aussi
+anyè dota, vous aussi
+mèmuènè, moi-même
+omuènè, toi-même
+amuènè, lui-même
+amuènè, elle-même
+wèène, nous-même
+anyènè, vous-même
+aanguènè, eux-même
+aanguènè, elles-même
+mokodi a Ghendingo o töngo pèpè, Le mont Ghendingo est très élevé
+obueti ami aa o isui., Ma cuillère, ils l'ont volée. 
+mikoko miami ango lè a bongi miango., mes cannes à sucre, c'est lui qui les a prises
+maghumba me mane, no sa nga ongoa e ma tsuaa. , Ces charges-là vous ne pourrez pas les porter
+ghesambi sami ghe lubeghi. , Mon panier est percé
+gheköngo sèdi, a ghe tsiki gho pindi. ,  Sa hâche, il l'a laissée dans la forêt.
+O néa dingoi sango, inda? , Qui est-ce qui l'a trouvée? 
+Le sel est fini, vianga vie vi ghoghi. 
+"Les petits enfants du village, je ne les ai pas encore vus",  "lo-amange la ghio mboka, madeo tsi êna lango." 
+"Toi aussi tu est paresseux" , "ewè dota, onde na okala."
+C'est lui-même qui l'a dit, amuènè tè a ma bènda nanè.
+muètsö, tout
+muètsö, chaque
+movö, l'un
+movö, l'une
+muènè, un autre
+movö, l'autre
+oma è muêtsò, Tous les hommes
+oma è muètsò, Tous ces hommes
+ghesevo ghe sètso, Toute la saison sèche
+mikodi mie miètso, Toutes les montagnes 
+to taba tami têtsò, Tous mes petits cabris 
+ngöi vö vèrso, Tous tes habits
+a bongi vianga viè viètso, Il a pris tout le sel
+vianga viaso vietso, Tout notre sel
+wèè muetso , Nous tous
+ango muètso, Eux tous
+wènè oma, d'autres hommes
+sènè ghesevo, une autre saison sèche
+muènè mikodi, d'autres montagnes
+a si itsa mè viènè vianga, il n'a pas donné d'autre sel
+a nga vigha nènè kuka, il veindra une autre fois
+Ana avö, quelques enfants
+avò ana, les autres enfants 
+Eba ovö, l'une des cases
+ovö éba, L'autre case 
+Mboka dipö, quelques villages
+Dipö mboka, les autres village 
+"Vivò vianga, viango vini?",  "Où est l'utre sel?"
+Viango vivò vi kunughi va tsina, il est tombé un peu de sel par terre.
+bambea mè simbè , Appelle-moi le sieur un tel 
+simbè na bokaye. , Un tel et un tel 
+mè na bèndio na onè , C'est un tel qui me l'a dit
+onè tè abèndi mèè , C'est un tel qui me l'a dit
+inya a mobongo , Toute une journée 
+ngönde a mobongo , tout un mois 
+ghema sa mobongo , Toute une année
+tè vetsò , C'est tout 
+te vetsö vane , c'est tout
+vi-tako , un peu de tabac
+vi-desi , un peu de riz
+to-penda, Quelques arachides 
+to-köndò , quelques grosses bananes
+to-vianga, Un peu de sel
+to-mèba , un peu d'eau
+pèngö na, aucun
+pèngö na, pas un
+pèngö na moma movö, aucun homme
+ta pèngö na pèsu, pas même un peu
+soma, rien
+ebegho, rien
+ta böbö, rien
+a si itsa soma, il n'a rien donné
+a si bènda ebegho, il n'a rien dit
+a kambogha ta böbö, il se fâche pour rien
+O buta ndé ? tsa buta , Que désires-tu ? Je ne désire rien
+a bèndi mbè nde ? A si bènda , Qu'ont-ils dit? Ils n'ont rien dit
+oni ? , quel ?
+ani ? , quels ?
+ani ? , quelle ?
+ani ? , quelles ?
+oni ? , lequel ?
+oni ? , laquelle ?
+ani ? , lesquels ?
+ani ? , lesquelles ?
+"movegha nè a busughi, oni?" , "Lequel des esclaves s'est enfui?"
+Na èni mboka dibae. Dini? Ghadjumba na Döndö. , J'ai vu deux village. Lesquels? Ghaumba et Döndö
+Ghetava nde ghe nyongheo ewè? , Quelle natte veux-tu?
+"Mokodi miè minè, mini?"  , "Quelles sont ces montagnes que voilà?"
+Moma nde? , Quel homme?
+inya nde? , Quel jour? 
+voma nde? ou yoma eni? , Quels objets?
+Ghepède ghè söò gheni? , Quelle est ton assiette? 
+Onè a ma kondja wèè inda? , Qui nous a crées?
+"Oma è anè, anda?" ,  "Qui sont ces gens-là?"  
+O buta nde? , Que veux-tu? 
+Abôngi nde? Abônghi soma nde? , Qu'a-t-il pris?  
+Inde? , Qu'est-ce?  
+Mbè nde? , Quoi? 
+Kuka dike? , Combien de fois? 
+Esambi ekè? , Combien de paniers? 
+Amogho akè? , Combien d'hommes? 
+Ande ghoni? , Où est-il?
+Okêa na ghoni? , Où vas-tu?
+A somiki vani? , Où s'est-il caché? 
+O tsiki tsuma ami vani? , Où as-tu laissé mon couteau? 
+bata , monter
+suma , descendre
+oko , entendre
+bönö , regarder
+bomu , se tromper
+bomu , ignorer
+na èna , je vois
+o èna , tu vois
+a èna , il voit
+to èna , nous voyons
+no èna , vous voyez
+aa èna , ils voient
+ekèa , s'en aller
+evigha , venir
+eböngo , prendre
+vigha , prends
+böngö , prends
+vighani , venez
+böngöni , prnez
+ea , manger
+enyua , boire
+eghua , mourir
+aka , mange
+nyuaka , bois
+kèaka , va-t'en
+ghuaka , crève
+ghuaka , meurs
+akani , mangez
+nyukani , buvez
+kèakani , allez-vous-en
+ghuakani , crevez
+ghuakani , mourrez
+na èni , j'ai vu
+na èniki , j'ai vu
+na ma èna , j'ai vu (il y a longtemps)
+na ma ènaka , j'ai vu (il y a longtemps)
+na nga èna , je verrai
+na nde , je suis
+na ndeke , je suis
+eba , être
+edighaa , exister
+edighaa , rester
+a nde na kavi , il a une pagaie
+o sa ba na motse , tu n'as pas de tête
+o nde , tu es
+o ndeke , tu es
+a nde , il est 
+a ndeke , il est
+to nde , nous sommes
+to ndeke , nous sommes
+no nde , vous êtes
+no ndeke , vous êtes
+aa nde , ils sont
+aa ndeke , ils sont
+na baki , j'étais
+o baki , tu étais
+a baki , il était 
+to baki , nous étions
+no baki , vous étiez
+aa baki , ils étaient
+na baki , j'ai été
+o baki , tu as été
+a baki , il a été 
+to baki , nous avons été
+no baki , vous avez été
+aa baki , ils ont été
+na ma baka , j'étais
+na ma baka , j'ai été
+o ma baka , tu étais
+o ma baka , tu as été
+na nga ba , je serai
+o nga ba , tu seras 
+a nga ba , il sera
+to nga ba , nous serons
+no nga ba , vous serez
+aa nga ba , ils seront
+na bake , que je sois
+o bake , que tu sois
+a bake , qu'il soit
+to bake , que nous soyons
+no bake , que vous soyez
+aa bake , qu'ils soient
+o ba , sois
+baka , sois
+dighaka , sois
+no ba , soyez
+bakani , soyez
+dighakani , soyez
+ntsa ba , je ne suis pas 
+o sa ba , tu n'es pas
+a sa ba , il n'est pas 
+to sa ba , nous ne sommes pas
+no sa ba , vous n'êtes pas
+aa sa ba , ils ne sont pas
+ntsi baka , je n'étais pas 
+o si baka , tu n'étais pas
+a si baka , il n'était pas
+to si baka , nous n'étions pas
+no si baka , vous n'étiez pas
+aa si baka , ils n'étaient pas
+ntsi bake , je n'étais pas 
+o si bake , tu n'étais pas
+a si bake , il n'était pas
+to si bake , nous n'étions pas
+no si bake , vous n'étiez pas
+aa si bake , ils n'étaient pas
+ntsa nga ba , je ne serai pas
+o sa nga ba , tu ne seras pas
+a sa nga ba , il ne sera pas 
+to sa nga ba , nous ne serons pas
+no sa nga ba , vous ne serez pas
+aa sa nga ba , ils ne seront pas
+o na ba , ne sois pas
+o mbia ba , ne sois pas
+o na digha , ne sois pas
+o mbia digha , ne sois pas
+no na ba , ne soyez pas
+no mbia ba , ne soyez pas
+no na digha , ne soyez pas
+no mba digha , ne soyez pas
+na ota , je passe
+o ota , tu passes
+a ota , il passe
+to ota , nous passons
+no ota , vous passez
+aa ota , ils passent
+na oti , j'ai passé
+o oti , tu as pasé
+a oti , il a passé
+to oti , nous avons passé
+no oti , vous avez passé
+aa oti , ils ont passé
+na otiki , j'ai passé
+o otiki , tu as pasé
+a otiki , il a passé
+to otiki , nous avons passé
+no otiki , vous avez passé
+aa otiki , ils ont passé
+na ma ota , j'ai passé
+o ma ota , tu as passé
+a ma ota , il a passé
+to ma ota , nous avons passé
+no ma ota , vous avez passé
+aa ma ota , ils ont passé
+na ma otaka , j'ai passé
+o ma otaka , tu as passé
+a ma otaka , il a passé
+to ma otaka , nous avons passé
+no ma otaka , vous avez passé
+aa ma otaka , ils ont passé
+na nga ota , je passerai
+o nga ota , tu passeras
+a nga ota , il passera
+to nga ota , nous passerons
+no nga ota , vous passerez
+aa nga ota , ils passeront
+na ote , que je passe
+o ote , que tu passes
+a ote , qu'il passe
+to ote , que nous passions
+no ote , que vous passiez
+aa ote , qu'ils passent
+na oteke , que je passe
+o oteke , que tu passes
+a oteke , qu'il passe
+to oteke , que nous passions
+no oteke , que vous passiez
+aa oteke , qu'ils passent
+ota , passe
+otaka , passe
+otani , passez
+otakani , passez
+ntsa ota , je ne passe pas
+o sa ota , tu ne passes pas
+a sa ota  , il ne passe pas
+ntsi ota , je n'ai pas passé
+o si ota , tu n'as pas passé
+a si ota  , il n'est pas passé
+o na ota , ne passe pas
+o mbia ota , ne passe pas
+no na ote , ne passez pas
+no mbia ota , ne passez pas
+A ghè baka gho Pingho, il est encore à Pingho
+A ghè baka gho Pingho, il n'est pas revenu de Pingho
+Aghe aka, il est encore à manger
+Aghe aka, il mange encore.
+Omba , faire de nouveau
+Na nga omba ekèa, je repartirai
+Na nga omba ekèa, j'irai de nouveau
+Omb'evigha, reviens
+Omb'evigha, viens encore
+Panga , faire d'abord
+Pang'ea, mange d'abord 
+Na nga pang'ekèa gho mbok'ami, j'irai d'abord dans mon village.
+O na pata , garde-toi de mentir
+o mbia pata, garde-toi de mentir 
+O na bènda , n'en dis rien
+o mbia bènda, n'en dis rien.
+A puteda , ne mange pas trop vite
+a mbe , ne pas tarder à 
+a mbe , être sur le point de
+Asanga amb'evigha , il ne tardera pas à arriver 
+a sa nga ding'evigha, il ne tardera pas à arriver 
+To sa nga mb'ekèa, nous ne tarderons pas à partir
+To sa nga mb'ekèa, nous sommes sur le point de partir.
+Enga , faire de suite
+enga , faire vite
+enga , se hater de 
+Yavogha , faire de suite
+yavogha , faire vite
+yavogha , se hater de
+Eng'ekea , pars tout de suite
+vavogh'ekèa, pars tout de suite
+Eng'ekea , hâte-toi de partir
+vavogh'ekèa, hâte-toi de partir
+Eng'ekea , va vite.
+vavogh'ekèa, va vite.
+Teta a sa eng'evigha, mon père ne viendra pas de sitôt.
+a nga ding'evigha , mon père ne viendra pas de sitôt.
+Kaka mèè, ce n'est pas moi
+kaka wèè,  ce n'est pas nous 
+Kaka nanè, ce n'est pas ainsi
+Te ewè, c'est toi
+tè ango , c'est lui
+Tè nanè , c'est ainsi.
+Ebota , mettre au monde, 
+Ebota , enfanter
+ebotu, être mis au monde
+ebotu, naître
+Etêta, nommer
+etètu, être nommé
+etètu, s'appeler.
+Eyoa, tuer
+eyoa, se tuer
+eyoa oto èdi, se tuer
+eyoa oto èdi, se donner la mort
+eyoa oto èdi, se suicider
+Ebôno, regarder 
+ebônôno, se regarder
+ebônôno, se dévisager l'un l'autre
+ekomboa, saluer
+ekomboana, se saluer
+ekomboana, de dire bonjour
+ta ebeagha n'ebèagha, être longtemps malade.
+esèka , rire
+esèka-sèkagha, rire sans arrêt
+esèka-sèkagha, ne faire que rire
+evövö-vövöghö , parler sans cesse
+evövö-vövöghö , ne faire que parler
+Ebèndu, être dit
+Ebèndu, se dire
+ebènduku, être dit
+ebènduku, se dire habituellement. 
+Eindo, être fait
+Eindo,  se faire
+eindoko, être fait
+eindoko, se faire d'habitude
+Edimbanea, se perdre
+Edimbanea, s'égarer
+edimbaneda, perdre
+edimbaneda, égarer 
+Ekusa, sortir 
+ekuseda, faire sortir
+ekuseda, obliger à sortir.
+Ebutu, chercher
+ebutea, chercher pour
+ebutea, procurer à quelqu'un
+Esaa, travailler
+Esaa, faire un travail
+eseaa, travailler pour quelqu'un
+eseaa, être au service de quelqu'un
+Enotoa , enlever
+enitoa , enlever
+enotogha, s'enlever
+enotogha, se retirer de
+enitogha, s'enlever
+enitogha, se retirer de.
+Eita, renverser
+Eita, faire chavirer
+eitama, se renverser
+eitama, chavirer.
+Ekuya, faire enter
+Ekuya, introduire
+Ekuya, embarquer
+ekuyama, enter
+ekuyama, s'introduire
+ekuyama, s'embarquer
+eoko, entendre, 
+eoko, comprendre
+eoko, éprouver.
+eokano, s'entendre
+eokano, se répandre au loin.
+eokaneo, se comprendre l'un l'autre. 
+eokeo, écouter
+eokeo, obéir
+eokeo, obtempérer à
+eokèda, faire éprouver à.
+eoko-okogho, eprouver souvent
+ebaa, épouser
+ebaa, prendre femme
+ebaa, contracter mariage.
+ebao, être donnée en mariage
+ebao, devenir la femme de quelqu'un.
+ebaana, se marier
+ebaana, s'unir par le mariage.
+ebagea, prendre femme dans un clan
+ebaaèda, donner en mariage à quelqu'un.
+ebaa-baagha, se marier souvent
+ebaa-baagha, contracter souvent le mariage.
+eyoa, tuer
+eyoa, donner la mort.
+eyou, être tué
+eyou, être mis à mort.
+eyoana, s'entretuer
+eyoana, se donner la mort l'un l'autre.
+e-a-yoa, se tuer
+e-a-yoa, se suicider.
+eyoea, tuer pour le compte de quelqu'un.
+eyoeda, faire mourir
+eyoeda, condamner à mort.
+eyoa-yoagha, tuer fréquement
+eyoa-yoagha, ne faire que tuer.
+eyoeo, perdre quelqu'un
+eyoeo, être séparé de quelqu'un par la mort.
+A vighi nughagha, il est venu en pagayant.
+A kitsi mbei nè na bendjagha, il a traversé la rivière en nageant
+A kèi tê a dea, il est parti en pleurant
+"To ma mo enaka, va ma nika wée na gho mboka", "nous l'avons aperçu en revenant du village"
+Na èni aghèto è aa yandja gho tsagha, j'ai vu des femmes travaillant aux plantations
+A pata ta patagha, il ment beaucoup
+No vôvò ta vôvogho, vous ne faites que parler
+No vôvò ta vôvogho, vous parlez pour ne rien dire
+Na èni moma a youni, j'ai vu un homme tué
+"Moma n'eghwa, oto èdi o kaogha tötò", "une fois mort, le corps de l'homme se change en poussière"
+"A aghi, a timoghi" , "étant tombé, il se releva" 
+"A aghi, a timoghi" , "il est tombé, il s'est levé"
+"Va mani wèè ghesao sami, tè gha kei mèe" , "ayant terminé mon travail, je m'en allai"
+"Va mani wèè ghesao sami, tè gha kei mèe" , "quand j'ai fini mon travail , je suis parti"
+Mbongo nè e nde gho mosighè vumbagha, la piroguue est sur le banc de sable
+"wèè esako è tange, tange, tange, gha ma kuya wèè yango gho mbongo nè a motutu" , "ayant compté les bûches, nous les chargeâmes sur le bâteau à vapeur"
+Na ma nika motema è na kao, je reviens le coeur tout changé 
+A bomoi ango te bomoa na bomoa, il l'a frappé très fort 
+Ghengogha ta ghèngogha, retourne-toi complètement 
+"No yei poto yè jètsò yèè, yée, yèè", "vous avez mangé tout le maïs"
+ghesa s'amoghöo , à droite
+ghèyo ghe moghöo , à droite
+kèaka ghesa s'amoghöo , va à droite
+kèaka ghe moghöo , va à droite
+sènè ghedighaa , ailleurs
+sènè ghesa , ailleurs
+vènbè voma , ailleurs
+nyènè mboda , ailleurs
+a nde sènè ghedighaa , il est ailleurs
+sènè ghesa , il est ailleurs
+ghesa s'aghètö , à gauche
+ghèyo yo ghe ghètö , à gauche
+kèaka ghesa s'aghètö, va à aguche
+va katsè , dedans
+va ghatsè , dedans
+gho katsè , dedans
+"gheghaa ghè, ghe nyepa va katsè" , "cette chaise est belle dedans"
+tsika sango va ghatsè , laisse-le dedans
+va mbadi , dehors
+va mokii , dehors
+kusani va mbadi , sortez dehors
+endjuwa nè e kusi na va mokii , le chien est sorti dehors
+va tsina , dessous
+va tsina , en bas
+va tsina , à terre
+va tsina , au sol
+a nde va tsina , il est dessous
+a nde va tsina , il est à terre
+a nde va tsina , il est au sol
+va ngöngö , dessus
+va ngöngö , en haut
+bataka na va ngöngö , monte dessus
+egho , ici
+eva , ici
+vigha n'egho , viens ici
+a baki tè éva va tsatsè , il était ici tout à l'heure
+a baki tè éva va tsa-tsa , il était ici tout à l'heure
+ghonèè , là
+ghonè , là
+vanè , là
+ghonèè , là-bas
+ghonè , là-bas
+vanè , là-bas
+a nde ta ghonè , il est là-bas
+vumba kièkiè nè vamè , pose là cette touque
+gho töngöni, loin
+ghoda-ghoda , loin
+à kèi gho töngöni , il est loin d'ici
+mboka nè ami ende ghoda-ghoda , mon village est très loin
+mboka nè ami e töngö pèpè , mon village est très loin
+gho sa töngö , ce n'est pas loin
+ghoni? , où?
+vani? , où? 
+Tetöö a nde ghoni? , Où est ton père?
+o kèa na ghoni? , Où vas-tu?
+a sömiki vani? , Où est-il caché?
+gho edighaa yètsö , partout
+gho edighaa yètsö , partout
+vètsö , partout
+voma vètsö , partout
+Manyambi a nde gho edighaa è yètsö , Dieu est partout
+vape, près
+vape-vape, près
+ghope-ghope, près
+mipe, près
+Okoyo a sa ba mipe, Okoyo n'est pas ici
+Mboka nè aso e nde ta vape-vape, notre village est tout près
+a ka gho ghwakagha, Il est près de mourir
+a ka ghope gho ghwakagha, il est près de mourir
+a ma ghwa , il est près de mourir
+a ka gho ghwakagha, Il est proche de la mort
+a ka ghope gho ghwakagha, il est proche de la mort
+a ma ghwa , il est proche de la mlort
+vango, y 
+vango, y
+ghwango, en
+ghwango, en
+a nde ta vango , il y est
+na vigha tè vango, j'en viens
+na vigha tè ghwango, j'en viens
+to bueiki na diköö, nous y sommes arrivés le soir
+ndeö nè, maintenant
+ndeö nè, actuellement
+pitsi yè edi, maintenant
+va tsatsèva, maintenant
+"pitsi yè edi, a ka ta ekèngè" , "actuellement il va bien"
+"va tsatsèva, na va nga ghwa wèè" , "Maintenant et à l'heure de notre mort"
+ndéo nè énè, alors
+ndéo nè énè, en ce telmps là
+ndéo nè énè a lma béaka , alors il était malade
+tè ango kèagha , alors il s'en alla
+dèö, aujourd'hui
+dèö nöö, aujourd'hui
+gho mosa a deo, aujourd'hui
+a vighi tè dèö, il est arrivé aujourd'hui 
+a vighi tè dèö nöö, il est arrivé aujourd'hui
+va mapanga, auparavant
+va mapanga, autrefois
+va mapanga, jadis
+naa mbèghö, auparavant
+naa mbèghö, autrefois
+naa mbèghö, jadis
+ndeo nè enè, auparavant
+ndeo nè enè, autrefois
+ndeo nè enè, jadis
+va mapanga obamba è o si bake, auparavant la route-automobile n'existait pas
+ndeo nè enè, au temps jadis
+va tsatsèva, bientôt
+va tsatsèva, tout à l'heure
+anga vigha va tsatsèva, il arrivera bientôt
+a s'anga amb'evigha, il arrivera bientôt
+mènè, demain
+ngima-mènè, après-demain
+na nga nikea evigha mènè, je reviendrai demain
+to nga kèa na gho Piti e a Masango ngima-mènè, nous irons après-demain à Piti-Masango
+kodotse, hier
+ngima-kodotse, avant-hier
+a ghwei kodotse, il est mort hier
+na baki gho Mobegho ngima-kodotse, j'étais à Mobegho avant-hier
+ghe, encore
+ghe, jusqu'à présent
+a ghé baka gho Maghonga, Il est encore à Maghonga
+a ghé vövökö, il parle encore
+omba, encore
+omba, de nouveau
+omb'evövö, dis encore
+omba, repète
+omb'enda, fais encore
+to nga omb'ebönö epö kuka, nous regarderons encore encore unbe fois
+ngima mènè, le lendemain
+"nyö nè, toma yama va Biogho, na ongongo è, tè odighéo motoè", "nous avons couché à Biogho, et le lendemain nous avons continué notre voyage"
+nga-nga, souvent
+kuka diyèkani, souvent
+pingo a kuka, souvent
+kuka yètsö, souvent
+a vighaka kuka yestö na ghweba, il est venu souvent à la maison
+sö na mo ènaka gho Nombo, je l'ai souvent vu à Nombo
+ndeo yè yètsö , toujours
+pitsi yè yètsö,  toujours
+inya wètsö,  toujours
+a pata ndéo yè yètsö, il ment toujours
+a ghina pitsi ye yètsö, ils dansent tous les jours
+mobo, pour toujours
+kèè, pour de bon
+kèè, définitivement
+a kèi ti möbo, il est parti pour de bon
+ta kèè, il est parti de bon
+to toti gho Dibua ta möbo, Nous avons quitté definitivement le pays des Dibua
+va mbènè, plus tard
+a nga vigha va mbènè, il viendra plus tard
+aa vighi ndéo nè e ma öta, ils sont arrivés trop tard
+va oti do, c'est trop tard
+o vighi ndéo nè madeö e si ba, tu es venu trop tôt
+madèö va si ba, c'est trop tôt
+madeö va si buea, c'est trop tôt
+nanè, ainsi
+nanè, comme cela
+kaka nanè, ce n'est pas ainsi
+tè nanè, c'est comme cela
+dighaa, assis
+mosiki, assis
+avö à ndé dighaa, quelques-uns sont assis
+avö à nde mosiki, quelques-uns sont assis
+buèdi, bien
+ekengè, bien
+nèmani esinga buèdi, sarclez bien les herbes
+a nde ta ekengè, il va bien
+ebegho è enè e sa nyèpa, c'est mal cela
+a sa ba ekengè, il va mal
+a sa ba ekèngè, il ne va pas bien
+nayè? , comment?
+a ka nayè? , comment va t-il maintenant?
+o nga enda nayè? , comment feras tu?
+motiè, debout
+na kidi, debout
+tèèma motiè na kidi, tiens-toi debout
+na songo-songo, droit
+na kidi, droit
+nzéa nè e nde ta na songo-songo, le chemin est tout droit
+tèèma na kidi, tiens-toi bien droit
+makeka, de travers
+ghetete ghè ghe nde makeka, l'arbre est de travers
+ta böbö, inutilement
+ta böbö, en vain
+ta böbö, pour rien
+o vövö ta böbö, tu parles en vain
+o vövö ta böbö, tu parles pour rien
+o vövö ta böbö, tu parles inutilement
+mè na kaneghi ta böbö, j'ai essayé en vain
+a kambogha ta böbö, il se fâche pour rien
+vaghè-vaghè, lentement
+vaghè-vaghè, doucement
+kèakani vaghè-vaghè, marchez lentement
+kèakani vaghè-vaghè, allez lentement
+a vighi ti vaghè-vaghè, ilo est venu tout doucement
+pita, vite
+pita-pita, vite
+nyavo, vite
+nyavo-nyavo, vite
+a kèaki ti pita, il est allé vite
+indaka nyavo, fais vite
+pita-pita, très vite
+tè kuè, assez
+"tè kuè, o mbea do vövö" , "assez, ne parle plus"
+"tè kuè vanè, tè kuè do vanè" , "en voilà assez, cela suffit"
+tè kuè do? , est-ce assez?
+pèpè, beaucoup trop
+na nyongeo pèpè mbaa yè, j'aime beaucoup les ignames
+aka pèpè, il mange trop
+a yesegheda pèpè, il mange trop
+pèsu, peu
+vi pèsu, peu
+pèngö vi pèsu, même un peu
+beyè vi pèsu, meêm un peu
+pèsu-pèsu, peu à peu
+ta evi, seulement
+mokabo ta, seulement
+ghanè, seulement
+ghughanè, seulement
+na nyongeo ta tsuma epö, je veux seulement un couteau
+mboka ea mobongo ta eboto etevo, seulement les vieillards
+ekè, combien?
+anange a kè? , combien d'enfants?
+suda dikè? , combien de francs?
+etete ekè? , combien d'arbres
+mikanda mikè? , combien de pagnes?
+ta peè, certainement
+ivoè, assurement
+mavoè, certainement
+mavoè na nga kèa na gho Komi, j'irai certainement à Komi
+Iyo, oui
+ii, oui
+iyo ta mèè, oui c'est moi
+vanè o nyongeo nanè ma? iyo , es-tu content comme cela? oui
+ae, non
+tè ewè? , c'est toi?
+Ae kaka mèè , non ce n'est pas moi
+sa, ne...pas
+si, ne...pas
+a sa vövö do, il ne parle plus
+a si itsa do soma, il n'a plus rien donné
+madèo, pas encore
+madèo a si ghwa, il n'est pas encore mort
+gho sa ba, pas du tout
+e sa ba nanè, il n'en est pas du tout ainsi
+buetse, peut-être
+evoè, peut-être
+mavoè, peut-être
+buetse a ghwe, il est peut-être mort
+ta peè ma? , vraiment?
+na gho peè? , pas possible?
+na gho peè tetö a vighi? , ton père est arrivé vraiment?
+mobo-na-mobo , éternellement
+ghoda-ghoda, très loin
+ghope-ghope, tout près
+vape-vape, très proche
+nyavo-nyavo, rapidement
+pita-pita, très vite
+peè-peè, très certainement
+vaghe-vaghe, tout doucement
+"ebode na bo, bo, bo" , "frapper plusieurs fois"
+eyètaè, fouler aux pieds
+yètagha na ya, fouler aux pieds
+etendaè, écrire couramment
+emina, avaler
+minagha na miö, avaler d'un trait
+eyueseda na yè, remplir à plein bords
+ekitsa na kia, trancher net
+ekuea na to, tomber lourdement
+ekokanghana na ghaa, s'assembler en foule
+emana na nya, achever complètement
+eghwa na ghwi, mourir réellement
+tsuma né ea teta, le couteau de mon père
+ghesambi ghe sa iya, le panier de ma mère
+avighi na mi, il est venu avec moi
+a tuba na möghö, elle coud à la main
+na otaka na ghonè, allez là-bas, passez par là-bas
+to bati na mbongo, nous avons remonté la rivière en pirogue
+mono a tsighi na pisti, mon aîné est arrivé pendant la nuit
+nyèpa, afin que
+nyèpa mbè, pour que
+"kèakani nyavo, nyèpa no buéa na omanda." , "Partez vite, afin que vous arriviez en plein jour."
+mokabo ta , à moins que
+"mokabo na ma ghwa, buetse na ma ghwa." , "A moins que je ne vienne à mourir"
+va nga mana, après que
+va nga mana mpèè ea, après que j'aurai mangé
+madèö, avant que
+na va, avant que
+ta koda nè madèö e si vövö, avant que l'horloge ne sonne
+nyè madeo o si ida, avant qu'il ne fasse nuit
+na va, depuis que
+mosingi ghè ghwèa ango, depuis qu'il est mort
+tè ebando è, c'est pourquoi
+tè gho, pourquoi
+tè ebandoè e niki ango, c'est pourquoi il est parti
+tè gha, comme
+monöngö, ainsi que
+tè gha ewè, comme toi
+tè gha vövö me nanè, comme je l'ai dit
+tè gho vövi mè, comme je l'ai dit
+monöngö ovö na, de même que
+monöngö ovö n'ewè, de même que toi
+kabagha, de crainte que
+kabagha, de crainte de
+kabagha mbè, de crainte que
+kabagha mbè, de crainte de
+kabagha o agha, de crainte que tu ne tombes
+kabagha o wa, de peur que vosu ne mouriez
+e sa ke ghwa, de peur que vosu ne mouriez
+kaba mbè no wa, de peur que vosu ne mouriez
+tambo, donc
+do, donc
+ye, donc
+tambo onde moisui, Tu es donc un voleur 
+tambo mè na pata, Je suis donc un menteur  
+na nde mosi oboè, je suis donc un menteur
+na , et
+Tsina na oba, Le ciel et la terre
+Ndjambe na Mouanga mavasa ma bè, Ndjambe et Mouanga sont deux jumeaux
+na va, jusqu'à ce que
+na va nga kèa ango, jusqu'à ce qu'ils partent
+tè, là-dessus
+tè, alors
+tè ango kèagha, là-dessus il s'en alla
+oko a ma vövö, quand il parle
+va vövö ango, Quand il parle
+va nga kèa ewè, Lorsque tu partiras
+ndeo nè e nga kèa ewè, Lorsque tu partiras
+ivo, mais
+a gho bambea ivo o mbia kèa, Il t'appelle mais n'y va pas
+même, beyè
+beyè mbè a wei, même s'il meurt
+beyè nanè, même dans ce cas
+beyè, ni
+"beyè mèè, beye ewa" , "Ni moi, ni toi"
+"tê na mayako, tê na madèghò", "ni vivres , ni vêtements"
+tambo, par conséquent
+"tambo yavogha ekèa, nyavo-nyavo" , "par conséquent, hâte toi de partir"
+"tambo yavogha ekèa, nyavo-nyavo" , "par conséquent, pars rapidement"
+gho ghetoa sa mbè, parce que
+gho mbè, parce que
+gho ebando mbè, parce que
+gho ghetoa sa mbè, car
+gho mbè, car
+gho ebando mbè, car
+gho ebegho mbè o pati , Parce que tu as menti
+gho ghetoa sa mbè a nde ghedunge, Parce qu'il est bête
+pèngo ta na, pas même
+pèngo ta na eake a tsoso, pas même un oeuf
+gho ghetoa nde? , pourquoi?
+gho nde ? , pourquoi?
+no vighi gho nde ? , pourquoi êtes vous venus?
+"o bomoa ango gho nde, gho ghetoande ?" , "Pourquoi le frappes-tu ?"
+moghèè...gho , pourvu que...ne
+moghèè tè ghe menyangano na moma, Pourvu qu'on ne le sache pas
+oko, si
+ta, si
+oko o si pata, si tu ne mens pas
+oko mbè o isui o nga èna, si tu as volé tu verras
+beyè...mbè na, si...à plus forte raison
+"beyè mèè, monoö...mbè n'ewè", "Si moi, ton aîné je n'ai pas réussi à plus forte raison toi"
+beyè ango... mbè na mi, Si lui...à fortiori moi
+ghe nanè, sinon
+ghe nanè, sans quoi
+mbè, sinon
+mbè, sans quoi
+deo mbè, sinon
+deo mbè, sans quoi
+"koda, mbè na nga gho kuseda gho èba ami", "tais-toi, sinon je te ferai sortir de ma case"
+ghe, ou
+ghe, ou bien
+itsa mè mbaa ghe magheta, donne-moi des ignames ou des patates
+beyè mbè, quoi que
+beyè mbè, bien que
+beyè mbè a wei, bien qu'il soit mort
+beyè mbè nde, quoi qu'il advienne
+to nga omb'evövö va nga nikè ewè, nous en reparlerons quand tu reviendras
+na nga böngö ghesangumu ghè söö na ma kèa, je prendrai ta lettre je m'en irai
+"o mbea pata, Manyambi a kini", "ne mens pas car Dieu le défend"
+"itsa mpèè moyako, na oko ndjaa", "donne-moi à manger car j'ai faim"
+
+mè mbè!, etonnement!
+könö!, admiration!
+maa!, surprise!
+ta ghetabe!, surprise!
+vongo!, surprise!
+peè i! , ironie!
+maa!, ironie!
+bö!, approbation!
+miö mitai!, approbation!
+tè nanè!, approbation!
+yove!, approbation!
+kaka nanè!, désapprobation!
+kivi!, désapprobation!
+kaka nanè nyèmbè!, désapprobation!
+kivi!, affirmation!
+nyembè!, affirmation! 
+peè!, affirmation!
+muee!, affirmation! 
+peè-peè!, affirmation!
+teta!, joie!
+o!, joie!
+iya!, joie!
+aa!, mécontentement!
+na kini!, mécontentement!
+kana nanè nyembè!, mécontentement!
+e bake! , dépit!
+mboko! , dépit!
+na bake ye! , dépit!
+e!, reproche!
+ewè dota!, reproche!
+yee!, dédain!
+imè!, défi!
+teta o!, crainte!
+iya o!, crainte!
+ove mèè!, regret!
+ta panda!, regret!
+pièvia!, douleur!
+mosigheo oa!, douleur!
+moma a nga!, pitié!
+ngèba nè!, pitié!
+kököö y'ewè!, je t'en supplie!
+okani o! , allez!( pour encourager)
+okani o! , courage!
+oni o! , allez!( pour encourager)
+Amoghoo! , courage!
+amoghoo!, allez! (pour encourager)
+wae!, toi! (pour appeler)
+wami o! , toi! (pour appeler)
+evo!, ecoutez!
+evoni!, ecoutez!
+bè!, silence!
+koda!, silence!
+tenga!, silence!
+kongama vanè!, va-t-en!
+notogha vane sa, va-t-en!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
