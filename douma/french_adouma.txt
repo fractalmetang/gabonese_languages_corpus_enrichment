@@ -442,5 +442,90 @@ apte    etôga
 propre à    tshitsha
 araignée    libuli
 araignées    mabuli
-
-
+arbitre    mupami a mambo
+arbre    muti
+arbres    miti
+l'arbre pousse    muti èmeme
+tronc d'arbre    etolo a muti
+troncs d'arbres    bitolo a muti
+tronc d'arbre    mukongoro
+arc    evuta
+arcs    bivuta
+arc    mutata
+acs    mitata
+tirer de l'arc    eruma na mutata
+arc-en-ciel    mudiki
+arcs-en-ciel    midiki
+arête    ntsendulo
+argent    mitambo
+argent    matambo
+argent    likota
+argile    toto a lilèba
+verdâtre    toto a shègè
+arithmétique    etalili si bu tala bèla
+arme    litali
+armes    bitali
+fusil    ndjari
+fusils    mandjari
+armée    mulongo a baluani
+armer    evè
+pouvoir d'armes    evè bitali
+préparer la guerre    eyèbisse libadi
+armoire    egala si bu shuègè bèla
+arracher    ekassala
+arracher des bras    epatala
+arracher un morceau de la peau    eyuba mukandja
+arrangement    eyèbissi si bu yèbisse ghèla
+arranger    eyèbisse
+arrestation    ekuatili
+arrestations    bikuatili
+arrêt    epamili
+arrêts    bipamili
+arrêter    shimba
+arrêter    ekuata
+s'arrêter    shimbana
+s'arrêter à    etala
+s'arrêter à    eshika
+arrière    m'bissa
+arrivée    etolili
+arrivée    eïdili
+arrivées    bitolili
+arrivées    bidili
+arriver    eya
+arriver    etshègine
+arrivez!    yangani!
+arrogamment    na tshuri
+arrogamment    na erumbaga
+arrogance    tshuri
+arrogance    erumbagi
+arrondir    ediengisse
+arroser    itala mamba
+artère    mussili
+artères    missili
+articulation(os)    liyungo
+articulations(os)    mayungo
+articulation(paroles)    evovili si buè
+articulation(paroles)    bivovili si buè
+articuler    evovo naboèdi
+prononcer    evovo naboèdi
+ascension    ebètili
+ascensions    bibètili
+asperger    egnandjaga mamba
+aspersion    egnandjili
+aspersions    bignandjili
+aspiration    evivili
+aspirations    bivivili
+aspiration    etudili
+aspirations    bitudili
+aspirer    eduta
+aspirer    eviva
+assaillir    ebanda mudingu
+assaillir    etubassa mudingu
+assassin    mubomi a batu
+assassins    babomi a batu
+assassinat    ebomili si bu boma mutu
+assassiner    eboma mutu
+assemblage    eputissi
+assemblages    biputissi
+assemblée    erumba a batu
+assemblées    birumba a batu

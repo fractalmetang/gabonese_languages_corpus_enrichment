@@ -4,18 +4,18 @@
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 Ce projet a pour but d'enrichir les corpus de **5 langues parlées au Gabon**
-dont **le Fang**, **le Punu**, **l'Omyènè**, **le Nzébi** et **le Téké**,
+dont **le Fang**, **le Punu**, **l'Omyènè**, **le Nzébi**,  **l'Obamba**, **le Tsogho**
+et **l'Adouma**
 de telle sorte que ces données puissent servir à l'élaboration d'une traduction par machine.
 Cela contribuera à **la préservation linguistique** de ces langues mais aussi d'une certaine manière à 
 faire éffondrer les barrières linguistiques qui existe entre les ethnies du Gabon.
 
 ## 📚 Table des matières
 
-- [Aperçu](#-aperçu)
-- [Installation](#-installation)
-- [Utilisation](#-utilisation)
-- [Contribuer](#-contribuer)
-- [Licence](#-licence)
+- [🇬🇦 Enrichissement de corpus des langues du Gabon](#-enrichissement-de-corpus-des-langues-du-gabon)
+  - [📚 Table des matières](#-table-des-matières)
+  - [⚙️ Installation](#️-installation)
+  - [🤝 Contribuer](#-contribuer)
  
 
 ## ⚙️ Installation
