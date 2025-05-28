@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
-Ce projet a pour but d'enrichir les corpus de **5 langues parlées au Gabon**
+Ce projet a pour but d'enrichir les corpus de **7 langues parlées au Gabon**
 dont **le Fang**, **le Punu**, **l'Omyènè**, **le Nzébi**,  **l'Obamba**, **le Tsogho**
 et **l'Adouma**
 de telle sorte que ces données puissent servir à l'élaboration d'une traduction par machine.
