@@ -718,6 +718,142 @@ enfant né avant le terme    lüèlè ka li to vè
 avouer    emèmè
 avouer    eyala
 
+babil    erendili
+babils    birendili
+badin     mutu yu bundassa mambo la dièsse
+farceur    mutu yu bundassa mambo la dièsse
+bagage    bela
+plier bagage    ekotassa bela
+bague    lingassi
+bagues    ngassi
+baie    lifuta
+baies    mafuta
+baigner    eyobo
+baigner    epuba
+baigneur    muyobi
+baigeurs    mayobi
+baignoire    eyobili
+baignoires    biyobili
+baîllement    moassala
+baîllements    miassala
+baîller    emoassa
+baionnette    likongo
+baionnettes    makongo
+baiser    eviva
+s'entre baiser    essambana mu maboka
+baiser    evivili
+baisers    bivivili
+baisser    essundassa
+décroître    ependassa
+baisser    ekèbisse
+diminuer le prix    ekèbisse ndjigi
+La rivière baisse    Tonbda ayènde
+se baisser    ekotuno
+se baisser la tête    ekotusso mutchuè
+balancement    etshokini
+balancements    bitshokini
+balancement    etshokili
+balancements    bitshokili
+balancer    etshokana
+balancer    etshokala
+balai    ekumbulo
+balais    bikumbulo
+balayeur    mukumbili
+balayeurs    bikumbili
+balayage    ekumbili
+balayages    bikumbili
+balayures    bimbu
+balcon    elèmbe
+balcon    ndiki
+balcons    mandiki
+balle( arme à feu)    lishâni
+balles( arme à feu)    mashâni
+ballot    funda
+ballots    bafunda
+bambin    pèsa-muana
+bambou    mukèkèlè
+bambous    mikèkèlè
+banane    liko
+bananes    mako
+petite banane    mbala
+petites bananes    bambala
+banane mûre    tshudi
+bananes mûres    matshudi
+banane cuite    tshundsu
+bananes cuites    matshundsu
+banane cuite    liko lavia
+bananes cuites    mako mavia
+banane détachée du régime    pali
+bananes détachées du régime    mapali
+bananier    mubèmba a liko
+bananiers    mibèmba
+bananier que l'on plante    moaga
+bananiers que l'on plante    miaga
+banc    tshibagènda
+bancs    batshibagenda
+banc de sable    ediga si a mondzèï
+bander une plaie    ekotala
+baptême    batèm
+baptiser    ebatissa
+barbare    kiri
+barbe    ndsèdi
+barbes    bindsèdi
+pousse    ndzèdi emènè
+baril    pèsa-molèga
+barrage    edibili si bu diba ndjèla
+barre de fer    litali sila
+barre de bois    muti
+barres de bois    miti
+barrer    ediba ndjela
+fermer    ediba ndjela
+barrettte de cuivre    tsôngo
+barrettes de cuivre    matsongo
+barricade    murumba
+barricades    mirumba
+barricader    essa murumba
+se barricader    eshuèmine
+barrique    molèga
+barriques    milèga
+rouler une barrique    evingassa molèga
+bas    mukubi
+basse    mukubi
+Parles bas    evovo naboèdi.
+parles bas    evovo mukèruno
+parles bas    evivo livuavuania
+en bas    ghutoto
+en bas    tshina
+mettre bas    ebota
+bataille    mudingu
+batailles    midingu
+bâtard    muana babota badi-a-badi
+né hors mariage    muana babota badi-a-badi
+bateau    bungu u a mututu
+bâtir    etouga
+baton    muti
+batons    miti
+battement    ebolili
+battements    bibolili
+battre    ebola
+battre    efundja
+battre    etukaga
+battre le tam-tam    ebète dongu eluana
+un chemin battu    ndjèla batuba
+bavard    mutu u a erènde
+bavarde    mutu u a erènde
+bavardage    erènde
+bavardages    birènde
+bavardage    mambo ma vovo matchuakiri
+bavarder    elèlè mambo matchuakiri
+bave    likènki
+baves    makènki
+baver    epossa likènki
+beau    bubuè
+belle    bubuè
+bel    bubuè
+beaucoup    ndjoku
+
+
+
 
 
 
