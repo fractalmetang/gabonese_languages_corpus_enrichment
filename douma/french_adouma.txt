@@ -529,3 +529,198 @@ assemblage    eputissi
 assemblages    biputissi
 assemblée    erumba a batu
 assemblées    birumba a batu
+assembler    Eputassa bèla ghu ediga mô
+s'assembler    eputana
+assentiment    eyalili
+assentiments    biyalili
+asseoir    edjalassa
+s'asseoir    edjala
+assez    tshitsha
+assez    li bona
+assez    yana kolo
+assidûment    maluèlè môsi
+assiéger    edinga
+assiette    etènge
+assiettes    bitènge
+assister    eyamassa
+assister    essumbala
+secourir    eyamassa
+secourir    essumbala
+association    erumba si a batu
+associer    eputassa
+associer    egningala
+assombrir    evindassa
+assombrir    essapundu
+le ciel s'assombrit    yulu mavinda
+assommer    eboma
+tuer    eboma
+importuner    ebamaga
+assoupir    etimbassa solo
+s'assoupir    etimba solo
+assoupissement    etimbili
+assoupissements    bitimbili
+assourdir    ediba matshui
+assourdissement    edibili si bu diba matshui
+assouvir sa faim    emana ndjala
+assouvir    emana
+assujetir une nation    ebongo lilongo
+assujetir    ebongo
+astreindre à un travail    edambassa
+assurément    moko
+assurer    elèlè moko
+s'assurer    emanana
+asthme    likopa
+asthmes    makopa
+astringent    muti mu dèrassa moï
+remède    muti mu dèrassa moï
+à tort et à travers    tshuakiri
+atroce    ekiba si y-nènè
+cruel    ekiba si y-nènè
+douleur    kiri
+excessif    mubimumu-nènè
+attacher    ekotala
+attacher    ekota
+attaque    ebandili
+attaques    bibandili
+agression    ebandili
+agressions    bibandili
+attaquer    ekuata
+attaquer    ebanda
+attaquer    libadi
+attaquer    etubassa mudingu
+surprendre    etubassa mudingu
+attendre    etala
+attendre    edila
+attendrir    essa mono mutèma ngagi
+émouvoir    essa mono mutèma ngagi
+s'attendrir    emono lingèbè
+s'émouvoir    emono lingèbè
+s'attendrir    ekolo
+s'émouvoir    ekolo
+attendrissement    lingèbè
+attendrissements    mangèbè
+attendrissement    ekiba
+attendrissements    bikiba
+attente    etalili
+attentes    bitalili
+attente    edilili
+attentes    bidilili
+attention!    naboèdi!
+attention à toi!    kèlè gnutu a uè naboèdi!
+prends garde!    kèlè gnutu a uè naboèdi!
+une attention    ekèilili
+attentions    bikèili
+attentivement    na ekèilili
+attentivement    mukiènku
+attentivement    naboèdi: tôo
+atténuer    ekèisse
+atténuer    ekèbisse
+attirer    eduta
+attirer    essa'ya
+attiser le feu    elossa mbau
+attouchement    ebèmbili
+attouchement    ekuatili
+attouchements    bbèmbili
+attouchements    bikuatili
+attraper un animal au piège    ekolugo na murambu
+attraper    ekolusso
+saisir    ekuata
+saisir une chose en l'air    eïaka
+tromper    ekutassa
+attrister    essa mutu essungili ghu mutèma
+s'attrister    emono mutèma ngangi
+s'attrister    bakuata ngangi ghu mutèma
+aucun    na bè mu môsi
+aucune    na bè mu môsi
+audace    kiri
+audacieux    mutu a kiri
+audacieuse    mutu a kiri
+au-dedans    ghu tshoa
+dans l'interieur    ghu kate
+au-dehors    ghu badi
+à l'extérieur   ghu badi
+au-delà    ghu tshina
+au-dessus    ghu tshina
+plus haut    elota
+au-dessous    ghu toto
+augmentation    ekunissi
+augmentations    bikunissi
+augmenter    ekunassa
+aujourd'hui    lolo-y
+aujourd'hui    litchugu la lolo
+aujourd'hui    loana
+aumône    essumbili
+aumônes    bissumbili
+auparavant    ghu tshômi
+auprès    tuga na
+auusi    ka
+autant    lilongo li mô
+autant    nga
+autel    Lotel
+autel    tabulo ghu ndjo Ndjambi ghu bu vovo lamès
+autour    edièngile
+autre    mukima
+différent    mukima
+autrement    lilongo likima
+autrement    edimu ykima
+autrement    maluana
+bien plus    elota
+sinon    vè bona
+sinon    ndjua
+sinon    mana
+sans quoi    vè bona
+sans quoi    ndjua
+sans quoi    mana
+autrui    ngani
+auteur    muvangi
+auteurs    bavangi
+avaler    emina
+faire avaler    eminassa
+d'avance    tshômi
+d'avance    bushu
+avance    mutètè
+avances    mitètè
+avancer    ebakana
+avant    tshômi
+avant    ghu bushu
+avant-garde    mutu yu yènde ghu bushu
+avant-hier    bissambadi
+avare    katu
+avare    mukussu
+avec    na
+avenir    lüèlè li li ya.
+le temps futur    lüèlè likima li sa ya.
+avent    Lavan
+avent    lüèlè ghu bushu fet y Noël
+avertir    elèlè
+avertir secrètement    elèlè tshua liu a u a ya
+aveu    emèmili
+aveux    bimèmili
+aveugle    misu vè
+aveugler    ediba mutu misu
+avilir    ebèssa
+avilir    ebungaga
+avilissement    ebèssili
+avilissements    bibèssili
+avis    ndongi
+des avis    mandongi
+avocat    muvovi
+avocats    bavovi
+avoir    li na 
+avoir    bela
+un avoir    bela
+avorter    ndimi pola
+accoucher avant le  terme    lüèlè ka li to vè
+avorton    inghani
+avortons    binghani
+enfant né avant le terme    muana yu babota
+enfant né avant le terme    lüèlè ka li to vè
+avouer    emèmè
+avouer    eyala
+
+
+
+
+
+
+
