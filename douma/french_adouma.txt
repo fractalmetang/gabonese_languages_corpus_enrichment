@@ -13,7 +13,7 @@ abattements    bivatili
 abatteur    mulembi
 abatteur d'hommes    mulembi
 assassin    mulembi
-assassins    mulembis
+assassins    mulembi
 abattre    elèmbè
 renverser    elèmbè
 s'abattre    ibua
@@ -717,7 +717,6 @@ enfant né avant le terme    muana yu babota
 enfant né avant le terme    lüèlè ka li to vè
 avouer    emèmè
 avouer    eyala
-
 babil    erendili
 babils    birendili
 badin     mutu yu bundassa mambo la dièsse
@@ -851,6 +850,1151 @@ beau    bubuè
 belle    bubuè
 bel    bubuè
 beaucoup    ndjoku
+beaucoup    y-nènè
+grand    y-nènè
+nombreux    kuna
+gendre    buko
+beau-fils    buko
+gendres    babuko
+beaux-fils    babuko
+beau-frère    muntsâli
+beaux-frères    bantsâli
+beau-père    buko
+bêche    lingungu
+bêches    mangungu
+begaiement    evovili si a lingengèbè
+grasseyer    evovo lingengèbè
+bégayer    likokana
+bègue    mutu yu vovo lingengèbè
+bêlement    ekaïli
+bêlements    bikaïli
+bêler    ekaïa
+bélier    mulumi a mandombo
+belle-fille    buko
+belle-mère    buko
+belle-soeur    miontsâli
+belliqueux    mukari
+belliqueux    bakari
+bénédiction    benediksion
+bénédiction    bibuè bi a Ndjambi
+bénéfice    ebagili
+bénéfice    essumbili
+bénéfices    bissumbili
+bénir    ebenita
+bercail    mulôngo a bataba
+berger    mukèli a bataba
+besoin    iranda
+besoin    ndjâla
+beuglement    ekaïli
+beuglements    bikaïli
+beugler    ekaïa
+bible    sangangubisi a Ndjambi
+biche    mukadi a budi
+bien    bubuè
+richesse    mitambo
+bien    naboèdi
+bien    tshitsha
+beaucoup    ndjoku
+bien que    na bè
+bientôt    bolaka
+bientôt    pèsu
+bigarrer    emanga
+bile    ndsôngi
+biles    mandsôngi
+bisaïeul    kaga
+bisaïeulle    kaga
+bisaïeux    bakaga
+biscuit    dèga
+biscuits    badèga
+blâme    essembili
+blâmes    bissembili
+blâmer    essembe
+
+
+daigner    etonda
+daigner    eranda
+daigner    eyala
+damer    etukaga
+damné    mutu u a lanfer
+damnée    mutu u a lanfer
+damner    eyèlassa ghu mbau y a lanfer
+dangeureux    mubi
+dangereuse    mubi
+dans    ghu
+danse    ekèna
+danses    bikèna
+danseur    mukini
+danseuse    mukini
+danseurs    bakini
+danseuses    bakini
+dartre    buadi
+dartre    bundassa
+de    y a
+du    y a
+des    ba
+des    ma
+des    mi
+je viens du village    me mata bola
+déballer    edibala
+débandade    gnari
+débarcadère    lissàbo
+débarcadères    massàbo
+débarquer    epossaga
+débauché    evôngola
+débauchés    bivôngola
+débauché    mutu u a mukali
+débaucher    eyèssa nambo ma mabi
+déblayer    etota
+déblayer    ekombolo
+déboisement    essalili
+déboisements    bissalili
+déboiser    essala
+déboiter    epôla
+débordement    epogili
+débordements    bipogili
+déborder    epoga
+déborder un vas    eloka
+déboucher une bouteille    edibala pamba
+déboucher une bouteille    edibala mungèlè
+déboucher    edibala
+arriver    eshuta
+sortir    eshuta
+débourrer    epossaga ndjari
+débout    mutèlè
+débout!    ntèminè
+déboutonner    ebèndala
+débusquer un ennemi    ebèba
+débusquer    ebèba
+bédusquer un animal    epundjala
+décamper    etora
+décapiter    ekèssè kingu
+déception    somu
+déception    vè
+décharge    ebolili
+déchargement    epossili si possa bèla
+décharger d'un fardeau    eyamassa
+décharger    eyamassa
+décharger une pirogue    epossa bèla ghu bungu
+décharger un fusil    ebola ndjari
+décharger le coeur    egnômbosso
+décheveler    essaka
+déchiqueter    epônda
+déchiré    imakakaga
+déchirer    ekaka
+déchirure    ekakili
+déchirures    bikakili
+décider    essômba
+décision    essômbili
+décisions    bissômbili
+déclaration    elèlili
+déclarer    elèlè
+décliner    eyènde
+le soleil décline    bushi bu yènde
+cet homme décline    mutu yu ngangi eranga
+cet homme décline    mutu yu bia-vè
+déclouer    eyuba
+décoller    eyundala
+détacher    eyundala
+décomposer    ekalala lilongo likima
+décorer quelqu'un    elôatassa
+embellir    eyèbisse
+découdre    egnangala
+découper    ekèssè
+décousu    egnanga
+décousure    egnangiri
+décousures    bignangiri
+découvrir    edibala
+décrocher    essokala
+décrotter    etsoka
+dédaigner    ekina
+dédain    ekinili
+dédains    bikinili
+dedans    ghu tshoa
+dedans    ghu kate
+dédier    evè
+dédier à Dieu    evè Ndjambi
+dédommagement    efutili
+dédommagements    bifutili
+dédommager    efuta
+défaillance    lindjumbu
+défaillances    mandjumbu
+défaire    emassa
+défaite    ebughi
+défaites    bibughi
+défaut    ebissili
+défauts    bibissili
+défaut    ntsèli y bi
+défauts    mantsèli ma mabi
+défendre    elèga
+défense    elègili
+défenses    bilègili
+défiant    mutu u a marombola
+défiante    mutu u a marombola
+défier quelqu'un    erambala mutu
+défier    erambala
+défigurer    ebèssa gnutu
+définir    epassala
+définir    elèlè
+définition    epassili
+définitions    bipassili
+défoncer    etuba
+défoncer un tonneau    etuba molèga
+défoncer la terre    esthîma
+défricher    efunda
+défunt    mutu u a makua
+défunte    mutu u a makua
+dégat    ebungigi
+dégats    bigungigi
+dégénérer    ediôbo
+dégonfler    evorassa
+dégourdir    edèrassa
+dégoût    evatili
+dégoûts    bivatili
+dégoûter    evata
+dégoûter    abissi
+dégradation    emassili si bu massa mutu kumu a ndè
+dégradation    ebèssili si mutu ebèssa gnutu a ndè
+dégrader    emassa kumu
+se dégrader    ebessa gnutu
+dégrossir    epakala
+dégrossir une pièce de bois    epakala muti
+déguisement    eyèlili
+déguisements    biyèlili
+déguiser    eyèla
+déguster    emèga
+dehors    ghu mbadi
+déjà    na guagnia
+déjeûner    edja bela na nguale
+déjeuner    edjilili si bu dja bela na nguale
+de là!    emata gona!
+délaissement    egnagili
+délaissements    bignagili
+délassement    evomili
+délassements    bivomili
+délasser    evoma
+délayement    egnigili
+délayage    egnigili
+délayages    bignigili
+délayements    bignigili
+délayer    egninga
+délégué    ebûndju
+délégués    bibûndju
+déléguer    etshinda
+délibération    kundu
+délibérations    makundu
+délibérer    essa kundu
+délier    egnangala
+délivrance    epossili
+délivrances    bipossili
+délivrer    epossa
+demain    m'badi
+démancher    ekola
+demande    efulili
+demandes    bifulili
+demandeur    mufuli
+demandeurs    mufuli
+demarrer    egnangala
+déménager    etsamaga
+demeurer    eïka
+demi    itini
+demie    itini
+demies    bitini
+demoiselle    mukasu u a bupaga
+démolir    etsaka
+démon    demon
+malin esprit    idingi ybi
+dénicher des oeufs d'oiseaux    epossa makèï ghu tshoa djo a bo
+dénombrement    mutalu
+dénombrements    mitalu
+dénombrer    etala
+dénoncer    essala
+dénoncer    egnatala
+dénoncer    egnata tshango
+dent    dignu
+dents    mignu
+dépareiller    eshobusso
+départ    eyèndili
+départs    biyèndili
+dépasser    elota
+faire mieux    elota
+être eu-dessus    elota
+dépecer    eshassa
+dépêcher    essatshoa-tshoa
+De qui dépends-tu?    Kunu u a u na?
+Cela ne dépend pas de moi    Diambo la me vè!
+dépenser    ekaba
+déperir    ebèïa
+dépeupler    ekussa
+déplacer    essôbo
+déplaire    epata vè
+déplier    egnangala
+déplumer    etshôaka
+déposer    essussa
+mettre en dépôt    evè ekèlè
+déposition    epossili
+dépositions    bipossili
+dépravation    ebissili
+dépravations    bibissili
+dépraver    ebèssa
+depuis    mata
+déraciner    eyuba muti na mikanga
+déranger    egnakassa
+dernier    issikala
+derniere    issikala
+dérober    iba tshoa lishuèdè
+dérouiller    emassa guianga
+derrière    litau
+derrières    malitau
+dès    si ma
+désagréable    diambo li libi
+désalterer    emassa pèï
+désapprouver    essèmbe
+désapprouver    eyala vè
+désarmer    epatala litali a libadi
+désaveu    etonili
+désaveux    bitondili
+désavouer    etona
+descendant    eyènde banda
+descendant    eshûnda
+descendre    epênda
+descendre    eshûnda
+déscente    epêndili
+désecente    eshundili
+désenfler    evorassa
+désennuyer    eshôbusso
+désert    tshèngè a vè batu
+déserter    ebataga
+déserteur    mubatigi
+déserteurs    babatigi
+désespérer    lilèla vè
+déshabiller    epossa mangoï
+déshabituer    elèga
+déshériter    epundja
+deshonnête    mutu yu kala
+deshonnête    mutu a makâli
+deshonorer    ekôssa
+se déshonorer    ebèssa gnutu
+désir    egnongili
+désirer    egnongala
+désobéïr    epèïè
+désobéissance    epèïïli
+désolation    mudambu
+désolationsn    midambu
+désoler    edambassa
+affliger    edambassa
+désordre    egnakissi
+désordres    bignakissi
+désormais    mata lüèlè lini
+dessaler    emassa etumbu
+déssecher    ekagnassa
+desserer    egnangala
+desserer les dents    edibula mignu
+dessous    tshina
+dessus    ghu yôla
+destiner    etuba
+destructeur    mubungigi
+destructrice    mubungigi
+destructeurs    babungigi
+destruction    ebungigi
+destructions    bibungigi
+désunion    pênda
+désunions    mapênda
+déunir    eduta pênda
+détacher    egnangala
+déteindre    edimaga
+détenir    ekala
+détente de fusil    epissili
+détentes de fusil    bipissili
+déterrer    ekûndala
+detestable    bubibubu
+détour    mudièngilè
+détours    midièngilè
+détourner    ekalassa
+détruire    ebomaga
+dette    tshômbi
+dettes    matshômbi
+deuil    kôndo
+deuils    makôndo
+deux    yolè
+deuxième    u a muyolè
+devant    bushu
+devant    guli
+devant    ghu bushu
+devenir    ekalala
+devenir    ekalaga
+devin    efanissi
+devins    bifanissi
+deviner    efanassa
+devoir    li na tshômbi
+devoir    timu
+devoirs    matimu
+dévorer    eyotala
+dévouer    evè gnutu na mutèma
+se dévouer    evè gnutu na mutèma
+diarrhée    mugnulu
+diarhées    mignulu
+Dieu    Ndjambi
+diffamateur    mugnatili
+diffamatrice    mugnatili
+diffamer    egnatala
+différence    efâni-vè
+différer    edilassa
+difficile    paga
+difficilement    na paga
+difforme    eku
+digérer    eshôbusso
+digestion    eshôbissi
+disgestions    bishôbissi
+digue    mukèla
+digues    mikèla
+dimanche    dimansh
+dimanche    litchugu polu
+dimanche    litchugu la Ndjambi
+dimension    lüèlè
+diminuer    ekèïssè
+dîner    edja lüèlè la midi
+dire    elèlè
+dire    elèlili
+direct    tèlè
+directe    tèlè
+directement    na tèlè
+discorde    pênda
+discordes    mapênda
+discours    musamu mu munènè
+discret    mutu u mishuèdè
+discrète    mutu u mishuèdè
+discrètement    na mishuèdè
+discrétion    mushuèdè
+discrétions    mishuèdè
+disette    ndjâla
+faim    ndjâla
+disgrâce    ekolili
+disgrâces    bikolili
+disparaître    mabua
+le soleil a disparu    litadi li mabua
+l'oiseau a disparu    niodi a magnuko
+dispérser    etsamassa
+dispute    mudingu
+disputes    midingu
+disputer    etuba toti
+disputeur    mussungi
+disputeuse    mussungi
+disputeurs    bassungi
+dissimulateur    mutu mulènde
+dissimuler    essa mulènde
+dissipation    tshuakiri
+dissipations   matshuakiri
+être dissipé    evongala
+dissiper    epassala
+dissiper    epundja
+dissiper    emassa
+dépenser beaucoup    ebungaga
+dépenser    egnugosso
+dissoudre    ebolo
+distinction    ekèngissi
+distinctions    bikèengissi
+distinguer    ekèngisse
+distraction    ebangili si bu bangala diambo likima
+distraire    essa ebangala diambo likima
+distribuer    ekabala
+distribution    ekabili
+distributions    bikabili
+divers    malongomakuna
+diverse    malongomakuna
+diviser    ekaba
+division    ekabu
+divisions    makabu
+divorce    ebumbigi
+divorces    bibumbigi
+divorcer    ebumbaga
+divulguer    eshâla
+dix    kumi
+dixième    u a likumi
+dizaine    kumi
+docile    butchôga
+doigt    mulêmbo
+doigts    milêmbo
+dominer    elôta
+dominer    etongassa
+dompter    elongo
+dompteur    mulongi
+dompteurs    balongi
+don    evèdili
+dons    bivèdili
+donc    ka
+donner    evè
+dorénavant    emata litchugu la lolo
+dorénavant    emata lüèlè liuili
+dormeur    mutu a solo
+dormeuse    mutu a solo
+dormir    solo
+dos    mbissa
+dos    mambissa
+dot    efutili
+dots    bifutili
+doter    efuta
+double    mubiku
+doubler    essa mubiku
+augmenter    ebuèsse
+doucement    naboèdi
+douceur    niège
+saveur    niège
+douleur   ngangi
+douleurs    mangangi
+doute    etambiri
+doutes    bitambiri
+douter    etambara
+doux    na niègè
+douce    na niègè
+douzaine    kumi na yolè
+douze    kumi na yolè
+douzième    u a kumi na yolè
+dragonnier    mukuma
+dragonniers    mikuma
+drap    dshanda ynènè
+dresser    eyèbisse
+dresser    etèmisse
+droit    lingulu
+droit    tâa
+droite    tâa
+à droite    tshêli a ghogo na mulumi
+droitement na tâa
+duel    mudingu na batu bolè
+dur    budiru
+dure    budiru
+durant    ghu
+durcir    edèrassa
+durement    na budirili
+durer    edinga
+dureté    budirili
+duretés    bidurili
+duvet    lifudia
+duvets    mafudia
+dyssenterie    mussète
+dyssenteries    missète
+eau    mamba
+eau chaude    mamba mpa mbau
+eau froide    mambamatshiba
+eau bénite    mambo ma Ndjambi
+eau de vie    malu
+eau de vie    malaku
+ebène    erinda
+ebènes    birinda
+eblouir    misu lirimana
+ecaille    likakala
+ecailles    makakala
+ecailler    eghongo makakala
+ecale    ikandja
+ecales    mikandja
+ecaler    ebaka
+ecaler    ebola
+ecaler    iyôbala
+ecarlate    buï
+ecarquiller    ekèndala
+ecervelée    evongala
+echange    eshôbissi
+echanges    bishôbissi
+echanger    eshôbusso
+echapper    ebataga
+echelle    ebêtili
+echelles    bibêtili
+echelon    inangigi
+echelons    binangigi
+echine    mungurugutu
+echines    mingurugutu
+echouement    egilili
+echouer    egiga
+eclair    muvèvèdi
+eclairs    mivèvèdi
+eclaircie    lishâna
+eclaircies    mashâna
+eclaircir    eyâlala
+eclairer    eyâlaga
+eclaircir    eyâlala
+eclairer    eyâlaga
+eclairer    eyâlala
+eclat    ebaligi
+eclats    bibaligi
+eclater    ebaligi
+eclipse    eshuèmini
+eclipses    bishuèmini
+ecloppé    mutu u a evangu
+eclore    epola
+eclore    ebola
+ecole    ediga si bu eyèga mambo ma sangangubi
+ecolier    mutu yu yèga mambo ma sangangubi
+ecope    erôkili
+ecoper    erôka
+ecorce    lipâlo
+ecoreces    mapâlo
+ecorcer    eyôbala
+ecorchement    ebôkigi
+ecorchements    bibôkigi
+ecorcher    eyôbala
+s'ecorcher    ebokaga
+ecorcheur    mubokigi
+ecorcheurs    babokigi
+ecorchure    mungirata
+ecorchures    mingirata
+ecorner    ekôla
+ecosser    ebôla
+ecouler    epênda
+ecourter    ekubassa
+ecouter    eyôga
+ecrasement    egnîgili
+ecrasements   bignîgili
+ecraser    egniga
+ecrevisse    mushâla
+ecrevisses    mishâla
+ecrier    epambaga
+s'écrier    epambaga
+ecrire    etênde
+ecriture    etèndili
+ecritures    bitèndili
+ecrivain    mutêndi
+ecrivains    batêndi
+ecuelle    etênge
+ecuelle    epuandja
+ecume    livudi
+ecumes    mavudi
+ecumer    emassa mavudi
+ecureuil    tshindi
+ecureuils    batshindi
+education    eyissili
+eductaions    biyissili
+effacer    edimassa
+effiler    eyôla
+effleurer    ebène
+efforcer    edèrassa gnutu
+s'effforcer    edèrassa gnutu
+effort    edèrissi
+efforts    bidèrissi
+effrayer    eparassa
+effrayer    ebatassa
+effrayer    eparana
+effroi    eparissi
+effroi    ebatissi
+egal    tshitsha
+egaler    egêmbana
+egaliité    li mo
+eglise    ndjo a Ndjambi
+eglise    mandjo
+egoïste    mukussu
+egoïstes    bakussu
+egorgement    ekèssili si bu kèssè kingu
+egorger    ekèssè kingu
+egorger    ebôma
+egoutter    etshôlusso
+egratigner    egôra
+egratignure    mugirata
+egratignures    migirata
+eh!    eh!
+elan    mungari
+elancer    evèle
+s'elancer    evèle
+elargir    enèbisse
+elastique    munanaga
+election    esolili
+elections    bisolili
+eléphant    ndjôku
+eléphants    banjôku
+elévation    esatili
+elévations    bisatili
+elever    ebètassa
+elever    esatala
+elire    esolo
+eloge    essingili
+eloges    bissingili
+eloignement    epundjili
+eloignements    bipundjili
+eloigner    epundja
+eloigner    ebutassa ghu mbissa
+emballer    essômugo
+emballeur    mussômigi
+emballeurs    bassoômigi
+emnbarquement    ebara
+embarquements    bibara
+embarquer    essa ebara
+embarras    eyèlili
+embarras    eyèlili
+embarasser    eyèla
+embellir    eyèbisse
+embellissement    eyèbissi
+embellissements    biyèbissi
+embonpoint    munènè
+embouchure    mudiba
+embouchure d'un fleuve    malu
+embouchure d'un instrument    libéka
+enclore    ediba na murumba
+enclume    ndsûndu
+encombrement    buli-buli
+encombrer    essa buli-buli
+encore    bua
+ajouter    buèsse
+encourager    edèrassa mutéma
+encre    mughôle
+encrier    eladshi si bughussa mughôlè
+endormir    essa solo
+endroit    ediga
+endroits    bidiga
+enduire    ekila
+endurcir    ekamakiri
+enfance    likuku a bangèbè
+enfant    ngèbè
+enfant    muana
+enfantement    ebotili
+enfanter    ebota
+enfer    lanfer
+enfer    edigi si a mban ya mubu-na-mubu
+enfermer    ediba ghu
+enfiler    elôngulo
+enflammer    etshûnda
+enflé    maranda
+être enflé    maranda
+enfler    erânda
+enflure    erandili
+enflures    birandili
+enfoncer    eïna
+enfoncer un clou    ekomuno
+enfouir    eshuègèghutoto
+enfuir    ebataga
+enfumer    evindassa na mututu
+engagement    eyanili
+engagements    biyanili
+s'engager    eyana
+engendrer    ebota
+engloutir    ebambaga
+avaler    ebambaga
+engloutissement    ebambigi
+engraisser    enèbe
+enivrement    eyassili
+enivrements    biyassili
+enivrer    eyassa
+enlever    emassa
+ennemi    livida
+ennemis    mavida
+ennui    lirûngi
+ennuis    marûngi
+ennui    evovissi
+ennuis    bivovissi
+ennuyer    evovusso
+enorgueillir    ekalaga ntshûri
+enrhumer    ekuata na tûla
+enseignement    eyissili
+ensignements    biyissili
+enseigner    eyèssa
+ensemble   ekokana
+ensemble    ta
+ensevelir    eshuège ghu toto
+ensevelisement    eshuègili
+ensevelissements    bishuègili
+ensuite    emata
+entasser    epigna
+entendement    eyugili
+entendre    eyuga
+enterrement    eshuègili
+entrrements    bishuègili
+enterrement    si bu shuège mutu
+enterrer    eshuège mutu
+entêté    mutu u a litshûi
+entier    yôsi
+entière    yôsi
+entier    ebimba
+entièrement    ngô
+entonner    ebanda limbu
+entonnoir    eshûli
+entonnoirs    bishûli
+entorse    limûna
+entorse    egèkugho
+entortillement    mambônho
+entortiller    essa mambônho
+entrailles    miaka
+entraîner    eduta
+entre    ghu
+entre    kate
+entrée    egningili
+entrées    bigningili
+entrer    egningala
+entretenir    evovo misamu na bambaghi
+envahir    ebongo ntshèngè
+envahir    ebatala ntshèngè
+envahir    ebatala lilongo
+envahissement    ebongili si bu bongo ntshèngè
+envahissement    ebatili
+enveloppe    edibili
+enveloppe    eshuègili
+envelopper    ebungara
+envelopper    ediba
+envenimer    etûmbulo
+envers    mu
+envers    na
+envie    kuna
+avoir envie    ndjâla
+envier    emono kuna
+environ    tuga na
+environs    bidiga bi a edièngile
+environner    edinga
+envoi    esthindili
+envois    bisthindili
+envoler    edumaga
+s'envoler    edumaga
+envoyer    etshinda
+envoyeur    mutshindi
+envoyeurs    bamutshundi
+epais    budiru
+epais    mubiku
+epaisseur    mubiku
+epaissuers    mibiku
+epaissir    essa mubiku
+epargner    ekèlè
+epaule    ekuku
+epaules    bikuku
+epée    ligniègnè
+épées    magniègnè
+epeler    etèle
+epervier    mbuja
+oiseau de proie    mulèdi
+epi de maïs    muti a putu
+epidémie    eiaka
+epidémie    eiakili
+epier    etala
+epier    eviana
+epilepsie    tshîga
+epileptique    mutu u a tshîga
+epine    tshèndulo
+epines    batshèndulo
+epingle    n'tshûndu
+eplucher    ebaka
+eponge    budshûndsha
+eponges    mashûndsha
+epoque    lüèlè
+epoques    malüèlè
+epouse    mukasu u a mabo mulumi
+epouser    ebunguno
+epousseter    ekôbala
+epoux    libâla bi li mabo mukasu
+eprouver    eyèle
+ressentir    emono
+epuisement    ekagnili
+epuisements    bikagnili
+epuiser    ekagna
+equarrir    essa mubâlu
+equipe    numbi
+equipes    manumbi
+equilibrer    eyèbine
+equivalent    mutângu
+equivalente    mutângu
+equivaloir    li tshitsha
+erreur    etambissi
+erreurs    bitambissi
+escabeau    kuanga
+escabeaux    makuanga
+escalier    ebètili
+escaliers    bibètili
+escargot    kolo
+escargots    bakolo
+esclavage    edjalili si a muvèga
+esclave    muvèga
+espace    lüèlè
+espèce    lilongo
+espérance    lilèla
+espérer    esènga lilèla
+espion    mubîki
+espionner    ebika
+esprit    idingi
+esprits    bidingi
+essai    eyèlili
+essais    biyèlili
+essayer    eyèle
+essoufler    essa evomi
+essuie-main    dshanda mu ekirara miogo
+essuyer    ekirara
+estime    ekèbili
+estimer    ekèba
+aimer    etondo
+estomac    evundu
+estomacs    bivundu
+estropier    elèmine
+et    na
+etable    ndjo a bagnama
+etablir    evanga ebanda
+etai    n'gundji
+etaler    epossa
+etancher    emanassa
+etancher la soif    emanassa pèï
+été     tshiu
+étés    bitshiu
+eteindre    edimassa
+eternel    mubu-na-mubu
+eternellement    mu mubu-na-mubu
+eternuer    etshè
+eternuement    etshèlili
+eternuements    bitshèlili
+etincelle    mbakala
+etincelles    mambakala
+etoffe    dshanda
+etoile    mbulala
+etoiles    bambulala
+etonner    ekèma
+etouffement    evakini
+etouffements    bivakini
+etouffer    evakana
+etoupe    lifudia
+etourdi    evôngola
+etourdir    essa lindjûmbu
+etourdissement    lindjûmbu
+etranger    ndjêndja
+etrangère    ndjêndja
+etrangler    epigna
+etrangler    egnuka
+etre    li
+être    ghèla
+etroit    pigna
+etroite    pigna
+etude    eyègili
+etudes    biyègili
+etudier    eyèga
+etudiant    muyègi
+etudiante    muyègi
+etudiants    bayègi
+etui    kôbè a madôngo
+eucharistie    lekaristi
+Europe    Ntshènge a batangani
+européen    mutangani
+eux    bo
+elles    bo
+evacuer    epôlaga
+evangile    mambo ma Jesu-Kri a yéssa besu ghu toto
+evanouir    eyambaga
+s'evanouir    eyambaga
+evanouissement    eyambigi
+evanouissements    biyambigi
+Eve    Ef mukasu u tshômi
+eveiller    esôla
+evènement    diambo
+evènements    mambo
+eventail    epèpe
+eventails    bipèpe
+eventrer    epassa moï
+evidemment    moko
+eviter    ebèmbe
+eviter    ekumba
+exact    etondassa vè
+exacte    etondassa vè
+exagérer    rangassa
+exagérer    enèbisse
+examen    ekèngissi
+examens    bikèngissi
+examiner    ekèngisse
+exaucer    eyôga
+exaucer    eyala
+exaucer    evè
+excellent    bubuè
+excellente    bubuè
+excellent    bu bunènè
+excepté    vêngo
+exciter    essembassa
+excomunication    epossili si bu possa mutu ghu erumba si a bakrétien
+excommunier    epossa
+excommunier    epjundja mutu ghu erumba si a bakretien
+exerément    matshîbi
+exercer    etshâka etshâkili si ynènè
+exhorter    elèle
+exhorter    eyèga
+exil    lipâka
+exilé    mupaki
+exiler    etshinda ghu lipâka
+existence    ebèdili
+esistences    bibèdili
+exister    li
+expectoration    kaki
+expectorations    bikaki
+expectorer    essa kaki
+expérience    eyabili
+expériences    biyabili
+expiation    ebondili
+expier    ebondo
+expirer    ekua
+explication    eyissili
+explications    biyissili
+expliquer    eyèssa
+explosion    elolili
+exporter    egnata ghu ntshènge mukima
+exposer    eshûssa
+exprès    ntshâratshâmbi
+expression    egnigili
+expressement    moko-moko
+expressement    na-boèdi
+énoncer    elèle
+exprimer    egniga
+expulser    epundja
+expulser    epossa
+exténuer    edôkusso
+etre exténué    edôko
+extérieur    ghu mbadi
+extérieure    ghu mbadi
+exterminer    ebôma bôsi
+extraire    epossa
+extrémité    tshômbo
+extrémités    matshômbo
+
+
+
+
+
+
+
+
+
+
+harangueur    muvôvi
+harangueurs    bavôvi
+harasser    edôko
+harasser    edôkili si ynènè
+hardi    kiri
+hardie    kiri
+hardiesse    kiri
+hargneux    ndsûbu
+hargneuse    ndsûbu
+haricot    pênda a mitangani
+harmonie    mukiènhu
+harmonium    ngûmbi
+harmoniums    mangûmbi
+harpon    likôngo
+harpons    makôngo
+sagaie    likôngo
+harponner    erûma likôngo
+hasard    esûngini
+hasards    bisûngini
+hasarder    etshitsha
+hausser    ebètassa
+haut    bula
+haut    mula
+haute    bula
+haute    mula
+haut    mutèle
+haut    butèle
+hauteur    mutuntu
+hauteurs    putuntu
+hé    eh!
+héberger    ebiassa
+hébété    etshûguru
+hébété    mutu yu gnongosso mutchuè
+hébéter    essa egnongosso mutchuè
+hélas!    ah!
+hélas!    ah bavudu!
+hélas!    ah'ba mo a mè!
+hemorraghie    epolili si bu pôla makila
+herbe    essinga
+herbes    bissinga
+herbe    shîmbu
+herbes    bimbu
+herbivore    mudji a bimbu
+hérisser    eramaga
+hérisson    ngômba
+héritage    ekitili
+hériter    ekita
+héritier    mukitissi
+héritière    mukitissi
+héritiers    bakitissi
+hermiette    kuète
+hermiettes    bakuète
+hernie    evêlo
+hernies    mavelo
+hernie    evu
+hernies    bivu
+hésitation    eshûmbili
+hésitations    bishûmbili
+hésiter    eshûmba
+heure    lüèlè la litâdi
+heureusement    naboèdi
+heureux    bubuè
+heureuse    bubuè
+heurter    ebundjo
+heurter    eduma
+hideux    gôgni
+hier    pîpi
+avant-hier    bisambâdi
+hilarité    edièssili
+hilarités    bidièssili
+hippopotame    ngubu
+hippopotames    bangubu
+hirondelle    ndèndènge
+hirondelles    bandèndènge
+hirondelle    mussanganguba
+hirondelles    missanganguba
+hisser    ebètassa
+histoire    musamu
+histoires    misamu
+hochement    eringissi
+hochements    biringissi
+hocher    eringassa
+homicide    ebomili si bu boma mutu
+homme    mutu
+hommes    batu
+humain    mutu
+homonyme    batu ba kumbu mô
+honnête    butchôga
+honnêtement    na butchôga
+honêteté    etchôgili
+honêtetés   bitchôgili
+honneur    likuma
+honneurs    makuma
+honorable    bubuè
+action honorable    diambo li bubuè
+honorer    essènga
+honorer    egèssa
+honte    bukutu
+honeteusement    na bukutu
+honteux    bukutu
+honteuse    bukutu
+hopital    lopital
+hopital    ndjo a batu la mangangi
+hoquet    eshissiki
+hoquets    bishissiki
+horizon    enanga
+horizons    bananga
+horloge    litadi
+horloges    matadi
+hormis    vengo
+horreur    epatili
+horreurs    bipatili
+horreur    livignu
+horreurs    balivignu
+horrible    bubi bu bunènè
+hors    vengo
+hostie    osti
+huée    eyôkidji
+huer    eyôkadja
+huiler    essa madi
+huiler    ekila na madi
+huit    pômbo
+huitième    ua mu pômbo
+humaniser    ekalaga nga batu ba babuè
+humble    mutu u a vè ntshuri, yu mono ndè
+humble    mutu u a vè ntshuri, mènè mukègnè
+humer    eviva
+humeur    livigna
+humeurs    malivigna
+humide    ndsîba
+humidité    ndsîba
+humilier    essa bukèghè
+hurlement    essingili
+hurlements    bissingili
+hurler    essinga
+hutte    etutu
+huttes    bitutu
+hymne    limbu
+hymnes    mimbu
+hypocrisie    libûmbusso
+hypocrisies    malibûmbusso
+hypocrite    mutu u a libûmbusso
+
+
+
+
+
+
 
 
 
