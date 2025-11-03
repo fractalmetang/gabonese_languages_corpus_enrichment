@@ -1991,6 +1991,200 @@ hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
 
+ulcère    ebokala
+ulcères    bibokala
+ulcérer    eshômbusso bibokala
+un    mo
+une    mo
+unanime    eshînga
+uni    diènga
+unie    diènga
+uniforme    evangili mo
+union    edukini
+unions    bidukini
+unique    likika
+unir    edukana
+univers    yulu na toto na bela biôsi
+universellement    ghu bidiga biôsi
+urgent    ntshônga
+urgente    ntshônga
+urine    mashûba
+uriner    egnaka mashûba
+urne    kôbè
+urnes    makôbè
+usage    ntshâmbi
+usages    mantshâmbi
+usé    ghèla si a dingi
+usée    ghèla si a dingi
+user    ebongo
+user    egnuka
+user    edja
+ustensile    bela bi bu lamba bela bi a edja
+usurper    eyèla
+utérin    muana ngu
+utérins    banaba ngu
+utile    bubuè
+va    yènde
+vacarme    mbèmba
+vacarmes    mambèmba
+vache    gnari u a mukadi
+vaches    bagnari
+vaciller    etshôkana
+vagir    ebèla
+vagissement    elèlili si a pèsa
+vague    ekâpa
+vagues    bikâpa
+vaillant    mudéru
+vaillance    mudérili
+vaille-que-vaille    bisiâshi
+vain    ghèla si a vè shio
+vaine    ghèla si a vè shio
+vainement    mutèba
+vainement    timu vè
+vaincre    etongassa
+vainqueur    mutongissi
+vainqueurs    batongissi
+vaisseau    bungu
+vaisseau    mututu
+vaisseaux    mabungu
+vaisselle    bèla bi a tabulo bi bu dja na bio
+valeur    mutangu
+valeurs    mitangu
+vallée    edôko
+vallées    bidôko
+valoir    mutangu kuè
+vanité    ghela si a vè shio
+vaniteux    mutu u a lignongi
+vaniteuse    mutu u a lignongi
+vanner    eshôkala
+vantard    mutu yu mèmè
+vanter    emèmè
+vanter de    emèmè o mèmè
+vanterie    emèmili
+vanteries    bimèmili
+vapeur    mututu a mamba
+vapeurs    mitutu a mamba
+vapeur    pûdi
+vapeurs    mapûdi
+variable    ghèla si eshôbo
+varier    eshôbo
+variété    eshôbili
+variétés    bishôbili
+vase    bulu
+vases    babulu
+vaurien    mutu yu mubi mu munènè
+vautour    mbèra
+aigle    mbèra
+vautours    mambèra
+aigles    mambèra
+se vautrer    ebingata
+veau    muana gnari
+veaux    bana gnari
+végéter    emènè
+veille    pipi
+veillée    emoghili
+veillées    bimoghili
+veiller    emogho
+veine    mussili
+veines    missili
+velue    mutu u a mikônga
+vendeur    mushûmbi
+venderesse    mushûmbi
+vendeurs    bamushumbi
+vendre    eshûmba
+vénérable    mutu yu mubuè
+vénération    ekakissi
+vénérations    bikakissi
+vénérer    ekakassa
+vénérien    y a makâli
+vénérienne    y a makâli
+vengeance    ngaku
+vengeances    mangaku
+venger    eyôbulo
+se venger    eyôbulo
+vengeur    muyôbili
+vengeressse    muyôbili
+péché véniel    peshe veniel
+péché véniel    peshe ykèghè
+venin    muângala
+venins    miângala
+venir    eya
+vent    livôga
+vents    mavôga
+vente    tshûmbili
+ventes    bitshûmbili
+venter    evôga
+venteux    y a mavôga
+venteuse    y a mavôga
+ventouse    tshûmbiti
+ventouses    matshûmbiti
+ventre    moï
+ventres    mioï
+ventru    eburu
+ventrue    eburu
+ventrus    biburu
+venue    eïdili
+vêpres    vepr
+ver    mushôdu
+vers    mishôdu
+verbal    y a mugnua
+verbale    y a mugnua
+Verbiage    Erèndili
+Verbiages     birèndili
+Verdir    Ekalaga ngaï-ngaï
+verdure    ngaï-ngaï
+
+
+verge    mubâmbu
+verges    mibâmbu
+véridique    y a moko
+vérifier    ekèngisse
+véritable    moko
+véritablement    moko
+vérité    moko
+vérités    mamoko
+se vermouler    eshègè
+vermoulu    ekadu si mashègè
+vermoulue    ekadu si mashègè
+vermoulures    batshèrrè
+vermoulure    tshèrrè
+verrat    mugubèlè u a mulumi
+verre    eladshi
+verres    miladshi
+verrou    mubindugu yu munènè
+verrous    mibindugu yu munènè
+verrou    ebindili
+verrous    bibindili
+verrue    imbua
+verrues    bimbua
+vers    ghu tshèli
+versant    elâbighi
+versants    bilâbighi
+à verse     pata
+il pleut à verse    enôga na pata
+verser    itala
+vert    ngaï-ngaï
+verte    ngaï-ngaï
+vert de gris    mukègnè
+vertèbre    mungangara
+vertèbres    mingangara
+vertex    litadi a mutchuè
+verticalement    tèlè
+vertige    lindjûmbu
+vertiges    manindjûmbu
+vertu    ntshâmbi yu mubuè
+vertueux    mutu na ntshâmbi yu mubuè
+vertueuse    mutu na ntshâmbi yu mubuè
+vesse    vushi
+vesses    mavushi
+vesser    evushala
+vesseur    muvushili
+vesseuse    muvushili
+vesseurs    bavushili
+vessie    eshûba
+vessies    bishûba
+veste    ngoï a miogo
+
 
 
 
