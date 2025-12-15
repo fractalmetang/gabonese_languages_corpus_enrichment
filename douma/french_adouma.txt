@@ -1991,6 +1991,397 @@ hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
 
+
+ta    y a u
+ta    u a u
+ton   u a u 
+ton   y a u
+tabac    Evolo
+tabernacle    Tabernakl 
+table    Tabulo
+tables    batabulo
+tableau    Edimu si ynènè
+tableau    imaj si ynènè
+tabouret    Kuanga
+tabourets    makuanga
+tâche    litangi
+tâches    matangi
+tacheter    Essa matangi
+tacher    Etshôlusso 
+tâcher    Ebôlaka 
+tacheter    Essa  Matangi 
+taciturne    mutu u a vè tondo evovo
+taie d'oreiller    dshanda y bu shômo evindju
+taille    mutèlè
+tailler    ekèssè
+tailleur    mudissi
+taire    eshuègè
+faire taire    elèga evovo
+se taire    edjala vôô
+talion    eyôbili
+talions    biyôbili
+talon    likitighi
+talons    makitighi
+tambour    n'dungu 
+tambours    mandungu
+tambouriner    ebètè n'dungu
+tambourineur    mubèti a n'dungu
+tambourineur    babèti a n'dungu
+tamis    ekûbili
+tamis    bikûbili
+tamiser    ekôbala
+tam-tam    ndûngu
+tam-tams    mandungu
+tandis que    ghu
+tandisque    lüèlè li
+tanguer    ebua eshôno
+tanière    libôka
+tanières    mabôka
+tant    bunènè
+tant    ndjoku
+tante(paternelle)    kèdi a tata
+tante(maternelle)    kèdi a ngu
+tantôt    pèsu
+tantôt    lüèlè li mo
+tapage    mbêmba
+tapages    mambêmba
+tapageur    mutu u a mbêmba
+tapioca    etèkè
+tapiocas    bitèkè
+tapis    dshanda ynènè
+taquiner    egnumbusso
+taquinerie    egnumbissi
+tard    mbissa
+le soir    bushi bu vinda
+targette    mubindugu
+targettes    mibindugu
+targette    ebindili
+tarder    edinga
+tardif    ghu mbissa
+tardive    ghu mbissa
+tarière    egnongili
+tarières    bignongili
+tarir    ekagna
+taro    tshânga
+taros    batshânga
+tas    mututu
+tas    mitutu
+tasse    pèsa
+tasse    bulu
+tâter    ekèngisse
+tatonner    epêpêdie
+tâtonnement    epèdidi
+tâtonnements    bipèdidi
+tâtonneur    mupêpidi
+tâtonneuse    mupêpidi
+à tatons    eyende na epêpêdi
+tatonage    libingidi
+incision    lishâmba
+incisions    mashâmba
+tatouer    ekèssè mashâmba
+taureau    mulumi a gnari
+te    uè
+toi    uè
+teigne    libûngu
+teignes    mabûngu
+teigneux    na libûngu
+teigneuse    na libûngu
+teindre    emânga
+teint    emângili a bushu
+teinture    pita
+teintures    mapita
+teinturier    mukili a pita
+tel    nga
+telle    nga
+je suis tellement    me ka moko fuè na mangangi
+téméraire    na ntshâra
+téméraire    natshâmbi
+témoignage    eyèssili
+témoignage    epassili
+témoigner    eyèssa
+témoigner    elèlè
+témoin    mutu yu amoni diambo
+tempe    libanga
+tempes    mabanga
+tempérament    gnutu
+tempérance    Ntshâmbi a mutu u a vè mutema
+tempérant    mutu u a vè mutema
+tempérer    ekèisse
+tempête    ekûnga
+tempêter    ekarana
+temporaire    lüèlè la pèsu
+temporel    ghèla si a toto
+temps    lüèlè
+des temps    malüèlè
+tenace    litshui
+homme tenace    mutu u a litshui
+tenaille    eyubili a batshôngo
+tendance    etshindili
+tendance    eyèndili
+tendre la main    eduta
+tendre    eduta
+tendre    ekôlo
+tendresse    etondili ynènè
+ténèbres    pipi
+ténèbres    mapipi
+ténèbres    pûndu
+ténébreux    na pipi
+ténébreux    na pûndu
+tenir    ekuata
+tentation    etshindili si bu tshinda ghu peshe
+tente    likuku
+tenter    eyèlè
+essayer    eyèlè
+exciter au mal    etshinda 
+tenue    eluatili
+terminaison    emanissi
+terminaison    essilili
+terminer    emanassa
+terrain    toto
+terrain    tshènge
+terrain    ngûndu
+terrasser    elèmbè
+terre    toto
+terre    tshèngè
+terreau    toto a vinda
+terreur    bomo bu bunènè
+terrible    ghèla si a bomo
+terrifier    emomusso bomo bu bunènè
+testament    esangangubi si bu kabala bela
+testateur    mukabili
+tester    ekabala
+tête    mutchuè
+têtes    mitchuè
+téter    egnua mabèlo
+têtu    litshui
+eau tiède    mamba ma pèsa libabutu
+tien    y a u
+tiers    mutu u a mutamu
+tige    mukèla
+tiges    mikèla
+tigre    ndjègho
+tigres    bandjègho
+tigre    ebanda
+timide    bomo
+homme timide    mutu u a bomo
+timidement    na bomo
+timidité    bomo
+tintement    etshôkissi si bu tshôkassa pèsu mondsho
+tinter    etshôkassa
+tique    likûa
+tiques    makûa
+tire-bouchon    epôssili si a bidibuku
+tire_bourre    tshôngo mu epossa mashûssa
+tirer    eduta
+enlever    emassa
+tirer un coup de fusil    ebola ndjari
+tireur    mubuli
+tireurs    babuli
+tiroir    pesa egala ghu tshina tabulo
+tisane    muti u a tulu
+tison    etshinga
+tisons    bitshinga
+tisser    ebètè
+tisserand    mubêti
+toi    uè
+toile    dshanda a mubiku
+toit    yôla a ndjo
+toiture    yôla a ndjo
+tolérer    eshimba
+tomate    shângu
+tombe    libèla li bu shuègè ibimbi
+tombeau    libèla li bu shuègè ibimbi
+tomber    ebua
+ton    y a u
+ta    y a u
+tes    y a u
+le ton    ndini
+tondeur    mukèngi
+tondre    ekènge
+tonneau    mulèga
+tonner    evovo mudumungu
+tonnerre    mudumungu
+tonsure    libènge
+torche    paga
+torcher    eghôngassa na dshanda
+torchon    eghôngissi a mantshûngi
+tordre    ekamana
+tordre    egnûnga
+tordu    muti u a migniba
+torrent    tshâli a batshèrè
+tortiller    egnûnga
+se tordre    egnûnguro
+tortue    mubulu
+tortueux    mignîmba
+chemin tortueux    ndjèla mignîmba
+torture    lissiri li linènè
+torturer    emonusso massiri ma manènè
+total    yôsi
+total    bimba
+total    pii
+touchant    si a kuata ghu mutèma
+touchant    na
+touchant    mu
+toucher    ebèmbè
+toucher    ebèmbili
+touffe    ebûtu
+toujours    mubu-na-mubu
+toujours    malüèlè môsi
+touque    putassa
+jouer un tour    eparassa
+une tour    libungu
+tour-à-tour    nga la ndè lüèlè
+tourbillon    lifûnga
+tourbillons    mafûnga
+tourbillon    libèla
+tourbillons    mabèla
+tornade    ekûnga
+tornades    bikûnga
+tourner    ekalala
+tourner    ekalassa
+tournoyer    edjèngile
+tournure    edjalili
+tourterelle    likûnda
+tousser    ekôssulo
+tout    yôsi
+toute    yôsi
+tout    môsi
+tout-puissant    na lingulu lôsi
+toux    ekôssili
+toux    tulu
+tracas    lirûngi
+tracasser    emonusso marungi
+trace    litâmbi
+la trace d'une main    ndimu
+tracer    essa ndilu
+traduire    ekalala
+trahir    eshômba
+trahison    eshômbili
+traînant    ghèla si evingassa ghu toto
+trainard    mutu yu yènde evingara
+trainard    mutu yu malüèlè môsi ghu mbissa
+trainer    evingassa
+trainer    eghôgulo
+traire    edutaga mabèlo
+traiter    essa
+traiter    evanga
+traiter    evovo
+traître    mushômbi
+tramer    ekôta kûndu
+tranchant    mbèdi y a buvuru
+tranche    libûki
+trancher    ekèssè
+tranquille    mussighi
+tranquille    tôo
+tranquille    vôo
+tranquiliser    edèrasssa mutèma
+transcrire    etênde
+transférer    etôra
+transformer    ekalala
+transformation    ekalili
+transgresser    ebûngaga
+transgresser    elota
+transmettre    elala
+transmettre    etakassa
+transpercer    eshutassa
+transpirer    enoga shûngi
+transpirer    eshunga
+transplanter    ekona ghu ediga kima
+transport    egnatili
+transporter    eguata
+trapu    mutu a mavèlo
+travail    essadu
+travailler    essa essadu
+travailler    edjandja
+travailleur    mussi a bissadu
+travailleur    mudjandji
+de travers    rèngè-rèngè
+traverser la rivière    ekèssè libânhi
+trébucher    eyènde lindjûmbu
+treize    likumi na bitato
+treizième    u a likami na bitato
+tremblant    mutu yu tèbè
+tremblement    etèbili
+trembler    etèbè
+trembleur    mutèbi
+tremper    eduba
+trente    makumi matato
+trépas    ekuilili
+trépasser    ekua
+trépigner    ediataga
+très    ynènè
+tressaillement    tsaï ynènè
+tressaillir    eparana na tsaï
+tresse de cheveux    muvanda
+tresses de cheveux    mivanda
+tresser    evanda
+tribu    lilongo
+tribunal    shiângu
+tricher    ekutassa
+tricot    voluko
+tricoter    etônga
+tricoter    edissa
+trier    eshôlo
+trimestre    batshûngi batato
+tringle    tshôngo
+trinité    trinite
+trinquer    edukassa
+triompher    etongassa
+tripe    muaka
+tripes    miaka
+triple    malôngo matato
+triple    malüèlè matato
+trique    mutu yu bu fundja batu
+triste    na ngangi mutéma
+tristesse    ngangi mutèma
+troc    eshôbissi
+trois    tato
+troisième    u a mutato
+trompe    buïa
+trompes    mabuïa
+tromper    ekutassa
+tromperie    ekutissi
+trompette    pungi
+trompeur    mukutissi
+tronc    muti
+tronquer    epakala
+tronquer    elèmissè
+trop    elota
+trop    ndjoku
+troquer    eshôbusso
+troqueur    mushôbissi
+trot    matènu
+trotter    eyènde
+trotter    moinde matènu
+trou    libèla
+eau trouble    mamba la bundjigi
+troubler    essa bundjigi
+trouer    etshima
+trouer    essa mabèla
+troupeau    ekogini
+trousseau    ebutu
+trousser    ebètassa
+trouvaille    etolili
+trouver    etolo
+recevoir    ebaga
+truie    mugubèlè u a mukadi
+tu    uè
+tube    ghèla si a puku
+tuer    eboma
+tueur    mubomi
+tuile    limagna bi bu diba yola a djo
+tumulte    mbêmba
+tunique    ngoï ynènè
+turban    mushunga
+turbulent    kaba-kaba
+tutélaire    mukèli
+ange tutélaire    anj mukèli
+tuteur    mubongili
+tuteur    mukèli
+tuyau    erangi
+tyran    mugnümbissi a batu
+tyrannie    egnümbissi
+tyranniser    egnûmbusso
 ulcère    ebokala
 ulcères    bibokala
 ulcérer    eshômbusso bibokala
@@ -2133,8 +2524,6 @@ Verbiage    Erèndili
 Verbiages     birèndili
 Verdir    Ekalaga ngaï-ngaï
 verdure    ngaï-ngaï
-
-
 verge    mubâmbu
 verges    mibâmbu
 véridique    y a moko
@@ -2184,17 +2573,198 @@ vesseurs    bavushili
 vessie    eshûba
 vessies    bishûba
 veste    ngoï a miogo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+vestiaire    ndjo a bangoï
+vestibule    pèsa molèbè
+vestige    elâgili
+vestiges    bilâgili
+veuf    mukuili
+veuve    mukuili
+veuvage    edjalili si a mukuili
+vexer    eduta kèssi
+vexer    ekarana
+viande    gnama
+viandes    bagnama
+viatique    viatik
+vice    ntshâmbi yu mubi
+vice    tshèmbo
+vices    matshèmbo
+vicieux    mutu u a ntshâmbi yu mubi
+vicieuse    mutu u a ntshâmbi yu mubi
+victoire    etongissi
+victoires    bitongissi
+vide    mugnaga
+vider    eita
+vider    egnagassa
+vie    libighu
+vies    mabighu
+vieil    bununu
+vieux    bununu
+vieille    bununu
+vieux    enunu
+vieille    enunu
+vieille chose    ghèma si a madinga
+vieillard    bununu
+vieillards    binunu
+vieillesse    enunili
+vieillesses    binunili
+vieillir    enunassa
+vierge    vierj
+vierge    mutu yu sa peshe a makali vè
+vif    u a li na libighu
+vive    u a li na libighu
+homme vif    mutu u a bikari
+vigilant    mutu u a mukéli
+vigilante    mutu u a mukèli
+vigilance    ekèlili
+vigilances    bikèlili
+vigile    litchugu la tuga litchugu la fèt
+vigoureux    na pindju
+vigoureuse    na pindju
+vigueur    pindju
+vigeurs    mapindju
+vigeur    lingulu
+vigeurs    mangulu
+vil    bubi
+vile    bubi
+vilain    bubi
+vilaine    bubi
+vilebrequin    etubili
+vilebrequins    bitubili
+vilipender    ebèssa
+village    bola
+villages    mabola
+ville    bola bu-bula
+villes    mabola
+villes    mamala
+vin    iven
+vins    biven
+vinaigre    vinègr
+vingt    makumi molè
+vingtième    u a makumi molè
+viol    etèlili
+viols    bitèlili
+violation    ebungigi
+violations    bibungigi
+violence    ebamighi
+violences    bibamighi
+violent    na pata
+violent    na lingulu
+violente    na pata
+violente    na lingulu
+violenter    ebamagha
+violenter    ekolusso
+violer    ebungaga
+violer    ebèssa
+vipère    pili
+vipères    bapili
+virginité    ntshâmbi a mutu yu sa peshe a makali ve
+vis    tshôngo yu bu gnônga
+visage    bushu
+visages    mabushu
+vis-à-vis    mu
+viser    eshûngassa
+visible    ghèla si bu mono na misu
+vision    emonili
+visions    bimonili
+inspection    ekèngissi
+inspections    bikèngissi
+visiter    eyènde emono
+visiteur    muyèndi a emono
+visiteuse    muyèndi a emono
+visiteurs    bayèndi a emono
+visser    egnônga
+vite    ua ua
+vite    tshuè-tshuè
+vitesse    ualili
+vitesses    biwalili
+vivant    mussighi
+vivante    mussighi
+vivant    ebè na libighu
+vivifier    evè libighu
+vivre    ebiga
+vivre    ebè na libighu
+un vivre    bèla bi a edja
+voeu    veu
+voeu    mulabu
+voeux    milabu
+voile de navire    likuku
+voiles de navire    makuku
+voile pour couvrir la tête    ebûdu si ynènè
+voiles pour couvrir la tête    bibûdu si ynènè
+voiler    ediba na ebûdu
+voiler un navire    ebètassa makuku
+voir    emono
+voirie    likussa
+voiries    makussa
+voisin    tûga na
+voisine    pânga na
+voix    ndiui
+voix    mandiui
+vol d'oiseau    eshânga
+vols d'oiseau    bishânga
+larcin    eibili
+vol    eibili
+larcins    bibindili
+vols    bibindili
+volage    evongala
+volée    ekûru
+bande d'oiseaux    ekûru
+volées    bikuru
+voler    edumaga
+prendre injustement    eiba
+volet    pèsa munua a ndjo
+voleur    muibi
+voleuse    muibi
+voleurs    baibi
+voleuses    baibi
+volontaire    na erandili si a o-mènè
+volontairement    na erandili si a o-mènè
+volonté    erandili
+volontés    birandili
+volontiers    hé libôna
+volontiers    yô
+voltiger    eshâtaga
+volupté    bubuè bu bu mono na gnutu
+voluptueux    mutu yu mubi
+voluptuese    mutu yu mubi
+vomir    elôga
+vomissement    elôgili
+vomissemnets    bilôgili
+vomitif    muti a elôga
+vomitive    muti a elôga
+vorace    mubâmbu
+voracité    ebâmbili
+voracités    bibambili
+vos    y a benu
+votre    y a benu
+vouer    eyana na mulabu
+vouloir    eranda
+vous    benu
+voûté    mutu u a mukoto
+voûtée    mutu u a mukoto
+voyage    eyèndili
+voyages    biyèndili
+voyager    edyouga
+voyager    moinde
+voyageur    mudyongi
+voyageurs    bamudyongi
+vrai    moko
+vraie    moko
+vraisemblable    diambo li li nga
+vrille    pèsa
+vrille    egnongili
+vu que    mu bona
+vue    emonili
+vues    bimonili
+vulnérable    muti yu mu emana ngangi
+yeux    misu
+zélateur    mutu yu tshinda bambaghi mu essa mambo ma Ndjambi
+zélatrice    mutu yu tshinda bambaghi mu essa mambo ma Ndjambi
+zèle    etondili si bu tondo etshinda bambaghi mu essa mambo ma Ndjambi
+zélé    mutu yu tondo etshinda bambaghi mu essa mambo ma Ndjambi
+zélée    mutu yu tondo etshinda bambaghi mu essa mambo ma Ndjambi
+zéphyr    livôga
+zinc    livûvu
+zincs    mavûvu
+zizanie    epassili
+zizanies    bipassili
