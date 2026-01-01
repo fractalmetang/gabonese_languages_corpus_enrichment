@@ -1991,11 +1991,388 @@ hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
 
+sa    y a ndè
+son   y a ndè
+sable    eshègè
+sables    bishègè
+sable    mondsèi
+sabler    eita mondsèi
+sablonneux    toto a mondsèi
+sabre    mukuata
+sabres    mikuata
+sabrer    ekèssè na mukuata
+sabrer    esholo
+sacrement    sakraman
+sacré    dhèla si ba vè Ndjambi
+sacrifice    sakrifis
+sacrifier    essa sakrifis
+sacrilège    sakrilej
+sacrilège    ebungigi si bu bungaga sakraman
+sacristie    sakristi
+sacristie    ediga si bu kèlèbela bi a Ndjambi
+sacristain    sakristen
+sacristain    mutu yuyèbissè bela ghu ndjo a Ndjambi
+sagaie    likôngo
+sage    mutu u a tôô
+sage    mussigi
+saignée    epussili si bu possa makila
+saignement    ebôkili
+saigner    epossa makila
+saigneur    mupossi a makila
+sain    u a vè mbèdu
+saindoux    madi a batangani
+saint    sen
+saint    baghi na Ndjambi
+sainte    baghi na Ndjambi
+saint-esprit    idingi-sante
+esprit    idingi
+vivre saintement    edjala edjalili si buè
+saisir    ekuata
+saison    lüèlè
+salade    salad
+saladier    bulu ynènè
+salaud    mutu u a mbindu
+sale    na mbindu
+salé    na etûmbu
+saler    essa etûmbu
+saleté    mbindu
+salière    pèsa etèngè si bu shussa etûmbu
+salir    ebèssa
+salir    evindassa
+salive    likêngi
+saliver    essa likêngi
+salle    ndjo
+salle    molêbe
+lieu salubre    ediga si buè si a vè na mangangi
+saluer    efula
+saluer    eshâmbana
+salut    efulili
+salut    eshambini
+salut éternel    libighu ba mubu-na-mubu
+salve    eviku
+sanctifier    essa sen
+sanctifier    ekalaga sen
+sanctionner    eyâla
+sang    likila
+sang    makila
+sanglant    na makila
+sanglier    ngoïa
+sanglot    eshêkini
+sangloter    eshêkana
+sanguin    mutu u ali na makila ndjoku
+homme sanguinaire    mutu u a kiri
+animal sanguinaire    gnama kôgna
+sanguinolent    na makila
+sanie    livigna
+sans    ve
+sans cela    malua
+sans souci    mutu yu bangala mambovè
+santé    kôo
+sarcasme    etshâkili si ynènè
+sarcler    eyuba bimbu
+sarcleur    muyubi a bimbu
+sardine    nganga
+satan    satan
+satan    anj yu mubi yu pèïè Ndjambi
+satiété    eyûtili
+manger à satiété    eyûta
+satisfaction    tsaï
+satisfactions    matsaï
+satisfaire    ebôndo
+sauce    mudika
+saupoudrer    emonaka
+saut    ebaligi
+sauter    ebalaga
+sauterelle    libânga
+sauteur    mubaligi
+sautillant    yu yènde mudumaga
+sautillement    edumigi
+sautiller    eyènde mudumaga
+sauvage    pindi
+homme sauvage    mutu u a pindi
+homme sauvage    mu si pindi
+se sauver    ebataga
+sauver    ebiassa
+fuir    ebataga
+sauveur    mushôbissi
+savant    muièdi
+savant    na mutchuè
+savant    mutu yu yaba mombo makuna
+saveur    niègè
+savoir    eyaba
+savoir    eyabili
+savoir-faire    eyaba essa
+savoir-faire    buièdi
+savoir-vivre    eyabili si bu yaba na kèlè ntshâmbi a batu
+savon    ntshâvon
+savonnage    etshôkili si bu tshôka na ntshâvon
+savonner    etshôka na ntshâvon
+savourer    epêtulu
+savourer    emêga
+savoureux    na epêtili
+scandale    eyèssili si bu yèssa mambo ma mabi
+scandaleux    diambo li libi
+scandaliser    essa mambo ma yèndissè bambaghi ghu peshe
+scapulaire    skapulèr
+sceau    ndimbu
+scélérat    mutu yu mubi mu munènè
+scélératesse    evangili
+scélératesse    essilili
+scélératesse    diambo li libi li linènè
+sceller    essa ndimbu ghu sangangubi
+sceptre    mupângu
+schismatique    mutu u a vè yala papa nga kumu
+schisme    epassili si bu passana na leglis romèn
+scie    egûasu
+sciemment    mutèba
+science    eyabili
+scier    eghôra na eguasu
+scintiller    ekatana
+scission    epassili
+scorpion    ngênga
+scribe    mutêndi
+scrupule    bomo ghu mutèma mu peshe
+scrupuleux    mutu u a bomo mu peshe
+scruter    ebangala
+sculpter    evanga
+sculpteur    muvangi
+se    ndè
+se    omènè
+soi    gnutu a o 
+soi    mènè
+seau    mugûngu mu munènè
+sec    kagna
+sèche    kagna
+sécher    ekagnassa
+sècheresse    esseu
+saison sèche    esseu
+séchoir    ediga si bu kagnassa mangoï
+second    u a mu yole
+secouer    etshôkassa
+secourir    eyamassa
+secourir    eshumbala
+secours    eyamissi
+secousse    etshôkissi
+secret    si a shuègè
+secrète    si a shuègè
+secrètement    eshuèminè
+secretaire    mutèndimu bambaghi
+secte    erûmba
+arbre séculaire    muti yu mu madinga bissiu mukama
+sécurité    tôô
+sédentaire    mutu yu djala na yu a vè dyonga
+séditieux    mutu yu tshinda bambaghi mu epèïè
+sédition    epèïli si bu pèïè mutu u a kumu
+séducteur    mutshindi bambaghi ghu mambo mabi
+séductrice    mutshindi bambaghi ghu mambo mabi
+séduire    eyèndisse
+séduire    etshinda bambaghi ghu peshe
+seigneur    tata
+seigneur    kumu
+seize    likumi na masamunu
+seizième    u a likumi na masamunu
+séjour    eïkili
+séjourner    edjala
+séjourner    eïka
+sel    etûmbu
+selon    nga
+selon    bi
+selon moi    bi mè
+semaille    egnandjili
+semaine    semèn
+semblable    nga
+semblable    edimu mô
+semblant    ekuata
+faire semblant    ekuata
+sembler    ebè nga
+sembler    ebè efâni mô
+semence    limbûtu
+semer    egnandja
+semer    ekôna
+semeur    mugnandji
+semeur    mukôni
+semis    ediga si bu mangnandja butu
+sens de la vue    emonili si bu mono na misu
+la vue    emonili si bu mono na misu
+l'ouïe    eyugili si bu yuga na matshuï
+l'odorat    evimbili si bu evimba na liyulu
+le goût    pêlo si mugnu a mo pêlo
+le toucher    ebènili si bu bênè
+homme sensé    mutu u a buïèdi
+sensé    u a bouïèdi
+sensible    kènine
+sensualité    etondili si bu tondo ndjoku bela bia gnutu
+sensuel    mutu yu tondo
+sensuel    tondo
+sentence    elèlili si bu lèlè epassili si a mushosso
+sentier    ndjèla
+sentinelle    mukèli a bola
+sentir    eyaba mambo na misu na matshuï
+sentir    eyaba mambo na li yulu
+sentir    eyaba mambo na mugnua na miogo
+séparation    epassili
+séparément    eyâna
+séparer    epassana
+sept    tshâmbo
+septante    makumi tshâmbo
+septième    u a tshâmbo
+serein    eyalala
+sereine    eyalala
+sérieux    tshôga
+sérieusement    moko
+seringue    ndjari a mamba
+serment    mulâbu
+serments    milâbu
+serpent    tâdi
+serpents    batâdi
+serpenter    eyênde mambonho
+serrer    epigna
+sermon    eyissili si a mambo ma Ndjambi
+serrure    pôgo
+service    essadu
+service    essalissi
+serviette    raka
+serviette    baraka
+servir    edjandjanga
+serviteur    mondjandji
+serviteur    mussalissi
+seuil    mubûngu
+seul    mènè
+seule   mènè
+seul    likika
+seulement    mènè
+sève    eshibi
+sévère    kala
+sévère    mudéru
+sévèrement    na kala
+punir    eyèlassa eyilissi si ynènè
+sévir    eyèlassa
+sevrer    elèga muana mabèlo
+sexe masculin    evangili si a mulumi
+homme    mulumi
+masculin    mulumi
+sexe feminin    evangili si a mukasu
+femme    mukasu
+feminin    mukasu
+si    ti
+si    si
+siècle    bissiu mukana
+siège    edjalili
+sien    y a ndè
+sieste    elassili si bu lassa solo na muï
+sifflement    moèdiè
+sifflements    mièdiè
+siffler    efula moèdiè
+sifflet    libêka
+siffleur    mufuli a mièdiè
+signal    ndimbu
+signaler    essa ndimbu
+signature    etendili si bu tènde kumbu a o-mènè
+signe    ndimbu
+signer    etenda kumbu a o-mènè
+signification    timu
+signifier    elèlè
+signifier    eyèssa
+silence    edjalili si bu djala vôô
+silencieux    si a vôô
+sillonner    eyènde
+silloner    elota ghu bidiga biôsi
+simuler    eyèla
+simultanément    na eshôbissi
+sincère    si moko
+sincèrement    si moko
+sincèrement    moko-moko
+sincérité    moko
+singe    kéma
+singe qui lmontre toujours le derrière    ntshègè
+singe avec petit museau    musthi
+singe à longue queue    elôbo
+singe noir avec nez blanc    kêma
+gros singe noir    imbûndi
+singer    eyèla
+singulier    nga kima vè
+singulièrement    erangi
+sinistre    kèssi
+visage sinistre    bushu a kèssi
+sinon    ma lua
+site    ediga
+situer    ebè ghu ediga
+six    masamunu
+sixième    u a masamunu
+sobre    mutu u a vè dja na mutèma
+société    erumba si a butu
+soeur    kèdi
+soif    pèï
+soigner    essa naboèdi
+soigner un malade    evè muti
+soigner un malade    ebôgha
+soigneusement    naboèdi
+soigneux    buèïdi
+soin    ekèlili
+soir    mukôlo
+soit    avoti
+soit    vè bona
+soixante    makumi masamunu
+soixantième    u a makumi masamunu
+sol    toto
+terre    toto
+soldat    muluani
+soleil    muï
+soleil    litadi
+solide     mudéru
+solidement    na mudéru
+solidement    fuè mudéru
+solidité    mudérili
+solitaire    mutu u a vè tondo djala na bambaghi
+solitude    ediga si a vôô
+sollicitation    etshindili
+solliciter    evondo
+solliciter    efula
+solliciter    etshinda
+solliciteur    muvôndi
+sollicitude    ekèlili si ngu kèlè muana a ndè
+sombre    na pipi
+sombre    na epûndu
+sombrer    eïna
+sommeil    misu mi a solo
+maladie du sommeil    ngangi a solo
+sommeiller    etîmba
+sommet    yôla
+sommets    mayôla
+le son    muko
+bruit    muko
+son    y a ndè
+sa    y a ndè
+ses    y a ndè
+sonde     eyèlili
+sonder    eyèlè
+sondeur    muyèli
+songe    ndôti
+rêve    ndôti
+songeur    mutu u a mandôti
+sonner    etshôkassa mondsho
+sonnette    mondsho
+sorcier    nganga
+sorcière    nganga
+sort    kônga
+tirer au sort    essa kônga
+sortie    epolili
+sortir    epôla
+sot    etshuguru
+sotte    etshuguru
+sottise    ebiissili$
+souche    ebanda la likaka
+se soucier    ebangala
+soucieux    mubangili mambo
 
-ta    y a u
-ta    u a u
-ton   u a u 
-ton   y a u
+
+
+ta    wè
+ta    wè
+ton   wè 
+ton   wè
+mon    mè
+ma     mè
 tabac    Evolo
 tabernacle    Tabernakl 
 table    Tabulo
