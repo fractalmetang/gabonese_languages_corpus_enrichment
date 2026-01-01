@@ -2153,8 +2153,291 @@ fusillades    Biviku
 Fusiller    Eboma na ndjari
 Future    Ghèla si ya ghu mbissa
 futur    Ghèla si ya ghu mbissa
+Gage    Tèmbe
+gages    Batèmbe
+Gagner    Ebaga
+gai    Na dièssè
+gaie    na dièssè
+gaie    Na tsaï
+Gaieté    Dièssè
+gaietés    Madièssè
+gaieté    Tsaï
+gaietés    Matsaï
+Gain    Ebagili
+gain    Bibagili
+Gale    Kana
+gales    Bakana
+Galerie    Elêmbe
+galerie    Bilêmbe
+Galeux    Mutu ya bakana
+Galoper    Eyènde tshoa tshoa
+galoper    Moindè na matènu-
+Gambade    Mukâti
+gambades    Mikâti 
+Gambader    Edumaga mikâti
+Garant    Mutu yu mème mu mukima
+Garantir    Emèma
+Garçon    Ngèbè libâla
+Garde-manger    Eshuègili si bu shuège bela bi a ma tiga
+Garder    Ekèlè
+Gardien    Mukèli
+gardiens    Bakèli
+Gare!    Kèlè gnutu
+Gargouillement    Etôgili si moï togo
+Gargouiller    Etôgo moï
+Garnir un appartement    Egningassa bèla ghu tshua
+Garroter    Ekôta
+Gaspiller    Egnongosso bèla mutshuakiri
+gaspiller    Ebungaga  bèla
+Gâter    Ebungaga
+Gauche    Ntshèla a ghôgo a mbôgo
+Gaucher    Mutu u a mbôgo
+Gaucherie    Etolili
+gaucherie    Bitolili
+Gaule    Murorômbo
+gaules    Mirorômbo
+Gazelle    Sèti
+gazelles    Basèli
+Gazon    Bissinga
+Gazouillement    Ethômili si bagnodi bu thóma
+Gazouiller    Ethôma si bagnodi bu thôma
+Gémir    Etshîma
+Gémissement    Etshîmili
+gémissement    Bitshîmili
+Gencive    Bubètu
+gencive    Babètu
+Gendre     Buko
+gendre    Bako
+Gêne    Ekibili
+gênes    bikibili
+Gêner    Essa ekiba
+Généreux    Bukadi
+généreux    Bakadi
+généreux    Na kaba 
+généreux    Ma muaka
+Générosité    Ekabili
+générosité    Bikabili
+Genou    Libôngo
+genoux    Mabôngo
+Génuflexion    Eshûmili si bu shûma makuta bongo
+Gerbe    Ebutu
+gerbes    Bibutu
+Gérer    Li bu kumu
+Germe    Epandigi
+germes    Bipandigi
+Germer    Fpandaga
+Gésier    Eburiri
+gésiers    Biburiri
+Geste    Eyayili
+gestes    Biyayili
+Gesticulateur    Muyayili
+gesticulateurs    Bayayili
+Gesticuler    Eyayala
+Gifle    Mbâta
+gifles    Mambâta
+Gigot    Etó
+gigots    Bito
+Gigotter    Eshènaga
+Gisant    Ndûru
+Glace    Shièno
+glaces    Bieno
+Glaise    Lilèba
+Glaive    Ligniègne
+glaives    Magniègne
+Glaner    Epêbithe
+Glissant    Pfuèlili
+Glissement    Eshênigi
+glissements    Bishênigi
+Glisser    Eshênugo
+Gloire    Likuma
+gloires    Makuma
+Glorieusement    Na Likuma
+Glorieux    Diambo la likuma
+Glorifier    Ekumassa
+Gloussement    Ekâmbigi
+gloussements    Bikâmbigi
+Glousser    Ekâmbaga
+Glouton    Mubâmbu
+Gloutonnerie    Ebambigi
+gloutonneries    Bibambigi
+Gluant    Dâpi
+Gobelet    Mugûngu
+gobelets    Migûngu
+Gomme    Libônde
+gommes    Mabônde
+Gonflement    Erandissi
+gonfelements    Birandissi
+Gonfler    Erandassa
+Gorge    Mungônga
+gorges    Mingônga
+Gorgée    Mukidi
+gorgées    Mikidi
+Gorille    Ebubu
+gorilles    Bibubu
+Gosier    Mungônga
+gosiers    Mingônga
+gosier    Likoki
+gosiers    Makoki
+Goulot    Kingu a mongèle
+Gourde    Libuka
+gourdes    Mabuka
+Gourmand    Mutu u a mutèma
+Gourmandise    Mutèma
+gourmandises    Mitèma
+Gousse    Ekândja
+gousses    Bikândja
+Goût    Pêlo
+goût   Emêgili
+goûts    Bimêgili
+Goûter    Emèga
+goûter    Emono
+goûter   Pêlo
+Goutte    Litangi
+goutte    Matangi
+Grâce    Gras
+grâce    Eyamissi si Ndjambi yamassa besu mu essa mambo ma mabuè
+Pardon    Kolo-kolo  
+pardon    Lingèbè
+Gracier    Emono
+gracier    Lingèbè
+Grain    Disu
+grain de chapelet    Disu la shapele
+grain de plomb    Disu la munkiri
+graine    Mbûtu
+graines    Mambutu
+Graisser    Eshômo madi
+graisser    Ekila na madi
+Graisseux    Linôkè
+Grand    Bunènè
+Grandeur    Bunèni
+Grandir    Ebôga
+Grand-Mère    Kôko
+Grand-Père    kôko
+Grappe    Essangi
+grappes    Bissangi
+Grappin    Mondudu
+grappins    Midudu
+Gras    Evóngo
+grasse    evóngo
+Grassseyer    Evovo
+grasseyer    Lingènbèbe
+Gratifier    Evé mu pagaga
+Gratitude    Bnèkè
+Gratter    Eghâta-pupu
+Grattoir    Eghongissi
+grattoirs    Bighongissi
+Grave    tôo
+grave    Vôo
+grand    bunènè
+Graver    Ekèrè
+Gravier    Mondseï a mangèngile
+Gravir    Ebèta
+Greffer    Eyônga
+Grelotter    Etèbe na pin
+Grenier    Yôla a ndjo
+Grenouille    Likoto
+grenouilles    Makoto
+Grève    Mushèsse
+grèves    Mishèsse
+Griffe    Gnara
+griffes    Magnara
+Griffer    Eghôra
+Grignoter    Edja na bughägni
+Gril    Butäla
+Griller    Ekânga
+Grillon    Itîli
+grillons    Bitîli
+Grimace    Edièssili
+grimaces    Bidièssili
+Grimacer    Edièssè
+Grimacier    Mudièssè
+grimaciers    Badièssè
+Grimpant    Mubèti
+Grimper    Ebèta
+Grincement    Ekuèkili
+grincements    Bikuèkili
+Grincer    Ekuèke
+Grisonner    Bampfui ba ka banda ya
+Grognement    Essinkili
+grognements    Bissinkili
+Grogner    Essinka
+Grondement    Ekingara
+Gronder quelqu'un    Ekarana
+Le tonnere    Ngadi eshûara
+grosse    Bunènè
+Grossier    Likâgna
+Grossièrement    Na likâgna
+Grossir    Enèbe
+Exagérer    Enèbisse
+Grotte    Puku
+grottes    Mabuku
+Groupe    Erumba
+groupes    Birumba
+Gué    Etshôbulo
+gués    Bishôbulo
+Guéable    Tshôbili
+Guenon    Mukadi a kèma
+Guêpe    Elûbi
+guêpes    Bilûbi
+Guêre    Pesu
+Guérir    Evôlassa
+Guérison    Evôlissi
+guérisons    Bivôlissi
+Guérisseur    Muvôlissi
+guérisseurs    Bavôlissi
+Guerre    Libâdi
+guerres    Mabadi
+Guerrier    Mukâri
+Guerrier    Mulouani
+guerriers    Balouani
+Guet-apens    Eshuèmine-ediku
+Guetter    Etala
+Gueulard    Mutu u a libabutu
+Gueuler    Ebambaka
+Gueux    Erôndia
+Gueux    Birôndia
+Guide    Mulâgi
+guide    Balâgi
+Guider    Elâga
+Guigner    Erêngulo
+etoffe    Dshanda mupinda   
 
-
+ha!   ah!
+habile    Buèdi
+habilement    na Buèdi
+habileté    Buèdi
+grande habileté    buèdi bu Bunènè
+habilement    eluatili
+habiller    eluata
+habit    ngoï
+habit    dshanda
+habitant    mudjali
+habiter    edjala
+habitude    ntshâmbi
+habitude    edjalili si djala mutu
+habituellement    malüèlè môsi
+habituer    ebongo ntshâmbi
+habituer    essa ebongo ntshâmbi
+hache    pibi
+hacher    etôko
+hachoir    etokili
+haie    mulôngo
+haillon    lishènge
+haine    livignu
+haineux    mutu a livignu
+haïr    evignala
+haïssable    pati-vè
+haleine    muvudi
+haleter    epa
+halte    evôma
+faire une halte    evôma
+hamac    livumbi
+hameçon    lilobo
+hanche    libindi
+hanches    mabindi
+happer    eïaka
+harangue    diambo
+harangue    evovili
 harangueur    muvôvi
 harangueurs    bavôvi
 harasser    edôko
