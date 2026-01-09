@@ -2400,8 +2400,7 @@ Guide    Mulâgi
 guide    Balâgi
 Guider    Elâga
 Guigner    Erêngulo
-etoffe    Dshanda mupinda   
-
+etoffe    Dshanda mupinda
 ha!   ah!
 habile    Buèdi
 habilement    na Buèdi
@@ -2580,6 +2579,250 @@ hymnes    mimbu
 hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
+
+
+rabâcher    elèlè malongo makuna
+rabais    ekèïssili ya mutangu
+rabot    rabo
+rabot    lïtali mie ekila bikadu
+raboter des planches    essênge
+raboter des planches    ekila bikadu
+rabougri    litôdo
+raccomodage    ebâmbili
+raccomoder    ebâmba
+raccomodeur    mubambi
+raccourcir    ekubassa
+raccourcissement    ekubissi
+race    lilongo
+races    malongo
+rachat    epussili si bu possa mavèga
+racheter    epossa
+racheter    ebiassa
+racine    mukânga
+racler    eghôngo
+racloir    eghôngili
+racleur    mughôngi
+raconter    elèlè
+radeau    elindi
+radieux    si a ekêdine
+radoter    vuala-vuala
+radouber    eyèbissè
+radouber    ebâmba
+rafale    ekônga
+rafraichir    essa ndjiba
+rafraichissement    egnulili
+raide    mudéru
+raie    epassili
+railler    etshâka
+rainure    liyungu
+raison    buièdi
+raison    lingulu la ebangala
+raisonner    ebangala
+raisonnement    ebangili
+raisonneur    mubangili
+rajeunir    eshôbuno
+râle    enghônili
+râlement    enghônili
+ralentir    eshimba
+râler    enghôna
+rallier    eputassa
+ramasser    emassa
+ramener    ebutassa
+rampe    ekuatili
+ramper    nandala
+rance    ndâba
+rancir    ekalala ndâba
+rançon    efutili
+rang    mulongo
+rapace    ua-ua
+râpe    eghuriri
+râper    eghûrana
+rapide    pôba
+rappeler    eba elèlè
+rapporter    ebutassa
+rapporteur    mugnatili
+rapprendre    eba
+rapprendre    eyèga
+rapt    epurili
+rarement    malüèlèmakè
+raser    ekènge
+rassasier    eyûta
+rasseoir    eba edjala
+rassurer    edèrassa
+rat    ngâssi
+rats    bangassi
+rateau    eyalisi si bu yala toto
+rater    elota
+manquer    elota
+faire défaut    eguba
+ratière    muramba
+ratisser    eyala
+rattacher    eba ekôta
+rattraper    ekuata
+rauque    ndiuï liyûngo
+ravage    epatili
+ravager    epatala
+ravir    ebâka
+rayée    li na bipèka
+rayer    essa bipèka
+rebâtir    eba etonga
+rebelle    kêne
+rébellion    ekêni
+rebondir    etêmba
+rebondissement    etêmbili
+reboucher    eba ediba
+rebrousser    essika mu ndjèla
+rebuter    epundja
+recéler    ekèlè bela bi a iba
+recéleur    mukeli a bela bi a iba
+récemment    adingi vè
+recensement    etalili
+récent    ghèla si a na gnagnia
+rechauffer    eba
+rechauffer    eyoassa
+recherche    erandili
+rechercher    eba
+rechercher    erandala
+rechute    ebutighi
+réciprocité    livôto
+réciproque    na livôto
+réciproquement    na livôto
+récit    biko
+réciter    elèlè
+réclamer    ekôlè
+récolte    ito
+récoltes    mato
+récolter    essa ito
+recommande    eyèlissi
+recommander    eyèlisse
+recommencer    eba
+recommencer    ebanda
+réconciliateur    mubômbissi
+réconciliatrice    mubômbissi
+réconcilier    ebômbusso
+réconciliation    ebômbissi
+reconduire    ethôsso
+reconnaître    eyaba
+recoudre    eba edissa
+recopier    eba etênda
+recourber    ekôtusso
+recourir    etôlo
+recouvrer    eba ebaga
+recouvrir    eba ediba
+recréation    evomili
+recréations    lüèlè la mitambo
+récrier    essèmana
+rectification    eshôbili
+rectifier    eshôbo
+recueillir    ebè tôo
+recueillenant    edjalili si bu djala tôo
+reculer    ebuta mbissa
+redemander    eba evondo
+redempteur    mubissi
+rédemption    ebissili
+redevable    li na bimbu
+redingote    ngoï ynènè a miogo
+redonner    eba evè
+redoubler    edèrassa
+redoutable    mukikiri
+redouter    emono bomo yu munènè
+redresser    etèmisse
+reduire    ebâkassa
+réel    moko
+réelle    moko
+refaire    eba essa
+réfectoire    ndjo y bu dja
+refermer    eba ediba
+réfléchir    ebangala
+reflet    ngaï-ngaï
+refleter    essangaï-ngaï
+réflexion    ebangili
+reflux    epâka
+refrain    eyalilisi bu yala mimbu
+refroidir    essa piu
+se refugier    essa libôngo
+se refugier en temps de guerre    eyènde libânga
+refuge    libânga
+refuges    mabanga
+refus    ebissili
+refuser    ebissa
+regagner    eba ebaga
+regard    etalili si bu tala na misu
+regarder    etala na misu
+région    théngè
+région    lilongo
+règle    lüèlè
+règlement    ngidi
+règler    essa ndimbu malüèlè
+tirer des lignes    essa ndimbu malüèlè
+arrêter    epassana
+décider    epassana
+règne    kumu
+règner    ebè na kumu
+regret    ngangi gbu mutèma
+rehausser    ebètassa
+rein    mubassa
+reins    mibassa
+reine    kûndi
+reines    bakundi
+réintégrer    ebutassa
+réitérer    ebuèssè
+rejaillir    etôssaga
+rejeton    pakala
+rejetons    bapakala
+rejoindre    eputassa
+rejoindre    eduka
+réjouir    essa tsaï
+réjouissance    tsaï
+réjouissances    matsaï
+réjouissant    si a tsaï
+relâcher    egnangassa
+relever    essatala
+relier    ebua
+relier    ekota
+religieux    mutu u a Ndjambi
+religion    Ntshâmbi yu bu djandja Ndjambi
+relique    relik
+reluire    nanga-nanga
+remballer    ebutassa
+remboîter    egningassa
+remède    muti
+remèdes    miti
+remercier    evè buèkè
+remettre    ebutassa
+remettre    eshussa ghu ediga
+remettre une dette    buèdi bu a mambo
+se remettre    evôlaga
+remonter    ebua ebèta
+remontrer    eba eyèssa
+remord    essûngili
+remords    bissungili
+remorquer    eduta bungu
+remous    lifuta
+remplaçant    mukitissi
+remplir    erondassa
+remporter    ebutassa
+obtenir    ebaga
+remporter la victoire    etugassa
+remuer    ekalala
+renchérir    erangassa mutângu
+rencontre    ebuèlili
+rencontrer    ebuèla
+rendez-vous    ediga si batu buèla
+rendormir    Issu
+rendre    ebutassa
+renégat    mutu yu pôla ghu ntshâmbi a kretien katolik
+renfermer    ediba
+renforcement    edèrissi
+renforcer    edèrassa
+rengainer    eshômo
+reniement    etûnili
+renier    etuna
+renieur    mutuni
+reniflement    edutili
+renifler    eduta
+renoncement    egnagili
+renoncer    egnaga
 
 
 sa    ya ndè
