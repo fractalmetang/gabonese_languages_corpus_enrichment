@@ -3145,10 +3145,56 @@ purifier    etshêmissè
 pus    livigna
 putréfier    ebolo
 se putréfier    ebolo
-
-
-
-
+quadrupède    gnama a milu minna
+qualité    ntshâmbi
+qualité    lilongo
+quand    ghu
+quand    luèlè lini
+quantité    kuè
+quantité    mutalu
+quarante    makuni manna
+quarantième    u a makumi manna
+quart    itini si a muna
+quatorze    likumi na muna
+quatorzième    u a likumi na muna
+quatre    na
+quatre-vingts    makumi pômbo
+quatre-vingtième    u a makumi pômbo
+quatrième    u a muna
+que    ni
+que    ti
+que    ndjoku na
+quel    na
+quelle    na
+quels    bana
+quelles    bana
+quelconque    pati-mutu
+quelconque    pati-ghèla
+quelque    na bè mutu
+quelque    bakè
+quelque    na bè
+quelquefois    malüèlè makè
+quelqu'un    mutu
+querelle    mudingu
+quereller    eluâna
+quereller    essa mudingu
+qauerelleur    mutu u a bissûngi
+question    efulili
+questionner    efula
+questionneur    mufuli
+queue    mukêla
+qui    yu
+qui    li
+quiconque    mutu ya
+quinze    likumi na tano
+quinzième    u a likumi na tano
+quitter    etôra
+quoi    ke
+quoi    iki
+quoi    ake...
+quoique    na bè
+quotidien    si amatchugu
+quotidiennement    na matchugu mosi
 rabâcher    elèlè malongo makuna
 rabais    ekèïssili ya mutangu
 rabot    rabo
