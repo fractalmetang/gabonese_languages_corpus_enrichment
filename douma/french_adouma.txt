@@ -2580,7 +2580,126 @@ hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
-
+nage    eyôbili
+nager    eyôbo
+nageur    muyôbi
+naguère    tshômi
+naïf    mumèmi
+nain    ekândi
+naissance    ebotili
+naître    babôta
+nappe    dshanda y bu diba tabulo
+narine    mupapu
+narrateur    mulèli a misanu
+narration    elèlili si bu lèlè musamu
+narrer    elèlè musamu
+nasillard    u a nhônho-nhônha
+nasiller    evovo nhônho-nhônha
+nation    lilôngo
+national    si a lilôngo
+natte    pôba
+nature    evangili
+naufrage    eïnili
+naufrager    eïua
+nausée    evondigi
+navigable    libâni idiba
+navigateur    mu si libâni
+naviguer    edyonga ghu libâni
+navire    m'bungu ya mututu
+ne    vè
+ne pas    vè
+né    babota
+néanmoins    na bè
+nécessaire    bubuèni
+négation    etônili
+négligemment    na etîmbili
+négligence    etîmbili
+négligent    u a bitîmbi
+négliger    etêmba
+négoce    mutètè
+négocier    essa mutètè
+nègre    muvinda
+negresse    muvinda
+néophyte    mutu u a vè dinga na batisa
+nerf    musissa
+net    pupu
+nettoyage    etshèmissi
+nettoyer    etshèmusso
+neuf    liboa
+nouveau    si a vè dinga
+neuvième    u a liboa
+neveu    muana u a mukulu
+nièce    muana u a mukulu
+neveu    muana u a mughèghè
+nièce    muana u a mughèghè
+fils du frère aîné    muana u a mukulu
+fille du frère aîné    muana u a mukulu
+fils du frère cadet    muana u a mughèghè
+fille du frère aîné    muana u a mughèghè
+nez    liyulu
+ni    ka vè
+ni Jean ni Jacques    ka Jan vè. ka Jak vè
+nicher    etônga ndjo
+nid    ndjo a niodi
+nier    etôna
+nigaud    mutu u a butshuguru
+niveler    etèmbè
+noce    ebûngissi
+noël    noël
+noël    litchugu bi babota Jesu-Kri
+noeud    lidissa
+noir    vinda
+noirceur    evindili
+noircir    evindassa
+noix    likûda
+nom    kûmbu
+nomade    evongola
+nombre    mutângu
+nombreux    ndjoku
+nombril    mutungu
+nommer    elèlè kumbu
+donner un nom    evè kumbu
+non    ve a agha
+nonchalamment    na burrègnè
+nonchalance    burrègnè
+nonobastant    na bè
+notable    bu-nènè
+note    ndimbu
+noter    essa ndimbu
+noter    etèndè
+notre    ya besu
+nos    ya besu
+nouer    ekotala
+nouer    essa lidissa
+nourrice    mubôngili
+nourricier    mubongili
+nourrir    ebôngala
+nourriture    bela bi a edja
+nous    besu
+nouveau    ndjêndja
+nouvelle    ndjêndja
+nouveauté    diambo la gnagnia
+nouvelle    tshângu
+noyau    mungîngi
+noyer quelqu'un    eïnassa
+noyer soi-même    eïna
+nu    munièngè
+nuage    epêka
+nuageux    na bipêka
+nubile    mutu u a tshitsha mu ebonguno
+nudité    edjalili sia munièngè
+nuire    elôgo
+nuit    pipi
+nul    mutu vè
+nulle    mutu vè
+pas un    mutu vè
+nulle-part    ghu ediga kima vè
+nullement    agha ka libona vè
+numéro    mutalu
+numéroter    essa ndimbu ya mutalu
+nuptial    diambo la liballa
+nuque    lingèssè
+nutritif    ghèla si dèrassa gnutu
 obéir    eyimbassa
 obéissance    eyimbissi
 obéissant    muyimbissi
