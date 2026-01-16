@@ -2580,126 +2580,189 @@ hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
-nage    eyôbili
-nager    eyôbo
-nageur    muyôbi
-naguère    tshômi
-naïf    mumèmi
-nain    ekândi
-naissance    ebotili
-naître    babôta
-nappe    dshanda y bu diba tabulo
-narine    mupapu
-narrateur    mulèli a misanu
-narration    elèlili si bu lèlè musamu
-narrer    elèlè musamu
-nasillard    u a nhônho-nhônha
-nasiller    evovo nhônho-nhônha
-nation    lilôngo
-national    si a lilôngo
-natte    pôba
-nature    evangili
-naufrage    eïnili
-naufrager    eïua
-nausée    evondigi
-navigable    libâni idiba
-navigateur    mu si libâni
-naviguer    edyonga ghu libâni
-navire    m'bungu ya mututu
-ne    vè
-ne pas    vè
-né    babota
-néanmoins    na bè
-nécessaire    bubuèni
-négation    etônili
-négligemment    na etîmbili
-négligence    etîmbili
-négligent    u a bitîmbi
-négliger    etêmba
-négoce    mutètè
-négocier    essa mutètè
-nègre    muvinda
-negresse    muvinda
-néophyte    mutu u a vè dinga na batisa
-nerf    musissa
-net    pupu
-nettoyage    etshèmissi
-nettoyer    etshèmusso
-neuf    liboa
-nouveau    si a vè dinga
-neuvième    u a liboa
-neveu    muana u a mukulu
-nièce    muana u a mukulu
-neveu    muana u a mughèghè
-nièce    muana u a mughèghè
-fils du frère aîné    muana u a mukulu
-fille du frère aîné    muana u a mukulu
-fils du frère cadet    muana u a mughèghè
-fille du frère aîné    muana u a mughèghè
-nez    liyulu
-ni    ka vè
-ni Jean ni Jacques    ka Jan vè. ka Jak vè
-nicher    etônga ndjo
-nid    ndjo a niodi
-nier    etôna
-nigaud    mutu u a butshuguru
-niveler    etèmbè
-noce    ebûngissi
-noël    noël
-noël    litchugu bi babota Jesu-Kri
-noeud    lidissa
-noir    vinda
-noirceur    evindili
-noircir    evindassa
-noix    likûda
-nom    kûmbu
-nomade    evongola
-nombre    mutângu
-nombreux    ndjoku
-nombril    mutungu
-nommer    elèlè kumbu
-donner un nom    evè kumbu
-non    ve a agha
-nonchalamment    na burrègnè
-nonchalance    burrègnè
-nonobastant    na bè
-notable    bu-nènè
-note    ndimbu
-noter    essa ndimbu
-noter    etèndè
-notre    ya besu
-nos    ya besu
-nouer    ekotala
-nouer    essa lidissa
-nourrice    mubôngili
-nourricier    mubongili
-nourrir    ebôngala
-nourriture    bela bi a edja
-nous    besu
-nouveau    ndjêndja
-nouvelle    ndjêndja
-nouveauté    diambo la gnagnia
-nouvelle    tshângu
-noyau    mungîngi
-noyer quelqu'un    eïnassa
-noyer soi-même    eïna
-nu    munièngè
-nuage    epêka
-nuageux    na bipêka
-nubile    mutu u a tshitsha mu ebonguno
-nudité    edjalili sia munièngè
-nuire    elôgo
-nuit    pipi
-nul    mutu vè
-nulle    mutu vè
-pas un    mutu vè
-nulle-part    ghu ediga kima vè
-nullement    agha ka libona vè
-numéro    mutalu
-numéroter    essa ndimbu ya mutalu
-nuptial    diambo la liballa
-nuque    lingèssè
-nutritif    ghèla si dèrassa gnutu
+là    yâna
+laborieux    muvâva
+lac    diânga
+lacet    mussinga
+lâche    mutu ua tshibi
+lâcher    egnagassa
+lâcheté    bulami
+laconique    mutu u a lilimbo
+laconiquement    na lilimbo
+laconisme    lilimbo
+laid    mutu u a bushu bu bi
+laideur    ebèïli
+laie    ngoïa a mukadi
+laisser    tgnaga
+lait    mambo ma mabêlo
+laiteux    u a malimbu
+laiton    eshânga
+lamantin    mânga
+lambeau    erènde
+lamberau de chair    ebôngigi
+lambin    bôgni
+lambiner    essa bôgni
+lame    bèdi
+lame sans manche    mushûngala
+lamentation    etingili
+lamenseter    etingae
+lampe    paga
+lampes    bapaga
+lance    likôngo
+lancer    itè
+langage    evovili
+lange    pesa dshanda
+langue    lilimi
+langueur    edôkili
+languir    edôko
+languissant    mutu u a edôko
+lanière    likâba
+laper    evènde
+lapider    ebôma na mamagna
+larcin    eviagnili
+lard    gnama a mugubèle
+large    bunènè
+larme    litshanga
+larmes    matshanga
+larmoyant    bôlo
+larmoyer    essa bôlo
+larron    muibi mu munènè
+latrines    tshômo
+lavage    etshokili
+lavement    eshôngili si bu shôngala mutu
+laver    etshôka
+laveur    mutshôki
+le    ndè
+le    y
+le    yo
+le    yu
+la    ndè
+la    y
+la    yo
+la    yu
+les    ndè
+les    y
+les    yo
+les    yu
+lécher    evènde
+leçon    eyissili
+lecteur    mutali a sangangubi
+léger    elinge
+légèrement    ebêni
+légèreté    elingili
+législateur    muvangi a mangidi
+legs    egnagili
+legs    ekitissi
+lendemain    bukiabu
+lent    eviâna
+lentement    na eviâna
+lenteur    evianili
+léopard    ndsêgo
+lêpre    kara
+lépreux    mutu u a kara
+lequel   lini
+laquelle    loni
+lesquels    yoni
+lesquelles    shoni
+léser    eloalassa
+léser    ekôma pèsu
+lessive    etshôkili si bu tshôka mangoï
+lest    evignigi
+leste    elènge
+lester    evignaga
+léthargie    gniambu
+lettre    esangangubi
+leur    bo
+leur    mo
+levain    leven
+levain    ghèla si ebètassa mpembe
+levant    ntshèli y muï mu epola
+lever    edèmisse
+se lever    edèmine
+le matin se lève    esoga
+le soleil se lève    litadi eya
+le soleil se lève    epola
+le lever    esogili
+levrier    ebènana
+lèvre    evèngi
+lézard    essiliki
+gros lézard    ngôta
+liane    mukodi
+liane    mobuka
+libérateur    mubissi
+libérer    ebiassa
+libérer    epossa
+libre    mutu kumu a ndé 
+libre    mutu kumu a mènè
+librement    na erandili si a ndè
+librement    na erandili si a mènè
+licencieux    mutu a makali
+licite    si a vè tshêmbo
+lieu    mukodi
+lier    ekôta
+lieu    ediga
+ligne    mulongo
+lignette    ligûbu
+ligue    epassili si bu passa batu
+se liguer    epassa
+limaçon    elôndji
+limaille    puripussi
+lime    eghurili
+limer    eghôra
+limite    ndilu
+limiter    essa ndilu
+limpide    eyalala
+eau limpide    mamba ma yalala
+linge    dshanda
+lingot    etini
+liquéfier    eyandala
+lire    etanguna
+lisible    etendili sibuè
+lisse    jèndji
+livre    esangangubi
+livrer    evè
+livrer    ekaba
+livrer    eshûmba
+loger    eikassa
+loi    ngidi
+loin    ndjânga
+long    bula
+longer    elânda
+longtemps    edinga
+parler longuement    edinga na evovo
+parler longuement    evovo ndjoku
+longueur    elabigi
+lors    na bè
+lorsque    ghu
+lot    likabo
+louable    diambo la li kuma
+louange    essingili
+louche    liviru
+loucher    evirara
+louer    essènga
+lourd    mulèmu
+lourdeur    elèmili
+lueur    liturugu
+luire    ekadana
+lui    ndè
+elle    ndè
+luisant    si kadana
+lumière    bushi
+lumière    mudanga
+jour    bushi
+jour    mudanga
+lumière    paga
+lampe    paga
+lumineux    ghèla si yalala bushi
+lune    tshûngi
+lunette    misu
+lutte    mugîmbi
+lutter    essa mugimbi
+lutter    egèmbana
+lutteur    mugimbini
+luxe    tshûri
+luxure    bukâli
+lyre    ngombi
 ma    ya mè
 mon   ya mè
 mes    ya mè
@@ -3011,6 +3074,126 @@ museau    pfuèngi
 mutiler    elêmissè
 myope    mutu u a vè mo bela bi a ndjânga
 mystère    mistèr
+nage    eyôbili
+nager    eyôbo
+nageur    muyôbi
+naguère    tshômi
+naïf    mumèmi
+nain    ekândi
+naissance    ebotili
+naître    babôta
+nappe    dshanda y bu diba tabulo
+narine    mupapu
+narrateur    mulèli a misanu
+narration    elèlili si bu lèlè musamu
+narrer    elèlè musamu
+nasillard    u a nhônho-nhônha
+nasiller    evovo nhônho-nhônha
+nation    lilôngo
+national    si a lilôngo
+natte    pôba
+nature    evangili
+naufrage    eïnili
+naufrager    eïua
+nausée    evondigi
+navigable    libâni idiba
+navigateur    mu si libâni
+naviguer    edyonga ghu libâni
+navire    m'bungu ya mututu
+ne    vè
+ne pas    vè
+né    babota
+néanmoins    na bè
+nécessaire    bubuèni
+négation    etônili
+négligemment    na etîmbili
+négligence    etîmbili
+négligent    u a bitîmbi
+négliger    etêmba
+négoce    mutètè
+négocier    essa mutètè
+nègre    muvinda
+negresse    muvinda
+néophyte    mutu u a vè dinga na batisa
+nerf    musissa
+net    pupu
+nettoyage    etshèmissi
+nettoyer    etshèmusso
+neuf    liboa
+nouveau    si a vè dinga
+neuvième    u a liboa
+neveu    muana u a mukulu
+nièce    muana u a mukulu
+neveu    muana u a mughèghè
+nièce    muana u a mughèghè
+fils du frère aîné    muana u a mukulu
+fille du frère aîné    muana u a mukulu
+fils du frère cadet    muana u a mughèghè
+fille du frère aîné    muana u a mughèghè
+nez    liyulu
+ni    ka vè
+ni Jean ni Jacques    ka Jan vè. ka Jak vè
+nicher    etônga ndjo
+nid    ndjo a niodi
+nier    etôna
+nigaud    mutu u a butshuguru
+niveler    etèmbè
+noce    ebûngissi
+noël    noël
+noël    litchugu bi babota Jesu-Kri
+noeud    lidissa
+noir    vinda
+noirceur    evindili
+noircir    evindassa
+noix    likûda
+nom    kûmbu
+nomade    evongola
+nombre    mutângu
+nombreux    ndjoku
+nombril    mutungu
+nommer    elèlè kumbu
+donner un nom    evè kumbu
+non    ve a agha
+nonchalamment    na burrègnè
+nonchalance    burrègnè
+nonobastant    na bè
+notable    bu-nènè
+note    ndimbu
+noter    essa ndimbu
+noter    etèndè
+notre    ya besu
+nos    ya besu
+nouer    ekotala
+nouer    essa lidissa
+nourrice    mubôngili
+nourricier    mubongili
+nourrir    ebôngala
+nourriture    bela bi a edja
+nous    besu
+nouveau    ndjêndja
+nouvelle    ndjêndja
+nouveauté    diambo la gnagnia
+nouvelle    tshângu
+noyau    mungîngi
+noyer quelqu'un    eïnassa
+noyer soi-même    eïna
+nu    munièngè
+nuage    epêka
+nuageux    na bipêka
+nubile    mutu u a tshitsha mu ebonguno
+nudité    edjalili sia munièngè
+nuire    elôgo
+nuit    pipi
+nul    mutu vè
+nulle    mutu vè
+pas un    mutu vè
+nulle-part    ghu ediga kima vè
+nullement    agha ka libona vè
+numéro    mutalu
+numéroter    essa ndimbu ya mutalu
+nuptial    diambo la liballa
+nuque    lingèssè
+nutritif    ghèla si dèrassa gnutu
 obéir    eyimbassa
 obéissance    eyimbissi
 obéissant    muyimbissi
