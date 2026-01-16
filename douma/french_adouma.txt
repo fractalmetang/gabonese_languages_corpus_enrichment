@@ -2580,6 +2580,137 @@ hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
+
+obéir    eyimbassa
+obéissance    eyimbissi
+obéissant    muyimbissi
+obésité    enèbili
+objection    elôngili
+objecter    elongo
+objet    ghèla
+obligation    ekôlissi
+obligation    timu
+obliger    ekôlusso
+oblique    erengine
+obscène    si a makâli
+obscénité    mambo ma makâli
+obscur    epûndu
+obscurcir    essa epûndu
+obscurité    epûndu
+observateur    mukèngissi
+observateur de la loi    mukèli
+observation    ekèngissi
+observation de la loi    ekèlili si bu kèlè ngidi
+observer    ekèlè
+observer    ekèngissè
+obstacle matériel    edibili
+obstacle moral    ekubissi
+obstacle    edibili
+obstacle    ekubissi
+sa polygamie est un obstacle au baptème    bakâdi bakuna ba li ekubissi si a batêm mu mulumi a bo
+obstination    evûssili
+obstiné    litshui
+s'obstiner    evûsso
+obstruer    eyalubua
+obstruer    ediba
+obtenir    ebôngo
+obtenir    ebaga
+occasion    timu-mati
+occiput    mbissa
+occiput    likôto
+occulte    si a lishuède
+occuper    eïka
+habiter    eïka
+occuper    edjandjassa
+odeur    tshulu
+odorat    eyûgili
+odorat    evimbili
+oeil    disu
+oeuf    likeï
+offense    ebeïli
+offenser    ebeïa
+offrande    evèdili
+offrir    evè
+offusquer    ediba
+oh!    imè
+oignon    gnondo
+oindre    ekila
+oiseau    niödi
+oiseaux     baniödi
+oiseleur    mukuati a baniodi
+oisif    u a mussighi
+ombrager    essa idi
+ombre    idi
+ombres    bidi
+ombrelle    mugûmbi
+omettre    egnaga
+omettre    etambassa
+omission    egnagili
+omission    etambissi
+omoplate    ebaïka
+on    bu
+oncle    ngubâla
+onction    ekilili
+onde    epâka
+vague    epâka
+ongle    lignâra
+onguent    muti
+onze    likumi na mo
+onzième    u a likumi na mo
+opaque    si a mubiku
+opinion    muvâku
+opposer    ediba
+s'opposer    ediba
+opposer    elèga
+s'opposer    elèga
+opposition    edibili
+opposition    elègili
+oppresser    essûngu
+respiration    ekiba
+oppression    ekèbili
+or (conjonction)    pola
+orage    mbula
+orange    loândjo
+orbite    libûlu
+ordre    eyèbissi
+arrangement    eyèbissi
+loi    elèlili
+loi    ngidi
+ordure    shimbu
+oreille    litshuï
+oreiller    evindju
+orgueil    ntshuri
+orgueilleusement    na ntshuri
+orgueilleux    u a ntshuri
+originaire    babôta
+être originaire    babôta
+origine    ebandili
+commencement    ebandili
+orner    eyèbissè
+orphelin    itshâni
+os    ivîssi
+oser    omono bomo vè
+oser    etôga
+oter    emâssa
+ou    avoti
+ou    vè bona
+où    guni
+oubli    etambissi
+oublier    etambassa
+oublieux    u a etambassa
+oublieux    mutambissi
+oui    he
+ouïe    eyûgili
+ouragan    bula yu bunènè
+ourler    essa mubindu
+ourlet    mubindu
+ouvert    ebôlulo
+ouverture    edibugu
+ouvrage    essadu
+ouvrier    mudjandji
+ouvrir    edibala
+s'oxyder    ekalaga malâli
+oxyder    ekalaga malâli
 pacifier    essa mupamu
 pacifique    mutu u ali mussigi
 pagaie    likâpi
