@@ -2580,6 +2580,67 @@ hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
 
+jabot    eburiri
+jadis    tshômi
+jaillir    eniantsaka
+jaillissement    eniantsiki
+jalouser    evidala
+jalousie    evidili
+jaloux    muvidili
+jamais    ghèla vè
+si jamais    si ti
+jambe    enâma
+jambon   enâma a mugubèlè
+japper    ekaïa
+jardin    n'gûndu
+janne    ebènge
+jaunir    ebèngisse
+je    mè
+jeter    ebissa
+jeter    ebissala
+jeu    tâmbo
+à jeun    ndji vè
+jeune    ngèbè
+jeune    u a vè dinga
+jeûne    ekamakiri si bu kamakiri a ndjâla
+jeûner    ekamakiri ndjala
+joie    esaï
+joindre    edukassa
+joint    edukissi
+joli    bubuè
+jongler    edière
+jonglerie    edierissi
+jongleur    mudièri
+joue    libôka
+jouer    etamba
+joueur    mutambi
+joufflu    na mabôka randa
+jour    litchugu
+lumière du jour    bushi
+lumière du jour    muï
+le jour et la nuit    na muï na pipi
+la pointe du jour    mukilu
+chaque jour    matchugu môsi
+journée    bushi
+journellement    matchugu môsi
+joyeux    na tsaï
+jucher    elassa yulu
+homme judicieux    mutu yu passala mambo naboèdi
+juge    mutshingissi
+jugement    etshingissi
+juger    etshingassa
+jumeau    livassa
+jumelle    livassa
+jumeaux     mavassa
+jurement    mulâbu
+jurer    essa mulâbu
+jurer    elâba
+jureur    mulâbi
+jus    eshôki
+jusque    ku
+jusqu'à la mort    ku ghu liku
+juste    u a vè bukambi
+juteux    uolo-uolo
 là    yâna
 laborieux    muvâva
 lac    diânga
