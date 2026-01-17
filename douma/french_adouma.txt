@@ -94,7 +94,7 @@ accomplissements   bimanissi
 accorder    evè
 donner    evè
 consentir    eyala
-s'accorder    Ngodu
+s'accorder    ngodu
 vivre en bonne intelligence    li li mutèma mu mòsi
 accoster    ebuèlassa
 accoster    etshèkèsse
@@ -390,7 +390,7 @@ appauvrir    ekussa
 appeler    etèle
 appeler quelqu'un    etèle
 appeler    evèssè
-comment t'appelles-tu?    O kumbo kè?
+comment t'appelles-tu?    o kumbo kè?
 appesantir    elèmisse
 appetit    ndjala
 applaudir    estaïa
@@ -529,7 +529,7 @@ assemblage    eputissi
 assemblages    biputissi
 assemblée    erumba a batu
 assemblées    birumba a batu
-assembler    Eputassa bèla ghu ediga mô
+assembler    eputassa bèla ghu ediga mô
 s'assembler    eputana
 assentiment    eyalili
 assentiments    biyalili
@@ -656,8 +656,8 @@ auprès    tuga na
 auusi    ka
 autant    lilongo li mô
 autant    nga
-autel    Lotel
-autel    tabulo ghu ndjo Ndjambi ghu bu vovo lamès
+autel    lotel
+autel    tabulo ghu ndjo ndjambi ghu bu vovo lamès
 autour    edièngile
 autre    mukima
 différent    mukima
@@ -690,8 +690,8 @@ avare    mukussu
 avec    na
 avenir    lüèlè li li ya.
 le temps futur    lüèlè likima li sa ya.
-avent    Lavan
-avent    lüèlè ghu bushu fet y Noël
+avent    lavan
+avent    lüèlè ghu bushu fet y noël
 avertir    elèlè
 avertir secrètement    elèlè tshua liu a u a ya
 aveu    emèmili
@@ -746,7 +746,7 @@ baisser    essundassa
 décroître    ependassa
 baisser    ekèbisse
 diminuer le prix    ekèbisse ndjigi
-La rivière baisse    Tonbda ayènde
+la rivière baisse    tonbda ayènde
 se baisser    ekotuno
 se baisser la tête    ekotusso mutchuè
 balancement    etshokini
@@ -816,7 +816,7 @@ barriques    milèga
 rouler une barrique    evingassa molèga
 bas    mukubi
 basse    mukubi
-Parles bas    evovo naboèdi.
+parles bas    evovo naboèdi.
 parles bas    evovo mukèruno
 parles bas    evivo livuavuania
 en bas    ghutoto
@@ -876,7 +876,7 @@ belle-soeur    miontsâli
 belliqueux    mukari
 belliqueux    bakari
 bénédiction    benediksion
-bénédiction    bibuè bi a Ndjambi
+bénédiction    bibuè bi a ndjambi
 bénéfice    ebagili
 bénéfice    essumbili
 bénéfices    bissumbili
@@ -888,7 +888,7 @@ besoin    ndjâla
 beuglement    ekaïli
 beuglements    bikaïli
 beugler    ekaïa
-bible    sangangubisi a Ndjambi
+bible    sangangubisi a ndjambi
 biche    mukadi a budi
 bien    bubuè
 richesse    mitambo
@@ -1012,7 +1012,7 @@ dédains    bikinili
 dedans    ghu tshoa
 dedans    ghu kate
 dédier    evè
-dédier à Dieu    evè Ndjambi
+dédier à dieu    evè ndjambi
 dédommagement    efutili
 dédommagements    bifutili
 dédommager    efuta
@@ -1120,8 +1120,8 @@ faire mieux    elota
 être eu-dessus    elota
 dépecer    eshassa
 dépêcher    essatshoa-tshoa
-De qui dépends-tu?    Kunu u a u na?
-Cela ne dépend pas de moi    Diambo la me vè!
+de qui dépends-tu?    kunu u a u na?
+cela ne dépend pas de moi    diambo la me vè!
 dépenser    ekaba
 déperir    ebèïa
 dépeupler    ekussa
@@ -1233,7 +1233,7 @@ dévouer    evè gnutu na mutèma
 se dévouer    evè gnutu na mutèma
 diarrhée    mugnulu
 diarhées    mignulu
-Dieu    Ndjambi
+dieu    ndjambi
 diffamateur    mugnatili
 diffamatrice    mugnatili
 diffamer    egnatala
@@ -1249,7 +1249,7 @@ digue    mukèla
 digues    mikèla
 dimanche    dimansh
 dimanche    litchugu polu
-dimanche    litchugu la Ndjambi
+dimanche    litchugu la ndjambi
 dimension    lüèlè
 diminuer    ekèïssè
 dîner    edja lüèlè la midi
@@ -1375,7 +1375,7 @@ dyssenteries    missète
 eau    mamba
 eau chaude    mamba mpa mbau
 eau froide    mambamatshiba
-eau bénite    mambo ma Ndjambi
+eau bénite    mambo ma ndjambi
 eau de vie    malu
 eau de vie    malaku
 ebène    erinda
@@ -1477,7 +1477,7 @@ effroi    ebatissi
 egal    tshitsha
 egaler    egêmbana
 egaliité    li mo
-eglise    ndjo a Ndjambi
+eglise    ndjo a ndjambi
 eglise    mandjo
 egoïste    mukussu
 egoïstes    bakussu
@@ -1759,17 +1759,17 @@ etudiante    muyègi
 etudiants    bayègi
 etui    kôbè a madôngo
 eucharistie    lekaristi
-Europe    Ntshènge a batangani
+europe    ntshènge a batangani
 européen    mutangani
 eux    bo
 elles    bo
 evacuer    epôlaga
-evangile    mambo ma Jesu-Kri a yéssa besu ghu toto
+evangile    mambo ma jesu-kri a yéssa besu ghu toto
 evanouir    eyambaga
 s'evanouir    eyambaga
 evanouissement    eyambigi
 evanouissements    biyambigi
-Eve    Ef mukasu u tshômi
+eve    ef mukasu u tshômi
 eveiller    esôla
 evènement    diambo
 evènements    mambo
@@ -1837,575 +1837,575 @@ exterminer    ebôma bôsi
 extraire    epossa
 extrémité    tshômbo
 extrémités    matshômbo
-Fable    Litshâbi
-fables    Matshâbi
-Fabricant    Muvangi
-fabricants    Bavangi
-Face    Bushu
+fable    litshâbi
+fables    matshâbi
+fabricant    muvangi
+fabricants    bavangi
+face    bushu
 visgae    bushu
-faces    Mabushu
-Fâcher    Ekarana
-Fâcherie    Ekarini
+faces    mabushu
+fâcher    ekarana
+fâcherie    ekarini
 facheries    bikarini
-Facile    Paga-vè
-Facilité    Mukiengu
-facilités    Makiengu
-Faciliter    Essa essadu sa vè paga
-Faculté    Etôgili
-facultés    Bitôgili 
-faculté    Lingulu
-Fade    Pôdi
-Fagot    Ebutu
-fagots    Bibutu
-Fagoter    Ekota bibutu
-Faible    Dôko
-Faiblesse    Edôkili
-faiblesses    Bidôkili
-Faiblir    Edôkusso
-Faim    Ndjâla
-Fainéant    Burrègne
-Faire    Essa 
-Faisceau    Kându
-Falloir    Bubuèni
-Il faut manger pour ne pas mourir    Mu ekua na djâla vè bubuèni edja
-Pour voir il faut ouvrir les yeux    Mu emono bubuèni edibalamisu
-Falsification    Mukuta
-falsification    Eshôpissi
-Falsifier    Eshôpo
-Familiariser    Eïka
-Familierère    Likagna
-Famille    Likaka
-familles    Makaka
-famille    Ebando
-familles    Bibando
-Famine    Ndjála ynènè
-Faner    Ebèïa
-Fantôme    Mukuï
-fantômes    Mikuï
-Farce    Dièssè
-farces    Madièssè
-Farcer    Essa dièssè
-Farceur    Mutu u a dièssè
-Fardeau    Mukuna
-fardeaux    Mikuna
-Farine    Farigna
-farine de manioc    Etèke
-fatigue    Edôkili
-fatigue    Evatili
-fatigues    Bidôkili
-fatigues     Bivatili
-Fatiguer    Edôkusso
-Faute    Tshêmbo
-fautes    Matsêmbo
-faute    Etambissi
-fautes    Bitambissi
-Faveur    Mu
+facile    paga-vè
+facilité    mukiengu
+facilités    makiengu
+faciliter    essa essadu sa vè paga
+faculté    etôgili
+facultés    bitôgili 
+faculté    lingulu
+fade    pôdi
+fagot    ebutu
+fagots    bibutu
+fagoter    ekota bibutu
+faible    dôko
+faiblesse    edôkili
+faiblesses    bidôkili
+faiblir    edôkusso
+faim    ndjâla
+fainéant    burrègne
+faire    essa 
+faisceau    kându
+falloir    bubuèni
+il faut manger pour ne pas mourir    mu ekua na djâla vè bubuèni edja
+pour voir il faut ouvrir les yeux    mu emono bubuèni edibalamisu
+falsification    mukuta
+falsification    eshôpissi
+falsifier    eshôpo
+familiariser    eïka
+familierère    likagna
+famille    likaka
+familles    makaka
+famille    ebando
+familles    bibando
+famine    ndjála ynènè
+faner    ebèïa
+fantôme    mukuï
+fantômes    mikuï
+farce    dièssè
+farces    madièssè
+farcer    essa dièssè
+farceur    mutu u a dièssè
+fardeau    mukuna
+fardeaux    mikuna
+farine    farigna
+farine de manioc    etèke
+fatigue    edôkili
+fatigue    evatili
+fatigues    bidôkili
+fatigues     bivatili
+fatiguer    edôkusso
+faute    tshêmbo
+fautes    matsêmbo
+faute    etambissi
+fautes    bitambissi
+faveur    mu
 en faveu de    mu
-Fécond    Muti yu mubota
-Féconder    Ebotassa 
-Félicité    Bubuè bu bunènè
-Femelle    Mukasu
-femelles    Bakasu
-Femme    Mukasu
-femmes    Bakasu
-Fendeur    Mupassi
-fendeur    Bapassi
-Fendre    Epassa 
-Fenêtre    Mugnua a ndjo
+fécond    muti yu mubota
+féconder    ebotassa 
+félicité    bubuè bu bunènè
+femelle    mukasu
+femelles    bakasu
+femme    mukasu
+femmes    bakasu
+fendeur    mupassi
+fendeur    bapassi
+fendre    epassa 
+fenêtre    mugnua a ndjo
 fenêtres    mignua a ndjo
-Fente    Lipassu
-fentes    Mapassu
-Fer    Itâli
-fers    Bitâli
-Fermentation    Efuatili
-fermentations    Bifuatili
-Fermenter    Efuata
-Fermer    Ediba
-Féroce    Kala
-Férocité    Ekariri
-férocités    Bikariri
-Fertile    Kôlo
+fente    lipassu
+fentes    mapassu
+fer    itâli
+fers    bitâli
+fermentation    efuatili
+fermentations    bifuatili
+fermenter    efuata
+fermer    ediba
+féroce    kala
+férocité    ekariri
+férocités    bikariri
+fertile    kôlo
 terre fertile    toto kôlo
-Fertiliser    Ekôlusso
-Fesse    Ebâdi a lithau
-fesses    Bibadi a liteau
-Fête    Fèt
-fête    Litchugu li linènè
-Fêter    Essa Fèt
-Fétiche    Evêva
-fétiches    Bivêva
-Mouchri    Dieu de la rivière
-Mangôngo    mot de jurement
-Ngoï    Dieu des funérailles
+fertiliser    ekôlusso
+fesse    ebâdi a lithau
+fesses    bibadi a liteau
+fête    fèt
+fête    litchugu li linènè
+fêter    essa fèt
+fétiche    evêva
+fétiches    bivêva
+mouchri    dieu de la rivière
+mangôngo    mot de jurement
+ngoï    dieu des funérailles
 fétiche de la rivière    müngala 
-Féticheur    Nganga
-féticheurs    Banganga
-Fétichisme    Ntsbâmbi a bivêva
-Feu    Mbau
-feux    Mambau
-Feuille    Likaïa
-feuilles    Makaïa
-Ficeler    Ekota
-ficeler    Ekotala
-Ficelle    Mussinga
-ficelle    Missinga
-Fidèle    Buèdi
-Fiel    Ndsûngi
-fiel    Mandsûngi
-se fier    Elombala
-fière    Ntshuri
+féticheur    nganga
+féticheurs    banganga
+fétichisme    ntsbâmbi a bivêva
+feu    mbau
+feux    mambau
+feuille    likaïa
+feuilles    makaïa
+ficeler    ekota
+ficeler    ekotala
+ficelle    mussinga
+ficelle    missinga
+fidèle    buèdi
+fiel    ndsûngi
+fiel    mandsûngi
+se fier    elombala
+fière    ntshuri
 fièr    ntshuri
-Fièvre    Mutchuè
-fièvre    Piu
-Figure    Bushu
-figures    Mabushu
-Figurer    Essa edimu
-figurer    Essa nga
-Fil    Gnongi
-fils    Bagnongi
-File    Mulòngo
-files    Milòngo
-Filer    Evanga gnongi
-Filet    Mbuja
-filets    Bambuja
-Fille    Ngèbè a mukasu
-Fils    Muana a libâla
-Filtration    Egnigili
-filtrations    Bignigili
-Filtre    Egnigi
-filtres    Bignigi
-Filtrer    Egniga
-Fin    Essilili
-fin    Emanili
-fins    Bimanili
-fine    Livèshe
-Sable fin    Mondsëi a kolo
-Finir    Emanassa 
-Fiole    Pèsa mûngèle
-fioles    Mingèle
-Firmament    Yulu
-Flacon    Pèsa pamba
-Flairer    Evimba
-Flaireur    Muvimbi
-flaireurs    Bavimbi
-Flambeau    Paga yu munènè
-Flamme    Mbau 
-Flatter    Ebumbusso
-Flatterie    Ebumbissi
-flatteries    Bibumbissi 
-Flatteur    Mubumbissi
-Flèche    Bôta
-Fleur    Vêdi
-Fleurir    Epossagra 
-Fleuve    Libâni
-Flexible    Ekôlo
-Flotter    Eshângra
-Flûte    Libèka    Mabèka
-Fluxion    Tshuatulu
-Foi    Egalili
-Foie    Libâli
-Folie    Eyaissili
-Fond    tshina
-Fonder    Evangra 
-Fonder    Ebôlusso 
-Fontaine    Litèho
-fontaines    Matèho 
-Force    Pindju
-forces    Mapindju 
-Forcer    Ekolusso 
-Forêt    Pindi
-forêts    Mapindi 
-Forge    Liguba 
-Forger    Etshûla
-Forgeron    Mutshuli
-forgerons    Baguba
-Forme    Edimu
-formes   Bidimu
-Former    Evanga
-Fort    Mudèru
-Fortement    Na mudèru
-Fortifier une maison    Ediba ndjo
+fièvre    mutchuè
+fièvre    piu
+figure    bushu
+figures    mabushu
+figurer    essa edimu
+figurer    essa nga
+fil    gnongi
+fils    bagnongi
+file    mulòngo
+files    milòngo
+filer    evanga gnongi
+filet    mbuja
+filets    bambuja
+fille    ngèbè a mukasu
+fils    muana a libâla
+filtration    egnigili
+filtrations    bignigili
+filtre    egnigi
+filtres    bignigi
+filtrer    egniga
+fin    essilili
+fin    emanili
+fins    bimanili
+fine    livèshe
+sable fin    mondsëi a kolo
+finir    emanassa 
+fiole    pèsa mûngèle
+fioles    mingèle
+firmament    yulu
+flacon    pèsa pamba
+flairer    evimba
+flaireur    muvimbi
+flaireurs    bavimbi
+flambeau    paga yu munènè
+flamme    mbau 
+flatter    ebumbusso
+flatterie    ebumbissi
+flatteries    bibumbissi 
+flatteur    mubumbissi
+flèche    bôta
+fleur    vêdi
+fleurir    epossagra 
+fleuve    libâni
+flexible    ekôlo
+flotter    eshângra
+flûte    libèka    mabèka
+fluxion    tshuatulu
+foi    egalili
+foie    libâli
+folie    eyaissili
+fond    tshina
+fonder    evangra 
+fonder    ebôlusso 
+fontaine    litèho
+fontaines    matèho 
+force    pindju
+forces    mapindju 
+forcer    ekolusso 
+forêt    pindi
+forêts    mapindi 
+forge    liguba 
+forger    etshûla
+forgeron    mutshuli
+forgerons    baguba
+forme    edimu
+formes   bidimu
+former    evanga
+fort    mudèru
+fortement    na mudèru
+fortifier une maison    ediba ndjo
 fortifier un village   bola ma murumba
-Fosse    Libèla
-fosses    Mabèla
-Fou    evulu
-folle    Evulu
-fous    Bivulu
-Foudre    Ngadi
-foudres    Mangadi
-Fouet    Muinuè
+fosse    libèla
+fosses    mabèla
+fou    evulu
+folle    evulu
+fous    bivulu
+foudre    ngadi
+foudres    mangadi
+fouet    muinuè
 fouets    minuè
-Fouetter    Efundja
-Fouiller    Egûra
-Fouler    Etshataga
-Fourbe    Mukutissi
-fourbes    Bàkutissi
-Fourchette    Tshôngo
-fourchettes    Bashôgo
-arbre fourchu    Muti u a bitaka
+fouetter    efundja
+fouiller    egûra
+fouler    etshataga
+fourbe    mukutissi
+fourbes    bàkutissi
+fourchette    tshôngo
+fourchettes    bashôgo
+arbre fourchu    muti u a bitaka
 fourmi    ngambi
 fourmi rouge voyageuse    ngambi
-fourmis    Bangambi
-grosse fourmi rouge    Kônda
-fourmis rouges     Bakônda
+fourmis    bangambi
+grosse fourmi rouge    kônda
+fourmis rouges     bakônda
 fourmi rouge    kamba
-fourmi Blanche    Tshèriri
-grosse fourmi noire    Ebôgno
-fourmi brune    Kîdi
-fourmi    Kûmbara
-Fourmilière    Ndjo a bitshèriri
-Fournir    Evè
-Fournisseur    Muvèdi
-fournisseurs    Bavèdi
-Fourré    Likuaka
-fourrés    Makuaka
-Fourreau    Essûpu
-fourreaux    Bissûpu
-Foyer    Diku
-foyers    Madiku
-Fracas    Mudumungu
-fracas    Midumungu
-Fracasser    Ebola
-Fracture    Ebugna
-farctures    Bibugna
-Fragile    Ebolaga
-Fragilité    Eboligri
-fragilité    Biboligri
-Fragment    Epassi    Bipassi
-oeufs de poisson    Makeï ma batshuï
+fourmi blanche    tshèriri
+grosse fourmi noire    ebôgno
+fourmi brune    kîdi
+fourmi    kûmbara
+fourmilière    ndjo a bitshèriri
+fournir    evè
+fournisseur    muvèdi
+fournisseurs    bavèdi
+fourré    likuaka
+fourrés    makuaka
+fourreau    essûpu
+fourreaux    bissûpu
+foyer    diku
+foyers    madiku
+fracas    mudumungu
+fracas    midumungu
+fracasser    ebola
+fracture    ebugna
+farctures    bibugna
+fragile    ebolaga
+fragilité    eboligri
+fragilité    biboligri
+fragment    epassi    bipassi
+oeufs de poisson    makeï ma batshuï
 frai    oeuf de poisson
-Frais   piu
-Fraiche    Piu
-Franc    libaghi
-franche    Libaghi
-Français    Fala
-France    Ntshènge ya Fala
-Franchir    Etagaga
-Frange    Essâpu
-Frapper    Efundja
-Fraude    Ekûtissi
-Frauder    Ekuta
-Fraudeur    Mukuti
-Frémir    Etèbe
-frémir    Eshinga
-Frémissement    Etèbili
-frémissements    Bitèbili
-frémissement    Eshingili
-frémissements    Bishingili
-Fréquenter    Emono malüèlè môsi
-Frère aîné    Mukulu
-frères aïnés    Bakulu
-frère cadet    Mughèghè
-frères cadets    Baghèghè
-Mes frères    Bana ba ngu
-Friche    Livosho
-friches    Mavosho
-Friction    Eghôngissi
-frictions    Bighôngissi
-Frictionner    Eghôngassa
-Frire    Ekanga
-Friser    Egnonga
-Frisson    Etèbili
-frissons    Bitèbili
-Friture    Ekangili
-fritures    Bikangili
-Frivole    Ntshuguru
-frivole    Evongola
-Froid    Piu
-Froissement    Egnigili
-froissement    Bignigili
-Froisser    Egniga
-Frôler    Ebène
-Fromage    Kôsse
-fromages    Makôsse
-Froncer    Epiadassa
-Fronde    Ndundu
-frondes    Bandundu
-Front    Libondju
-fronts    Mabondju
-Frottement    Ekiriki
-frottement    Eghôngissi
-frottements    Bighôngissi
-Frotter    Eghôra
-frotter    Eghôngassa
-Fructifier    Ebota
-fructifier    Milônda
-Fruit    Mulônda
-fruits    Milônda  
-Fugitif    Mubatigi
-fugitifs    Babatigi
-Fuir    Ebataga
-Fuite    Ebatili
-fuites    Bibatili
-Fumée    Mututu
-fumées    Mitutu
-Fumer    Egnua evolo
-Fumeur    Mugnui a evolo
-fumeurs    Bagnui a evolo
-Fumier    Matsibi a bagnama
-Fureur    Kèssi ynènè
-fureurs    Makèssi ynènè
-Furieux    Na kèssi
-Fusil    Ndjari
-fusils    Mandjari
-Fusillade    Eviku
-fusillades    Biviku
-Fusiller    Eboma na ndjari
-Future    Ghèla si ya ghu mbissa
-futur    Ghèla si ya ghu mbissa
-Gage    Tèmbe
-gages    Batèmbe
-Gagner    Ebaga
-gai    Na dièssè
+frais   piu
+fraiche    piu
+franc    libaghi
+franche    libaghi
+français    fala
+france    ntshènge ya fala
+franchir    etagaga
+frange    essâpu
+frapper    efundja
+fraude    ekûtissi
+frauder    ekuta
+fraudeur    mukuti
+frémir    etèbe
+frémir    eshinga
+frémissement    etèbili
+frémissements    bitèbili
+frémissement    eshingili
+frémissements    bishingili
+fréquenter    emono malüèlè môsi
+frère aîné    mukulu
+frères aïnés    bakulu
+frère cadet    mughèghè
+frères cadets    baghèghè
+mes frères    bana ba ngu
+friche    livosho
+friches    mavosho
+friction    eghôngissi
+frictions    bighôngissi
+frictionner    eghôngassa
+frire    ekanga
+friser    egnonga
+frisson    etèbili
+frissons    bitèbili
+friture    ekangili
+fritures    bikangili
+frivole    ntshuguru
+frivole    evongola
+froid    piu
+froissement    egnigili
+froissement    bignigili
+froisser    egniga
+frôler    ebène
+fromage    kôsse
+fromages    makôsse
+froncer    epiadassa
+fronde    ndundu
+frondes    bandundu
+front    libondju
+fronts    mabondju
+frottement    ekiriki
+frottement    eghôngissi
+frottements    bighôngissi
+frotter    eghôra
+frotter    eghôngassa
+fructifier    ebota
+fructifier    milônda
+fruit    mulônda
+fruits    milônda  
+fugitif    mubatigi
+fugitifs    babatigi
+fuir    ebataga
+fuite    ebatili
+fuites    bibatili
+fumée    mututu
+fumées    mitutu
+fumer    egnua evolo
+fumeur    mugnui a evolo
+fumeurs    bagnui a evolo
+fumier    matsibi a bagnama
+fureur    kèssi ynènè
+fureurs    makèssi ynènè
+furieux    na kèssi
+fusil    ndjari
+fusils    mandjari
+fusillade    eviku
+fusillades    biviku
+fusiller    eboma na ndjari
+future    ghèla si ya ghu mbissa
+futur    ghèla si ya ghu mbissa
+gage    tèmbe
+gages    batèmbe
+gagner    ebaga
+gai    na dièssè
 gaie    na dièssè
-gaie    Na tsaï
-Gaieté    Dièssè
-gaietés    Madièssè
-gaieté    Tsaï
-gaietés    Matsaï
-Gain    Ebagili
-gain    Bibagili
-Gale    Kana
-gales    Bakana
-Galerie    Elêmbe
-galerie    Bilêmbe
-Galeux    Mutu ya bakana
-Galoper    Eyènde tshoa tshoa
-galoper    Moindè na matènu-
-Gambade    Mukâti
-gambades    Mikâti 
-Gambader    Edumaga mikâti
-Garant    Mutu yu mème mu mukima
-Garantir    Emèma
-Garçon    Ngèbè libâla
-Garde-manger    Eshuègili si bu shuège bela bi a ma tiga
-Garder    Ekèlè
-Gardien    Mukèli
-gardiens    Bakèli
-Gare!    Kèlè gnutu
-Gargouillement    Etôgili si moï togo
-Gargouiller    Etôgo moï
-Garnir un appartement    Egningassa bèla ghu tshua
-Garroter    Ekôta
-Gaspiller    Egnongosso bèla mutshuakiri
-gaspiller    Ebungaga  bèla
-Gâter    Ebungaga
-Gauche    Ntshèla a ghôgo a mbôgo
-Gaucher    Mutu u a mbôgo
-Gaucherie    Etolili
-gaucherie    Bitolili
-Gaule    Murorômbo
-gaules    Mirorômbo
-Gazelle    Sèti
-gazelles    Basèli
-Gazon    Bissinga
-Gazouillement    Ethômili si bagnodi bu thóma
-Gazouiller    Ethôma si bagnodi bu thôma
-Gémir    Etshîma
-Gémissement    Etshîmili
-gémissement    Bitshîmili
-Gencive    Bubètu
-gencive    Babètu
-Gendre     Buko
-gendre    Bako
-Gêne    Ekibili
+gaie    na tsaï
+gaieté    dièssè
+gaietés    madièssè
+gaieté    tsaï
+gaietés    matsaï
+gain    ebagili
+gain    bibagili
+gale    kana
+gales    bakana
+galerie    elêmbe
+galerie    bilêmbe
+galeux    mutu ya bakana
+galoper    eyènde tshoa tshoa
+galoper    moindè na matènu-
+gambade    mukâti
+gambades    mikâti 
+gambader    edumaga mikâti
+garant    mutu yu mème mu mukima
+garantir    emèma
+garçon    ngèbè libâla
+garde-manger    eshuègili si bu shuège bela bi a ma tiga
+garder    ekèlè
+gardien    mukèli
+gardiens    bakèli
+gare!    kèlè gnutu
+gargouillement    etôgili si moï togo
+gargouiller    etôgo moï
+garnir un appartement    egningassa bèla ghu tshua
+garroter    ekôta
+gaspiller    egnongosso bèla mutshuakiri
+gaspiller    ebungaga  bèla
+gâter    ebungaga
+gauche    ntshèla a ghôgo a mbôgo
+gaucher    mutu u a mbôgo
+gaucherie    etolili
+gaucherie    bitolili
+gaule    murorômbo
+gaules    mirorômbo
+gazelle    sèti
+gazelles    basèli
+gazon    bissinga
+gazouillement    ethômili si bagnodi bu thóma
+gazouiller    ethôma si bagnodi bu thôma
+gémir    etshîma
+gémissement    etshîmili
+gémissement    bitshîmili
+gencive    bubètu
+gencive    babètu
+gendre     buko
+gendre    bako
+gêne    ekibili
 gênes    bikibili
-Gêner    Essa ekiba
-Généreux    Bukadi
-généreux    Bakadi
-généreux    Na kaba 
-généreux    Ma muaka
-Générosité    Ekabili
-générosité    Bikabili
-Genou    Libôngo
-genoux    Mabôngo
-Génuflexion    Eshûmili si bu shûma makuta bongo
-Gerbe    Ebutu
-gerbes    Bibutu
-Gérer    Li bu kumu
-Germe    Epandigi
-germes    Bipandigi
-Germer    Fpandaga
-Gésier    Eburiri
-gésiers    Biburiri
-Geste    Eyayili
-gestes    Biyayili
-Gesticulateur    Muyayili
-gesticulateurs    Bayayili
-Gesticuler    Eyayala
-Gifle    Mbâta
-gifles    Mambâta
-Gigot    Etó
-gigots    Bito
-Gigotter    Eshènaga
-Gisant    Ndûru
-Glace    Shièno
-glaces    Bieno
-Glaise    Lilèba
-Glaive    Ligniègne
-glaives    Magniègne
-Glaner    Epêbithe
-Glissant    Pfuèlili
-Glissement    Eshênigi
-glissements    Bishênigi
-Glisser    Eshênugo
-Gloire    Likuma
-gloires    Makuma
-Glorieusement    Na Likuma
-Glorieux    Diambo la likuma
-Glorifier    Ekumassa
-Gloussement    Ekâmbigi
-gloussements    Bikâmbigi
-Glousser    Ekâmbaga
-Glouton    Mubâmbu
-Gloutonnerie    Ebambigi
-gloutonneries    Bibambigi
-Gluant    Dâpi
-Gobelet    Mugûngu
-gobelets    Migûngu
-Gomme    Libônde
-gommes    Mabônde
-Gonflement    Erandissi
-gonfelements    Birandissi
-Gonfler    Erandassa
-Gorge    Mungônga
-gorges    Mingônga
-Gorgée    Mukidi
-gorgées    Mikidi
-Gorille    Ebubu
-gorilles    Bibubu
-Gosier    Mungônga
-gosiers    Mingônga
-gosier    Likoki
-gosiers    Makoki
-Goulot    Kingu a mongèle
-Gourde    Libuka
-gourdes    Mabuka
-Gourmand    Mutu u a mutèma
-Gourmandise    Mutèma
-gourmandises    Mitèma
-Gousse    Ekândja
-gousses    Bikândja
-Goût    Pêlo
-goût   Emêgili
-goûts    Bimêgili
-Goûter    Emèga
-goûter    Emono
-goûter   Pêlo
-Goutte    Litangi
-goutte    Matangi
-Grâce    Gras
-grâce    Eyamissi si Ndjambi yamassa besu mu essa mambo ma mabuè
-Pardon    Kolo-kolo  
-pardon    Lingèbè
-Gracier    Emono
-gracier    Lingèbè
-Grain    Disu
-grain de chapelet    Disu la shapele
-grain de plomb    Disu la munkiri
-graine    Mbûtu
-graines    Mambutu
-Graisser    Eshômo madi
-graisser    Ekila na madi
-Graisseux    Linôkè
-Grand    Bunènè
-Grandeur    Bunèni
-Grandir    Ebôga
-Grand-Mère    Kôko
-Grand-Père    kôko
-Grappe    Essangi
-grappes    Bissangi
-Grappin    Mondudu
-grappins    Midudu
-Gras    Evóngo
-grasse    evóngo
-Grassseyer    Evovo
-grasseyer    Lingènbèbe
-Gratifier    Evé mu pagaga
-Gratitude    Bnèkè
-Gratter    Eghâta-pupu
-Grattoir    Eghongissi
-grattoirs    Bighongissi
-Grave    tôo
-grave    Vôo
+gêner    essa ekiba
+généreux    bukadi
+généreux    bakadi
+généreux    na kaba 
+généreux    ma muaka
+générosité    ekabili
+générosité    bikabili
+genou    libôngo
+genoux    mabôngo
+génuflexion    eshûmili si bu shûma makuta bongo
+gerbe    ebutu
+gerbes    bibutu
+gérer    li bu kumu
+germe    epandigi
+germes    bipandigi
+germer    fpandaga
+gésier    eburiri
+gésiers    biburiri
+geste    eyayili
+gestes    biyayili
+gesticulateur    muyayili
+gesticulateurs    bayayili
+gesticuler    eyayala
+gifle    mbâta
+gifles    mambâta
+gigot    etó
+gigots    bito
+gigotter    eshènaga
+gisant    ndûru
+glace    shièno
+glaces    bieno
+glaise    lilèba
+glaive    ligniègne
+glaives    magniègne
+glaner    epêbithe
+glissant    pfuèlili
+glissement    eshênigi
+glissements    bishênigi
+glisser    eshênugo
+gloire    likuma
+gloires    makuma
+glorieusement    na likuma
+glorieux    diambo la likuma
+glorifier    ekumassa
+gloussement    ekâmbigi
+gloussements    bikâmbigi
+glousser    ekâmbaga
+glouton    mubâmbu
+gloutonnerie    ebambigi
+gloutonneries    bibambigi
+gluant    dâpi
+gobelet    mugûngu
+gobelets    migûngu
+gomme    libônde
+gommes    mabônde
+gonflement    erandissi
+gonfelements    birandissi
+gonfler    erandassa
+gorge    mungônga
+gorges    mingônga
+gorgée    mukidi
+gorgées    mikidi
+gorille    ebubu
+gorilles    bibubu
+gosier    mungônga
+gosiers    mingônga
+gosier    likoki
+gosiers    makoki
+goulot    kingu a mongèle
+gourde    libuka
+gourdes    mabuka
+gourmand    mutu u a mutèma
+gourmandise    mutèma
+gourmandises    mitèma
+gousse    ekândja
+gousses    bikândja
+goût    pêlo
+goût   emêgili
+goûts    bimêgili
+goûter    emèga
+goûter    emono
+goûter   pêlo
+goutte    litangi
+goutte    matangi
+grâce    gras
+grâce    eyamissi si ndjambi yamassa besu mu essa mambo ma mabuè
+pardon    kolo-kolo  
+pardon    lingèbè
+gracier    emono
+gracier    lingèbè
+grain    disu
+grain de chapelet    disu la shapele
+grain de plomb    disu la munkiri
+graine    mbûtu
+graines    mambutu
+graisser    eshômo madi
+graisser    ekila na madi
+graisseux    linôkè
 grand    bunènè
-Graver    Ekèrè
-Gravier    Mondseï a mangèngile
-Gravir    Ebèta
-Greffer    Eyônga
-Grelotter    Etèbe na pin
-Grenier    Yôla a ndjo
-Grenouille    Likoto
-grenouilles    Makoto
-Grève    Mushèsse
-grèves    Mishèsse
-Griffe    Gnara
-griffes    Magnara
-Griffer    Eghôra
-Grignoter    Edja na bughägni
-Gril    Butäla
-Griller    Ekânga
-Grillon    Itîli
-grillons    Bitîli
-Grimace    Edièssili
-grimaces    Bidièssili
-Grimacer    Edièssè
-Grimacier    Mudièssè
-grimaciers    Badièssè
-Grimpant    Mubèti
-Grimper    Ebèta
-Grincement    Ekuèkili
-grincements    Bikuèkili
-Grincer    Ekuèke
-Grisonner    Bampfui ba ka banda ya
-Grognement    Essinkili
-grognements    Bissinkili
-Grogner    Essinka
-Grondement    Ekingara
-Gronder quelqu'un    Ekarana
-Le tonnere    Ngadi eshûara
-grosse    Bunènè
-Grossier    Likâgna
-Grossièrement    Na likâgna
-Grossir    Enèbe
-Exagérer    Enèbisse
-Grotte    Puku
-grottes    Mabuku
-Groupe    Erumba
-groupes    Birumba
-Gué    Etshôbulo
-gués    Bishôbulo
-Guéable    Tshôbili
-Guenon    Mukadi a kèma
-Guêpe    Elûbi
-guêpes    Bilûbi
-Guêre    Pesu
-Guérir    Evôlassa
-Guérison    Evôlissi
-guérisons    Bivôlissi
-Guérisseur    Muvôlissi
-guérisseurs    Bavôlissi
-Guerre    Libâdi
-guerres    Mabadi
-Guerrier    Mukâri
-Guerrier    Mulouani
-guerriers    Balouani
-Guet-apens    Eshuèmine-ediku
-Guetter    Etala
-Gueulard    Mutu u a libabutu
-Gueuler    Ebambaka
-Gueux    Erôndia
-Gueux    Birôndia
-Guide    Mulâgi
-guide    Balâgi
-Guider    Elâga
-Guigner    Erêngulo
-etoffe    Dshanda mupinda
+grandeur    bunèni
+grandir    ebôga
+grand-mère    kôko
+grand-père    kôko
+grappe    essangi
+grappes    bissangi
+grappin    mondudu
+grappins    midudu
+gras    evóngo
+grasse    evóngo
+grassseyer    evovo
+grasseyer    lingènbèbe
+gratifier    evé mu pagaga
+gratitude    bnèkè
+gratter    eghâta-pupu
+grattoir    eghongissi
+grattoirs    bighongissi
+grave    tôo
+grave    vôo
+grand    bunènè
+graver    ekèrè
+gravier    mondseï a mangèngile
+gravir    ebèta
+greffer    eyônga
+grelotter    etèbe na pin
+grenier    yôla a ndjo
+grenouille    likoto
+grenouilles    makoto
+grève    mushèsse
+grèves    mishèsse
+griffe    gnara
+griffes    magnara
+griffer    eghôra
+grignoter    edja na bughägni
+gril    butäla
+griller    ekânga
+grillon    itîli
+grillons    bitîli
+grimace    edièssili
+grimaces    bidièssili
+grimacer    edièssè
+grimacier    mudièssè
+grimaciers    badièssè
+grimpant    mubèti
+grimper    ebèta
+grincement    ekuèkili
+grincements    bikuèkili
+grincer    ekuèke
+grisonner    bampfui ba ka banda ya
+grognement    essinkili
+grognements    bissinkili
+grogner    essinka
+grondement    ekingara
+gronder quelqu'un    ekarana
+le tonnere    ngadi eshûara
+grosse    bunènè
+grossier    likâgna
+grossièrement    na likâgna
+grossir    enèbe
+exagérer    enèbisse
+grotte    puku
+grottes    mabuku
+groupe    erumba
+groupes    birumba
+gué    etshôbulo
+gués    bishôbulo
+guéable    tshôbili
+guenon    mukadi a kèma
+guêpe    elûbi
+guêpes    bilûbi
+guêre    pesu
+guérir    evôlassa
+guérison    evôlissi
+guérisons    bivôlissi
+guérisseur    muvôlissi
+guérisseurs    bavôlissi
+guerre    libâdi
+guerres    mabadi
+guerrier    mukâri
+guerrier    mulouani
+guerriers    balouani
+guet-apens    eshuèmine-ediku
+guetter    etala
+gueulard    mutu u a libabutu
+gueuler    ebambaka
+gueux    erôndia
+gueux    birôndia
+guide    mulâgi
+guide    balâgi
+guider    elâga
+guigner    erêngulo
+etoffe    dshanda mupinda
 ha!   ah!
-habile    Buèdi
-habilement    na Buèdi
-habileté    Buèdi
-grande habileté    buèdi bu Bunènè
+habile    buèdi
+habilement    na buèdi
+habileté    buèdi
+grande habileté    buèdi bu bunènè
 habilement    eluatili
 habiller    eluata
 habit    ngoï
@@ -2579,7 +2579,318 @@ hymnes    mimbu
 hypocrisie    libûmbusso
 hypocrisies    malibûmbusso
 hypocrite    mutu u a libûmbusso
-
+ici    guni
+idée    ebangili
+idées    bibangili
+identique    tshitsha
+identifier    essa tshitsha
+identité    tshitsha
+idiome    evovili
+idiomes    bivovili
+idiot   etshuguru
+idolâtre    mussingi
+idôlatre    bassingi
+idolâtrie    essingili si bu sènga bivêva
+idole    evêva
+idoles    bivêva
+igname    ekua
+ignames    bikua
+ignoble    tshitshu y-nènè 
+ignoble    bubi bu bu nènè
+ignorance    epipi
+ignorances    bipipi
+ignorant    mutu u a tshugura 
+ignorant    mutu u vè yaba mambo
+ignorer    eyaba-vè
+il    ndè
+elle    ndè
+île    ndubi 
+îles   mandubi
+illégal    efussa
+enfant illégitime     muana a badi–a-badi
+illégitime    badi–a-badi
+illicite    diambo libalèga
+illisible    etendili si ybi
+illumination kèlilè-kèlilè
+illuminer    essa kélilè-kèlilè
+image    edimu 
+images    bidimu
+imagination    ebangili
+imaginations    bibangili
+imaginer    ebangala
+imbécile    etshuguru
+imbéciles    bitshuguru
+imberbe    mutu u a vè indsèdi
+imbiber    edûba
+imbiber    egnôroro
+imitateur    mufâni
+imitateurs    bafâni
+imitateur    muïaki 
+imitateurs    bamuïaki
+imitation    efânili
+imitataions    bifânili
+imiter    efâna
+imiter    eïaka
+contrefaire    eïèla
+immaculé    u a vè tschêmbo
+immensité    enèbili
+immensités    binèbili
+immerger    eînassa
+immobile    u a vè tshokana
+immoler    ebôma
+immonde    bubi bu bunènè
+immondice    tshêtshi 
+immondices    matshêtshi
+immoral    mubi u a makâli
+immortel    u a kua vè
+immortel    mubu— na—mubu
+immortifié    u a bishiassi
+immuable    eshôbuno vè
+impalpable    ghèla si a vè bèmbe na miogo
+imparfait    u a vè manassa
+impartageable    u vè kaba
+impartial    u a libûli vè
+impassible    u a vè lingulu la emono massiri
+impatience    pâmi
+impatient    u a pâmi
+impatienter    ekarassa
+fôret impénétrable    pindi u a liguaka
+habit impénétrable    ngoï u a vè lingulu la eshûta
+impénitent    mutu yu mbissa guiaga mambo ma peshe
+impénitent    mutu yu mbissa ebôndo ndjambi
+imperceptible    u vè na lingulu la emono namisu
+imperméable    ngoï y-nènè u a bula
+impétueux    ghôngala
+impie    mutu yu mbissa mambo ma ndjambi
+impitoyable    mutu yu mono bambaghi lingèbè vè
+impitoyablement    na lingèbè vè
+implorer    evôndo
+implorer    efula
+impoli    likâgna
+impolitesse    ekagnili
+important    bunènè
+homme important    mutu yu munènè
+chose importante    diambo li linènè
+importer    egnataga ghu ntshèngè kima
+importun    u a libêminè
+importuner    ebèmine
+imposer les mains    leshûssa miogo ghu yola mutchuè a bambaghi
+imposer une pénitence    evè eyilissi
+impossible    tshitsha vè
+imposteur    mupiapia
+imposture    ekutissi si ynènè
+imprécation    ebâli
+impressionnable    u a bubôdu
+imprévoyance    ebôrili vè
+imprévoyant    u a vè libôra
+à l'improviste    ni pârissi
+la mort vient à l'improviste    liku li ya ni pârissi
+imprudemment    na ntshâra-ntshambi
+imprudence    ntshâra-ntshambi
+imprudent    u a ntshâra-ntshambi
+impudicité    bukâli
+impudique    u a bukâli
+impuissant    u a vè lingulu
+impur    u a bukâli
+impureté    bukâli
+impulsion    etshindili
+inaction    edjalili si a bu djala mussighi
+inattentif    evongola
+incapable    etôga vè
+incarnation    lenkarnaison
+s'incarner    ebongo gnutu na idingi ngana bu li besu
+incendiaire    munièngissi
+incendie    elolili
+incendier    enièngisse
+incessamment    tshuè-tshuè
+incirconcis    mutu u a vè sa saku
+inciser    essa lissâmba
+inciser    ekèssè lissâmba
+incision    lissâmba
+incivilisé    pindi
+homme incivilisé    mutu u a pindi
+peuple incivilisé    lilongo la pindi
+incliner    ekotusso
+incompétence    paga
+incompétent    eshâga
+incompréhensible    viû
+inconduite    edjalili si ybi
+inconnu    mutu u a makaka
+homme inconnu    diambo la vè yaba
+chose inconnue    diambo la vè yaba
+inconsolable    u a vè lingulu la shimba mutèma
+inconstance    lifudi la muingè
+inconstant    u a lifudi la muingè
+incontinent    u a makâli
+incorporel    u a vè gnutu
+incorrigible    u a vè éyèbisse
+incorrutptible    u a vè lingulu la ebolo
+incrédule    u a vè eyala mambo
+incroyable    u a vè eyala
+inculte    ntshèngè a vè ekôna
+terre inculte    ntshèngè a vè ekôna
+homme inculte    mutu si pindi
+incurable    u a vè evôlaga
+indécent    evovili si a bukâli
+indécis    u a vè ebataga
+indélébile    u a vè dimaga
+indépendance    elôngili
+indépendant    u a elôngo
+index    mulèmbo u a ndûka na ngu
+indifféremment    pati
+indigeste    bela moï mulèmu
+indiquer    eyèssa
+indiscret    mushâli
+indispensable    bubuèni
+indivisible    u a vè kaba
+indocile    ngèbè u a mutchuè yu mubi
+indocile    ngèbè u a vè yimbassa
+indomptable    u a vè ekalaga bubuè
+indubitable    u a vè etambiri
+induire    etshinda
+indulgence    lingèbè
+indulgent    u a lingèbè
+inébranlable    u a budèru
+inéffaçable    u a vè emata
+inéffaçable    u a vè dimaga
+inégal    vèntata-vèntata
+inégal    mibôkara
+inégal    mipupu
+inénarrable    u a vè lingulu la lèlè
+inépuisable    u a vè sila
+fontaine inépuisable    lithéo la vè kagna
+source intarissable    lithéo la vè kagna
+inexpérimenté    u a vè yaba
+infaillible    moko
+infaillible    u a vè lingulu la etambassa
+infaisable    essadu u a vè lingulu la esa
+ouvrage    lingulu la esa
+infâme    bubi bu bunènè
+infamie    diambi li libi li linènè
+infanticide    ebômili si bu boma pèsa ngèbè
+infatigable    u a vè edôko
+inférieur    si a tshina
+infidèle    mukutissi
+infinité    ebûtu
+inflammable    si a etshika na nâma
+informer    elèlè
+infuser    eyândala
+infusion     eyandili
+ingénieux    mutu u a buèdi
+ingénu    u a butshôga
+ingrat    u a lintshânka
+ingratitude    lintshânka
+inhabile    bupôgo
+inhabileté    epôgili
+inhumain    kiri
+inhumainement    na kiri
+inhumanité    kiriri
+inimité    pênda
+injure    esthakili
+injurier    etshaka
+injurier    etôga
+injurieusement   na esthakili
+injurieux    si a tshaku
+injuste    bukâmbi
+injustement    na bukâmbi
+injustice    ekambili
+innocence    ebingili
+innocent    ebènga
+innombrable    ntshâba
+innovation    ekalili
+innover    ekalala
+inoccupé    mutu u a vè sa essadu
+inondation    epôga
+inonder    inassa ngûndu
+inopiné    epâri
+inopinément    na epâri
+inquiet    mutèma mangûngu
+inquiéter    essa mutèma mangûngu
+insatiable    edôku vè
+inscrire    etènde
+insensé    diambo la mutu u a vè mutchuè
+insignifiant    diambo la vè lo 
+insinuation    mulinde
+insinuer    essa mulinde
+insister    ebômbusso
+insolemment    na erèssana
+insolence    erèssini
+insolent    u a erèssana
+insolvable    mutu u a vè lingulu la ekassasa matshombi ma ndè
+insomnie    erûmbi
+homme insouciant    mutu u a vè bata mambo
+homme insouciant    mutu na mutèma na mangûngu vè
+inspecter    emono
+inspecter    ekèngisse
+inspecteur    mukengissi
+instamment    na ebâmi
+instance    ebâmi
+instant    pèsa-luèlè
+instituteur    muyèssi
+instruction    eyèssili
+instruction    ebungili
+instruire    eyèssa
+instruire    ebungala
+instruit    buïèdi
+instrument    edjandjili
+insu    egnatala
+insuffisant    tshitsha
+intact    tshitsha
+intègre    tshitsha
+intègre    mubâmba
+intelligence    mutchuè
+intelligence    buèdi
+intelligent    na mutchuè
+intempérance    mutèma
+intempérant    na mutèma
+intenter    essa mambo
+intention    ebangala
+avoir l'intention    ebangala
+interceder    evondo 
+intercerder pour quelqu'un    bambaghi
+intercesseur    muvondi
+intercesseur    muyamissi
+intérieur    kate
+intérieur    mutèma
+intérieurement    ghu kate
+intérieurement    ghu mutèma
+interprète    mukâmbini
+interpréter    ekalaga
+interrogation    evôndili
+interrogateur    muvôndi
+interroger    evondo
+interroger    efula
+interrompre    evolusso
+cesser    egnaga
+interruption    evolissi
+interruption    egnagili
+intervertir    eshôbusso
+intervertir    ekalaga
+intimider    eparassa
+intimider    essa emono bomo
+invariable    si a vè ekalaga
+inventer    esholo
+inventeur    musholi
+invention    esholili
+investir    evè kumu
+invincible    na pindju
+invisible    si a vè mono
+inviter    eyèbala
+invoquer    evondo
+invoquer    evovo
+invulnérable    mutu u ali na mutingu
+ironie    esthakili
+ironie    edièssili
+irréconciable    batu ba pênda
+irrévérence    ethôlissi
+isolement    butshâni
+isoler    ebissa
+issue    eshutili
+ivoire    pûngi
+ivoire    ntshêba
+ivre    muyassi
+ivrogne    mutu yu yassa
+ivrogne    mutu yu tondo sigma malu
 jabot    eburiri
 jadis    tshômi
 jaillir    eniantsaka
@@ -2924,9 +3235,9 @@ marquer    essa ndimbu
 marteau    mutêndi
 martin pêcheur    kîma
 martyr    martir
-martyr    mutu yu kua tungu na Ndjambi
-martyre    liku la kamakiri tungu na Ndjambi
-martyriser    ebôma tungu na Ndjambi
+martyr    mutu yu kua tungu na ndjambi
+martyre    liku la kamakiri tungu na ndjambi
+martyriser    ebôma tungu na ndjambi
 masque    libulu
 masquer    eluata libulu
 masquer    esguège
@@ -3193,7 +3504,7 @@ fils du frère cadet    muana u a mughèghè
 fille du frère aîné    muana u a mughèghè
 nez    liyulu
 ni    ka vè
-ni Jean ni Jacques    ka Jan vè. ka Jak vè
+ni jean ni jacques    ka jan vè. ka jak vè
 nicher    etônga ndjo
 nid    ndjo a niodi
 nier    etôna
@@ -3201,7 +3512,7 @@ nigaud    mutu u a butshuguru
 niveler    etèmbè
 noce    ebûngissi
 noël    noël
-noël    litchugu bi babota Jesu-Kri
+noël    litchugu bi babota jesu-kri
 noeud    lidissa
 noir    vinda
 noirceur    evindili
@@ -3495,7 +3806,7 @@ passer    elôta
 circuler    edièngile
 passible    u a na lingulu la kamakiri massiri
 passion    etshindili
-passion du Christ    massiri ma Jesu-Kri amono
+passion du christ    massiri ma jesu-kri amono
 passioner    etondo etondili si ynènè
 se passioner    etondo etondili si ynènè
 pasteur    mukèli
@@ -3503,7 +3814,7 @@ patate    emôngo
 patanger    etâmbaghu litshêpi
 pâte de bananes    mbûmbi
 patène    pèsa etênge si bu shussa laosti ghu lamès
-pater    evovili ya Tata besu
+pater    evovili ya tata besu
 paternel    si a tata
 patrie    tshènge
 patrie    lilongo
@@ -3525,7 +3836,7 @@ pays    tshènge
 peau    mukândja
 pêche    elôbili
 péché    peshe
-péché    dimabo lilibi guli Ndjambi
+péché    dimabo lilibi guli ndjambi
 pécher    essa peshe
 pécheur    musi peshe
 pêcher    elôbo
@@ -3669,7 +3980,7 @@ pistache    lipênda
 piste    ndûmbu
 pistolet    eduka
 piété    lingèbè
-piété    etondili si bu tondo mambo ma Ndjambi
+piété    etondili si bu tondo mambo ma ndjambi
 piton    dsôngo yu munènè
 place    ediga
 lieu    ediga
@@ -3808,7 +4119,7 @@ précepte    eyissili
 précepte    ngidi
 précepte    elèlili
 précepteur    muyissi
-prêcher    eyèssa mambo ma Ndjambi
+prêcher    eyèssa mambo ma ndjambi
 précieux    bubuè bu bunènè
 précipice    libûngu
 précipitation    viangu
@@ -3911,7 +4222,7 @@ protection    eyamissi
 protection    ekalili
 protéger    ekâla
 protestant    protestan
-protestantisme    Ntshâmbi a baprotestan
+protestantisme    ntshâmbi a baprotestan
 prouver    epassala
 provenir    eya
 provision    mutshâku
@@ -3934,7 +4245,7 @@ puiser    etège
 puisque    mu bona
 puisque    si bona
 puissance    lingulu
-pulmonie    ngangi a Libâli
+pulmonie    ngangi a libâli
 pulpe    limbûku
 pulsation    edodini
 pulvériser    egniga
@@ -4199,8 +4510,8 @@ relâcher    egnangassa
 relever    essatala
 relier    ebua
 relier    ekota
-religieux    mutu u a Ndjambi
-religion    Ntshâmbi yu bu djandja Ndjambi
+religieux    mutu u a ndjambi
+religion    ntshâmbi yu bu djandja ndjambi
 relique    relik
 reluire    nanga-nanga
 remballer    ebutassa
@@ -4228,7 +4539,7 @@ renchérir    erangassa mutângu
 rencontre    ebuèlili
 rencontrer    ebuèla
 rendez-vous    ediga si batu buèla
-rendormir    Issu
+rendormir    issu
 rendre    ebutassa
 renégat    mutu yu pôla ghu ntshâmbi a kretien katolik
 renfermer    ediba
@@ -4287,7 +4598,7 @@ reprocher    ekarana
 réprouver    eyala vè
 réprouver    etondo vè
 réprouver    ebissa
-réprouvé     mutu yu Ndjambi bi tshaka
+réprouvé     mutu yu ndjambi bi tshaka
 reptile    gnama yu landala
 répudier    epundja mukadi
 répugnance    tshitshu
@@ -4296,8 +4607,8 @@ réputation    likuma
 réserve    ekèlili
 réserver    ekèlè
 réservoir    ekèlili a mamba
-résignation     ekamakili si bu kamakiri marungi tungu na Ndjambi
-se résigner    ekamakiri mutèma tôo tungu na Ndjambi
+résignation     ekamakili si bu kamakiri marungi tungu na ndjambi
+se résigner    ekamakiri mutèma tôo tungu na ndjambi
 résine    paga
 résineux    muti u a paga
 résistance    edèriri
@@ -4493,15 +4804,15 @@ sabres    mikuata
 sabrer    ekèssè na mukuata
 sabrer    esholo
 sacrement    sakraman
-sacré    dhèla si ba vè Ndjambi
+sacré    dhèla si ba vè ndjambi
 sacrifice    sakrifis
 sacrifier    essa sakrifis
 sacrilège    sakrilej
 sacrilège    ebungigi si bu bungaga sakraman
 sacristie    sakristi
-sacristie    ediga si bu kèlèbela bi a Ndjambi
+sacristie    ediga si bu kèlèbela bi a ndjambi
 sacristain    sakristen
-sacristain    mutu yuyèbissè bela ghu ndjo a Ndjambi
+sacristain    mutu yuyèbissè bela ghu ndjo a ndjambi
 sagaie    likôngo
 sage    mutu u a tôô
 sage    mussigi
@@ -4512,8 +4823,8 @@ saigneur    mupossi a makila
 sain    u a vè mbèdu
 saindoux    madi a batangani
 saint    sen
-saint    baghi na Ndjambi
-sainte    baghi na Ndjambi
+saint    baghi na ndjambi
+sainte    baghi na ndjambi
 saint-esprit    idingi-sante
 esprit    idingi
 vivre saintement    edjala edjalili si buè
@@ -4563,7 +4874,7 @@ sarcler    eyuba bimbu
 sarcleur    muyubi a bimbu
 sardine    nganga
 satan    satan
-satan    anj yu mubi yu pèïè Ndjambi
+satan    anj yu mubi yu pèïè ndjambi
 satiété    eyûtili
 manger à satiété    eyûta
 satisfaction    tsaï
@@ -4717,7 +5028,7 @@ serpent    tâdi
 serpents    batâdi
 serpenter    eyênde mambonho
 serrer    epigna
-sermon    eyissili si a mambo ma Ndjambi
+sermon    eyissili si a mambo ma ndjambi
 serrure    pôgo
 service    essadu
 service    essalissi
@@ -5054,20 +5365,20 @@ ton   wè
 ton   wè
 mon    mè
 ma     mè
-tabac    Evolo
-tabernacle    Tabernakl 
-table    Tabulo
+tabac    evolo
+tabernacle    tabernakl 
+table    tabulo
 tables    batabulo
-tableau    Edimu si ynènè
+tableau    edimu si ynènè
 tableau    imaj si ynènè
-tabouret    Kuanga
+tabouret    kuanga
 tabourets    makuanga
 tâche    litangi
 tâches    matangi
-tacheter    Essa matangi
-tacher    Etshôlusso 
-tâcher    Ebôlaka 
-tacheter    Essa  Matangi 
+tacheter    essa matangi
+tacher    etshôlusso 
+tâcher    ebôlaka 
+tacheter    essa  matangi 
 taciturne    mutu u a vè tondo evovo
 taie d'oreiller    dshanda y bu shômo evindju
 taille    mutèlè
@@ -5162,7 +5473,7 @@ témoin    mutu yu amoni diambo
 tempe    libanga
 tempes    mabanga
 tempérament    gnutu
-tempérance    Ntshâmbi a mutu u a vè mutema
+tempérance    ntshâmbi a mutu u a vè mutema
 tempérant    mutu u a vè mutema
 tempérer    ekèisse
 tempête    ekûnga
@@ -5578,9 +5889,9 @@ ver    mushôdu
 vers    mishôdu
 verbal    ya mugnua
 verbale    ya mugnua
-Verbiage    Erèndili
-Verbiages     birèndili
-Verdir    Ekalaga ngaï-ngaï
+verbiage    erèndili
+verbiages     birèndili
+verdir    ekalaga ngaï-ngaï
 verdure    ngaï-ngaï
 verge    mubâmbu
 verges    mibâmbu
@@ -5816,11 +6127,11 @@ vue    emonili
 vues    bimonili
 vulnérable    muti yu mu emana ngangi
 yeux    misu
-zélateur    mutu yu tshinda bambaghi mu essa mambo ma Ndjambi
-zélatrice    mutu yu tshinda bambaghi mu essa mambo ma Ndjambi
-zèle    etondili si bu tondo etshinda bambaghi mu essa mambo ma Ndjambi
-zélé    mutu yu tondo etshinda bambaghi mu essa mambo ma Ndjambi
-zélée    mutu yu tondo etshinda bambaghi mu essa mambo ma Ndjambi
+zélateur    mutu yu tshinda bambaghi mu essa mambo ma ndjambi
+zélatrice    mutu yu tshinda bambaghi mu essa mambo ma ndjambi
+zèle    etondili si bu tondo etshinda bambaghi mu essa mambo ma ndjambi
+zélé    mutu yu tondo etshinda bambaghi mu essa mambo ma ndjambi
+zélée    mutu yu tondo etshinda bambaghi mu essa mambo ma ndjambi
 zéphyr    livôga
 zinc    livûvu
 zincs    mavûvu
