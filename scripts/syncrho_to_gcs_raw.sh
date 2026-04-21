@@ -3,7 +3,7 @@ set -e
 
 BUCKET="gs://gabonese-corpus/raw"
 
-LANGS=("douma" "fang" "nzebi" "obamba" "omyènè" "punu" "tsogho")
+LANGS=("douma" "fang" "nzebi" "obamba" "omyènè" "punu" "tshogo")
 
 for lang in "${LANGS[@]}"; do
   echo "Sync $lang → $BUCKET/$lang"

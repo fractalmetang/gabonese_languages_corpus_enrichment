@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-LANGS = ["douma", "nzebi", "fang", "obamba", "omyènè", "punu", "tsogho"]
+LANGS = ["douma", "nzebi", "fang", "obamba", "omyènè", "punu", "tshogo"]
 
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)

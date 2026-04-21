@@ -1,35 +1,52 @@
-from PIL import Image
-import pdfplumber
-import re
 
-import pytesseract
-import pdf2image
-import pendulum 
+import argparse
 
 
-# pages = pdf2image.convert_from_path("adouma_from_dahin.pdf")
-# for page in pages:
-#     text = pytesseract.image_to_string(page)
-#     print(text)
+def invert_file(input_path: str, output_path: str):
+    total = 0
+    kept = 0
+    skipped = 0
 
-# Ouvre le fichier PDF
-# with pdfplumber.open("adouma_from_dahin.pdf") as pdf:
-#     extracted_pairs = []
+    with open(input_path, "r", encoding="utf-8") as fin, \
+         open(output_path, "w", encoding="utf-8") as fout:
 
-#     for page in pdf.pages:
-#         text = page.extract_text()
-#         if not text:
-#             continue
+        for i, line in enumerate(fin, start=1):
+            total += 1
+            line = line.rstrip("\n")
 
-#         # Nettoyage de la page
-#         lines = text.split("\n")
-#         for line in lines:
-#             # Tente de détecter un format : "Mot français ... Traduction"
-#             match = re.match(r"^([A-ZÉÈÀÇa-zéèàùûçîôî'’\- ]+)\s+([A-Za-z, \-'.àéèêôûîâïüöç]+)$", line)
-#             if match:
-#                 french = match.group(1).strip()
-#                 adouma = match.group(2).strip()
-#                 extracted_pairs.append((french, adouma))
+            if not line.strip():
+                skipped += 1
+                continue
 
-local_tz = pendulum.timezone("UTC")
-print(local_tz)
+            # split sur 4 espaces
+            parts = line.split("    ")
+
+            if len(parts) != 2:
+                print(f"[WARN] Ligne {i} invalide: {line}")
+                skipped += 1
+                continue
+
+            src, tgt = parts  # src = lang_cible, tgt = fr
+
+            if not src.strip() or not tgt.strip():
+                skipped += 1
+                continue
+
+            # inversion + conversion propre en TAB (recommandé)
+            fout.write(f"{tgt.strip()}\t{src.strip()}\n")
+            kept += 1
+
+    print("----- Résumé -----")
+    print(f"Total lignes   : {total}")
+    print(f"Lignes gardées : {kept}")
+    print(f"Lignes ignorées: {skipped}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", required=True)
+    parser.add_argument("--output", required=True)
+
+    args = parser.parse_args()
+
+    invert_file(args.input, args.output)
