@@ -150,8 +150,8 @@
     "lang": "douma"
   },
   {
-    "word": "ventre",
-    "translation": "moï",
+    "word": "abdomens",
+    "translation": "mioï",
     "lang": "douma"
   },
   {
@@ -300,8 +300,8 @@
     "lang": "douma"
   },
   {
-    "word": "abri",
-    "translation": "eshuèmini",
+    "word": "abris",
+    "translation": "bishèmini",
     "lang": "douma"
   },
   {
@@ -440,8 +440,8 @@
     "lang": "douma"
   },
   {
-    "word": "acompagnement",
-    "translation": "evilili",
+    "word": "accompagnements",
+    "translation": "bivilii",
     "lang": "douma"
   },
   {
@@ -460,8 +460,8 @@
     "lang": "douma"
   },
   {
-    "word": "accomplissement",
-    "translation": "emanissi",
+    "word": "accomplissements",
+    "translation": "bimanissi",
     "lang": "douma"
   },
   {
@@ -985,8 +985,8 @@
     "lang": "douma"
   },
   {
-    "word": "agneau",
-    "translation": "muana taba",
+    "word": "agrandir",
+    "translation": "enèbisse",
     "lang": "douma"
   },
   {
@@ -1640,8 +1640,8 @@
     "lang": "douma"
   },
   {
-    "word": "ananas",
-    "translation": "malanga",
+    "word": "anathematiser",
+    "translation": "etshinda bibuli",
     "lang": "douma"
   },
   {
@@ -1685,8 +1685,8 @@
     "lang": "douma"
   },
   {
-    "word": "angle",
-    "translation": "mubati",
+    "word": "angles",
+    "translation": "mibati",
     "lang": "douma"
   },
   {
@@ -1715,8 +1715,8 @@
     "lang": "douma"
   },
   {
-    "word": "anguille",
-    "translation": "ndsômbo",
+    "word": "anguilles",
+    "translation": "bansdômbo",
     "lang": "douma"
   },
   {
@@ -3200,7 +3200,7 @@
     "lang": "douma"
   },
   {
-    "word": "au-dehors",
+    "word": "à l'extérieur",
     "translation": "ghu badi",
     "lang": "douma"
   },
@@ -3560,8 +3560,8 @@
     "lang": "douma"
   },
   {
-    "word": "accoucher avant le  terme",
-    "translation": "lüèlè ka li to vè",
+    "word": "accoucher avant le",
+    "translation": "terme",
     "lang": "douma"
   },
   {
@@ -6415,8 +6415,8 @@
     "lang": "douma"
   },
   {
-    "word": "dissipation",
-    "translation": "tshuakiri",
+    "word": "dissipations",
+    "translation": "matshuakiri",
     "lang": "douma"
   },
   {
@@ -6695,8 +6695,8 @@
     "lang": "douma"
   },
   {
-    "word": "saveur",
-    "translation": "niège",
+    "word": "douleur",
+    "translation": "ngangi",
     "lang": "douma"
   },
   {
@@ -6790,8 +6790,8 @@
     "lang": "douma"
   },
   {
-    "word": "à droite",
-    "translation": "tshêli a ghogo na mulumi",
+    "word": "droitement",
+    "translation": "na tâa",
     "lang": "douma"
   },
   {
@@ -7210,8 +7210,8 @@
     "lang": "douma"
   },
   {
-    "word": "ecrasement",
-    "translation": "egnîgili",
+    "word": "ecrasements",
+    "translation": "bignîgili",
     "lang": "douma"
   },
   {
@@ -7915,8 +7915,8 @@
     "lang": "douma"
   },
   {
-    "word": "enseigner",
-    "translation": "eyèssa",
+    "word": "ensemble",
+    "translation": "ekokana",
     "lang": "douma"
   },
   {
@@ -10100,8 +10100,8 @@
     "lang": "douma"
   },
   {
-    "word": "forme",
-    "translation": "edimu",
+    "word": "formes",
+    "translation": "bidimu",
     "lang": "douma"
   },
   {
@@ -10125,8 +10125,8 @@
     "lang": "douma"
   },
   {
-    "word": "fortifier une maison",
-    "translation": "ediba ndjo",
+    "word": "fortifier un village",
+    "translation": "bola ma murumba",
     "lang": "douma"
   },
   {
@@ -10370,8 +10370,8 @@
     "lang": "douma"
   },
   {
-    "word": "frai",
-    "translation": "oeuf de poisson",
+    "word": "frais",
+    "translation": "piu",
     "lang": "douma"
   },
   {
@@ -10941,7 +10941,7 @@
   },
   {
     "word": "gaspiller",
-    "translation": "ebungaga  bèla",
+    "translation": "ebungaga",
     "lang": "douma"
   },
   {
@@ -11436,7 +11436,7 @@
   },
   {
     "word": "goût",
-    "translation": "pêlo",
+    "translation": "emêgili",
     "lang": "douma"
   },
   {
@@ -11456,7 +11456,7 @@
   },
   {
     "word": "goûter",
-    "translation": "emono",
+    "translation": "pêlo",
     "lang": "douma"
   },
   {
@@ -12005,8 +12005,8 @@
     "lang": "douma"
   },
   {
-    "word": "etoffe",
-    "translation": "dshanda mupinda",
+    "word": "ha!",
+    "translation": "ah!",
     "lang": "douma"
   },
   {
@@ -12635,8 +12635,8 @@
     "lang": "douma"
   },
   {
-    "word": "honêteté",
-    "translation": "etchôgili",
+    "word": "honêtetés",
+    "translation": "bitchôgili",
     "lang": "douma"
   },
   {
@@ -12935,8 +12935,8 @@
     "lang": "douma"
   },
   {
-    "word": "idiomes",
-    "translation": "bivovili",
+    "word": "idiot",
+    "translation": "etshuguru",
     "lang": "douma"
   },
   {
@@ -13025,8 +13025,8 @@
     "lang": "douma"
   },
   {
-    "word": "île",
-    "translation": "ndubi",
+    "word": "îles",
+    "translation": "mandubi",
     "lang": "douma"
   },
   {
@@ -13055,8 +13055,8 @@
     "lang": "douma"
   },
   {
-    "word": "illisible",
-    "translation": "etendili si ybi",
+    "word": "illumination",
+    "translation": "kèlilè-kèlilè",
     "lang": "douma"
   },
   {
@@ -13945,8 +13945,8 @@
     "lang": "douma"
   },
   {
-    "word": "injurier",
-    "translation": "etôga",
+    "word": "injurieusement",
+    "translation": "na esthakili",
     "lang": "douma"
   },
   {
@@ -14505,8 +14505,8 @@
     "lang": "douma"
   },
   {
-    "word": "jambe",
-    "translation": "enâma",
+    "word": "jambon",
+    "translation": "enâma a mugubèlè",
     "lang": "douma"
   },
   {
@@ -15160,8 +15160,8 @@
     "lang": "douma"
   },
   {
-    "word": "lépreux",
-    "translation": "mutu u a kara",
+    "word": "lequel",
+    "translation": "lini",
     "lang": "douma"
   },
   {
@@ -15680,7 +15680,7 @@
     "lang": "douma"
   },
   {
-    "word": "ma",
+    "word": "mon",
     "translation": "ya mè",
     "lang": "douma"
   },
@@ -16600,8 +16600,8 @@
     "lang": "douma"
   },
   {
-    "word": "message",
-    "translation": "mussissala",
+    "word": "messager",
+    "translation": "mutômi",
     "lang": "douma"
   },
   {
@@ -20420,8 +20420,8 @@
     "lang": "douma"
   },
   {
-    "word": "poudrière",
-    "translation": "ndjo a pira",
+    "word": "poulailler",
+    "translation": "ndjo a batshutshu",
     "lang": "douma"
   },
   {
@@ -20726,7 +20726,7 @@
   },
   {
     "word": "prêt",
-    "translation": "atôli",
+    "translation": "ntshômbi",
     "lang": "douma"
   },
   {
@@ -20940,7 +20940,7 @@
     "lang": "douma"
   },
   {
-    "word": "profond",
+    "word": "profondeur",
     "translation": "eïka",
     "lang": "douma"
   },
@@ -21155,8 +21155,8 @@
     "lang": "douma"
   },
   {
-    "word": "prunelle",
-    "translation": "likôngi",
+    "word": "psaume",
+    "translation": "limbu",
     "lang": "douma"
   },
   {
@@ -23965,7 +23965,7 @@
     "lang": "douma"
   },
   {
-    "word": "sa",
+    "word": "son",
     "translation": "ya ndè",
     "lang": "douma"
   },
@@ -25195,7 +25195,7 @@
     "lang": "douma"
   },
   {
-    "word": "seul",
+    "word": "seule",
     "translation": "mènè",
     "lang": "douma"
   },
@@ -26535,8 +26535,8 @@
     "lang": "douma"
   },
   {
-    "word": "supérieure",
-    "translation": "kumu",
+    "word": "superposer",
+    "translation": "enaka",
     "lang": "douma"
   },
   {
@@ -26805,12 +26805,12 @@
     "lang": "douma"
   },
   {
-    "word": "ta",
+    "word": "ton",
     "translation": "wè",
     "lang": "douma"
   },
   {
-    "word": "ta",
+    "word": "ton",
     "translation": "wè",
     "lang": "douma"
   },
@@ -26891,7 +26891,7 @@
   },
   {
     "word": "tacheter",
-    "translation": "essa  matangi",
+    "translation": "essa",
     "lang": "douma"
   },
   {
