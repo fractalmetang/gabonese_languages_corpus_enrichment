@@ -1358,7 +1358,7 @@ droit    lingulu
 droit    tâa
 droite    tâa
 à droite    tshêli a ghogo na mulumi
-droitement na tâa
+droitement    na tâa
 duel    mudingu na batu bolè
 dur    budiru
 dure    budiru
@@ -2611,7 +2611,7 @@ enfant illégitime     muana a badi–a-badi
 illégitime    badi–a-badi
 illicite    diambo libalèga
 illisible    etendili si ybi
-illumination kèlilè-kèlilè
+illumination    kèlilè-kèlilè
 illuminer    essa kélilè-kèlilè
 image    edimu 
 images    bidimu

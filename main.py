@@ -33,7 +33,7 @@ def invert_file(input_path: str, output_path: str):
                 continue
 
             # inversion + conversion propre en TAB (recommandé)
-            fout.write(f"{tgt.strip()}\t{src.strip()}\n")
+            fout.write(f"{tgt.strip()}    {src.strip()}\n")
             kept += 1
 
     print("----- Résumé -----")
