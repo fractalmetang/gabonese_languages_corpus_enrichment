@@ -37,7 +37,7 @@ def process_language(lang):
                     "lang": lang
                 })
 
-    output_file = OUTPUT_DIR / f"{lang}_dictionary.json"
+    output_file = OUTPUT_DIR / f"{lang}.json"
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(entries, f, ensure_ascii=False, indent=2)

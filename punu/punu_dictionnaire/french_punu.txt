@@ -90,7 +90,7 @@ bienvenu    samba!
 bizarre    javuri-javuri
 blanc    vème
 blanc (homme)    ibambe
-blanc     mundongu
+blanc   mundongu
 blesser    nemise
 boire    nu
 bol    dimogi
@@ -3192,7 +3192,8 @@ le neveu	mwane katsi
 la nièce	mwane katsi
 l'arrière petit fils	ndande tégule
 l'arrière petite fille	ndande tégule
-le petit, le jeune	ngébi
+le petit    ngébi
+le jeune	ngébi
 la mère	nguji
 le beau-frère	nzaji
 la rivale	pale

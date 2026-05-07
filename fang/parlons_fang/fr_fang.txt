@@ -7,7 +7,7 @@ abattre l'arbre    abagh élé
 abcès    éküküa
 abdiquer    akore étô
 abeille    nvufung
-abeille   abè
+abeille    abè
 abêtir    abô ndziman
 abîme    tôtôlane
 abîmer    andaman 
@@ -131,7 +131,7 @@ aurore    alena kírí
 aussi    aval 
 aussi    ane 
 aussi    fe 
-aussi   nale
+aussi    nale
 aussitôt    éto évor éte
 autre    mfe
 autrefois    okua 
@@ -194,13 +194,14 @@ bébé    nkengle moan
 bec    nsòng
 bien    nvègn
 bientôt    ana’ana
+bientôt    kuna
 bientôt    étodzi
 blanc    nfum
 blanc    éfumele
 blanc    ntangane
 blessé    mbàlán
 blessure    aveng
-blessure   mbàkh
+blessure    mbàkh
 bœuf    égnakh
 boire    agnu
 bois    élé
@@ -256,7 +257,7 @@ calculer    aláng
 calebasse    ndekh bikekh
 caler    abô ôkofett 
 caler    abamlane
-se calfeutrer   aferebane a nda été
+se calfeutrer    aferebane a nda été
 câliner    abagle ye nnem o se
 calligraphier    ayem atsili
 calmer    assile nnem o si
@@ -291,7 +292,7 @@ chair    nsône
 chaise    éto
 chaise    émobga
 chaleur    ndugle
-chaleur     ay’ông
+chaleur    ay’ông
 sueur    édudùkh
 sueur    échíí
 chambre    édzina
@@ -354,7 +355,7 @@ cinquante    mewômmetane
 clair    énghengheng
 clé    essap
 clé    édzibgha
-client   émot assom dzôm
+client    émot assom dzôm
 cliente    émot assom dzôm
 clinique    oguarfila
 clinique    owarfila
@@ -639,7 +640,7 @@ entrer    agni
 envie    ozáng
 envie    nkômlane
 envoyer    alôm
-épais     àfíp
+épais    àfíp
 épaule    étul
 épaule    abán
 épervier    nvisa
@@ -674,6 +675,7 @@ expliquer    atsinan
 expliquer    atsime
 expliquer    akalane
 exprès    aváng
+faire exprès    aváng
 extraordinaire    énzenzam
 extraordinaire    ébibìgn
 extrémité    sugha
@@ -694,7 +696,7 @@ faible    égnegneng
 faiblir    abô ategh
 faim    zègn
 faire    abô
-se faisander   aligh tsít ébwègn
+se faisander    aligh tsít ébwègn
 faisander    aligh tsít ébwègn
 falloir    ayiane
 falsifier    abônvó
@@ -784,7 +786,7 @@ gangrener    ayeghe nnô abbé
 garantir    akagh dzôm
 garder    akale
 gardien    mbagle
-garer     atele
+garer    atele
 genou    abong
 gens    bot
 gourdin    abongélé
@@ -901,8 +903,8 @@ là    valé
 là-bas    ali
 labelliser    aveduma
 labourer    assègnsi
-lac   étam
-lac   éliba
+lac    étam
+lac    éliba
 lacer    atsine minkol megop
 lacérer    agnab
 lâche    mbobe
@@ -965,7 +967,7 @@ machette    fa
 machette    mpwara
 machiner    anam ngüine
 mâchonner    agnale
-mâchouiller   agnale
+mâchouiller    agnale
 maçon    nlong menda
 maçonner    alóng ye cima
 maculer    ave nvine
@@ -1017,7 +1019,7 @@ mesurer    avekh
 métier    essègn
 métier    assuessègn
 mettre    afuru
-midiz    angomos
+midi    angomos
 miettes    megnung
 milieu    ézezang
 milieu    ntémbo
@@ -1090,7 +1092,7 @@ non    keghe
 nourriture    bidzí
 nous    bia
 nouveau    nféfégn
-nouvelle   fuègn
+nouvelle    fuègn
 information    fuègn
 noyer    agnong
 noyer    adú mendzim
@@ -1125,8 +1127,8 @@ odeur    égnum
 offrir    ave
 offrir    avedas
 offrir    akeéveéve
-oise au    ônon
-okoumé a    nguma
+oiseau    ônon
+okoumé    anguma
 ongle    dzégn
 orage    ôkôs
 orange    ôfümi
@@ -1198,7 +1200,7 @@ partout    vôm asse
 partout    minfakh misse
 passer    alor
 pauvre    mbubua
-payer     assôm
+payer    assôm
 pays    si
 pays    nlam
 peau    ékôp
@@ -1397,9 +1399,9 @@ sacraliser    ave akogang
 sacrer    ave akôgang
 sacrifier    adzimle éning
 sagaie    akòng
-sage   fekh
-sage   nfefekh
-sage   gnamôrô
+sage    fekh
+sage    nfefekh
+sage    gnamôrô
 saigner    abegh mbakh 
 saigner    awub
 saillir    adzègn
@@ -1477,8 +1479,8 @@ sûr    bebela
 surtout    dangdang
 tabac    tagha
 tabac    cigha
-tabasser   ayir 
-tabasser  ayüignébom
+tabasser    ayir 
+tabasser    ayüignébom
 table    tebele
 tabler    adzi étabele
 tacher    abo essègn
@@ -1664,7 +1666,7 @@ arbre à copal    abel
 arbre à copal    ébel
 plantation    abeng
 porter la viande    abeghe tsít
-umer les animaux    abere tsít ofutt
+fumer les animaux    abere tsít ofutt
 excrément    abí
 crotte    abí
 naissance    abiale
@@ -2229,7 +2231,6 @@ grande ville    kissôn nden
 banlieue    kissôn éne ngergha
 non    koko
 fantôme    kône
-l'okano    kòne
 poisson    kos
 perroquet    kôs
 perroquet    kôsse
@@ -2241,7 +2242,6 @@ poule    kú
 espace    làme
 grand espace    làme
 lampe    láme
-La lara    lagha
 là-bas    lí
 toujours    mbè-mbè
 éternel    mbè-mbè
@@ -2332,7 +2332,7 @@ miettes    megnùng
 matière    megnùng
 pêche    messamà
 lutte    messìng
-retour,    messo metáng
+retour    messo metáng
 venue    messo metáng
 tarifs    metáng
 mathématiques    metáng
@@ -4675,26 +4675,24 @@ tas    ékáng
 déjà parti    ékang
 le soleil brille.    viane wa fègn
 l’oiseau chante.    ônon e wa long
-ma    je
-wa    tu
-mina    vous
-a    il
-da    il
-wa    il
-a    elle
-da    elle
-wa    elle
-bia    nous
-bia    vous
-ba    ils
-ba    elles
-ma    moi
-me    moi
-wa    toi
-gne    lui
-bia    nous
-mina    vous
-be    eux
+je    ma
+tu    wa
+vous    mina
+il    a
+il    da
+elle    a
+elle    da
+nous    bia
+ils    ba
+elles    ba
+moi    ma
+moi    me
+toi    wa
+lui    gne
+elle    gne
+nous    bia
+vous    mina
+eux    be
 avec moi    ye ma
 avec toi    ye wa
 avec lui    ye gne
@@ -5227,7 +5225,7 @@ ils ont    bebele
 ils n’ont pas    bébele dia
 j’ai même    mebelebele
 je n’ai même pas    mébelebele dia
-tu as  même    obelebele
+tu as même    obelebele
 tu n’as même pas    wébelebele dia
 il a même    abelebele
 il n’a même pas    ébelebele dia
