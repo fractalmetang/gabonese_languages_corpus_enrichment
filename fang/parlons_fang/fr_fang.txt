@@ -4801,6 +4801,8 @@ celui-là    èdí
 celui-là    èwí
 ceux-là    émalé
 c'est ça    émalé
+c'est ça    édalé
+c'est    éne  
 ceux-là    èmá
 c'est eux    ébalé
 ceux-là    èbá
@@ -6787,14 +6789,14 @@ semestre    ngôn é nii
 décennie    awôme mimbú
 siècle    ntett mimbú
 les quatre points cardinaux    minlô melergha mi nii
-est    meküi me nlô dzop
+orient    meküi me nlô dzop
 ouest    mekua me nlô dzop
 nord    okü
 sud    nkiègn
 sud    melole
 ouest    édoune Zok Amvené Obame
 ouest    nlô dzop wadzím
-est    nlô dzop waküign
+orient    nlô dzop waküign
 les saisons de l’année    biyòng biye mbú
 grande saison sèche    essep
 printemps    essep

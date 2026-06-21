@@ -981,6 +981,11 @@
   },
   {
     "word": "bientôt",
+    "translation": "kuna",
+    "lang": "fang"
+  },
+  {
+    "word": "bientôt",
     "translation": "étodzi",
     "lang": "fang"
   },
@@ -3380,6 +3385,11 @@
     "lang": "fang"
   },
   {
+    "word": "faire exprès",
+    "translation": "aváng",
+    "lang": "fang"
+  },
+  {
     "word": "extraordinaire",
     "translation": "énzenzam",
     "lang": "fang"
@@ -5095,7 +5105,7 @@
     "lang": "fang"
   },
   {
-    "word": "midiz",
+    "word": "midi",
     "translation": "angomos",
     "lang": "fang"
   },
@@ -5635,13 +5645,13 @@
     "lang": "fang"
   },
   {
-    "word": "oise au",
+    "word": "oiseau",
     "translation": "ônon",
     "lang": "fang"
   },
   {
-    "word": "okoumé a",
-    "translation": "nguma",
+    "word": "okoumé",
+    "translation": "anguma",
     "lang": "fang"
   },
   {
@@ -8330,7 +8340,7 @@
     "lang": "fang"
   },
   {
-    "word": "umer les animaux",
+    "word": "fumer les animaux",
     "translation": "abere tsít ofutt",
     "lang": "fang"
   },
@@ -11155,11 +11165,6 @@
     "lang": "fang"
   },
   {
-    "word": "l'okano",
-    "translation": "kòne",
-    "lang": "fang"
-  },
-  {
     "word": "poisson",
     "translation": "kos",
     "lang": "fang"
@@ -11212,11 +11217,6 @@
   {
     "word": "lampe",
     "translation": "láme",
-    "lang": "fang"
-  },
-  {
-    "word": "La lara",
-    "translation": "lagha",
     "lang": "fang"
   },
   {
@@ -11670,7 +11670,7 @@
     "lang": "fang"
   },
   {
-    "word": "retour,",
+    "word": "retour",
     "translation": "messo metáng",
     "lang": "fang"
   },
@@ -23385,103 +23385,93 @@
     "lang": "fang"
   },
   {
-    "word": "ma",
-    "translation": "je",
+    "word": "je",
+    "translation": "ma",
     "lang": "fang"
   },
   {
-    "word": "wa",
-    "translation": "tu",
+    "word": "tu",
+    "translation": "wa",
     "lang": "fang"
   },
   {
-    "word": "mina",
-    "translation": "vous",
+    "word": "vous",
+    "translation": "mina",
     "lang": "fang"
   },
   {
-    "word": "a",
-    "translation": "il",
+    "word": "il",
+    "translation": "a",
     "lang": "fang"
   },
   {
-    "word": "da",
-    "translation": "il",
+    "word": "il",
+    "translation": "da",
     "lang": "fang"
   },
   {
-    "word": "wa",
-    "translation": "il",
+    "word": "elle",
+    "translation": "a",
     "lang": "fang"
   },
   {
-    "word": "a",
-    "translation": "elle",
+    "word": "elle",
+    "translation": "da",
     "lang": "fang"
   },
   {
-    "word": "da",
-    "translation": "elle",
+    "word": "nous",
+    "translation": "bia",
     "lang": "fang"
   },
   {
-    "word": "wa",
-    "translation": "elle",
+    "word": "ils",
+    "translation": "ba",
     "lang": "fang"
   },
   {
-    "word": "bia",
-    "translation": "nous",
+    "word": "elles",
+    "translation": "ba",
     "lang": "fang"
   },
   {
-    "word": "bia",
-    "translation": "vous",
+    "word": "moi",
+    "translation": "ma",
     "lang": "fang"
   },
   {
-    "word": "ba",
-    "translation": "ils",
+    "word": "moi",
+    "translation": "me",
     "lang": "fang"
   },
   {
-    "word": "ba",
-    "translation": "elles",
+    "word": "toi",
+    "translation": "wa",
     "lang": "fang"
   },
   {
-    "word": "ma",
-    "translation": "moi",
+    "word": "lui",
+    "translation": "gne",
     "lang": "fang"
   },
   {
-    "word": "me",
-    "translation": "moi",
+    "word": "elle",
+    "translation": "gne",
     "lang": "fang"
   },
   {
-    "word": "wa",
-    "translation": "toi",
+    "word": "nous",
+    "translation": "bia",
     "lang": "fang"
   },
   {
-    "word": "gne",
-    "translation": "lui",
+    "word": "vous",
+    "translation": "mina",
     "lang": "fang"
   },
   {
-    "word": "bia",
-    "translation": "nous",
-    "lang": "fang"
-  },
-  {
-    "word": "mina",
-    "translation": "vous",
-    "lang": "fang"
-  },
-  {
-    "word": "be",
-    "translation": "eux",
+    "word": "eux",
+    "translation": "be",
     "lang": "fang"
   },
   {
@@ -24022,6 +24012,16 @@
   {
     "word": "c'est ça",
     "translation": "émalé",
+    "lang": "fang"
+  },
+  {
+    "word": "c'est ça",
+    "translation": "édalé",
+    "lang": "fang"
+  },
+  {
+    "word": "c'est",
+    "translation": "éne",
     "lang": "fang"
   },
   {
@@ -26145,8 +26145,8 @@
     "lang": "fang"
   },
   {
-    "word": "tu as",
-    "translation": "même",
+    "word": "tu as même",
+    "translation": "obelebele",
     "lang": "fang"
   },
   {
@@ -33955,7 +33955,7 @@
     "lang": "fang"
   },
   {
-    "word": "est",
+    "word": "orient",
     "translation": "meküi me nlô dzop",
     "lang": "fang"
   },
@@ -33990,7 +33990,7 @@
     "lang": "fang"
   },
   {
-    "word": "est",
+    "word": "orient",
     "translation": "nlô dzop waküign",
     "lang": "fang"
   },
