@@ -55,8 +55,8 @@ wa béa    Après
 ola    Chez
 kala kala    Depuis
 ikakari    Entre
-mu nkuo ki bolo    A droite
-mu nkuo ki ikua    A gauche
+mu nkuo ki bolo    à droite
+mu nkuo ki ikua    à gauche
 iko    Assez
 iloo    Beaucoup
 ku kula    Devant
@@ -81,10 +81,12 @@ iluli    Rassasié
 iviè    Bon
 ibi    Mauvais
 obia    Laid
-diè ombi    Mauvais (attitude)
-tali    Cher (prix)
+diè ombi    Mauvais
+tali    prix cher
+tali    cher
 ibuo    Cassé
-ipfipfi/ikula    Court/long
+ipfipfi   Court 
+ikula    long
 mpini ifi    Fatigué
 ibéa    Cru
 alaon    Cuit
@@ -92,13 +94,18 @@ mpini    Difficile
 mpini wè    Facile
 issiono    Léger
 lion    Lourd
-odzili/ba    Froid/chaud
+odzili    chaud
+ba    Froid
 iyiéli    Mûr
 ibéa    Vert
-ignoru/a ma lè    Neuf/usé
-anlu we/yanlua    Sain/malade
-ganuan/pia    Vrai/faux
-mpin/pi    Blanc/noir
+ignoru    usé
+a ma lè    Neuf
+anlu we    Sain
+yanlua    malade
+ganuan    Vrai
+pia    faux
+mpin    Blanc
+pi    noir
 biè    Rouge
 kali    Amer
 gnin    Acide
@@ -130,15 +137,16 @@ ognolo adza    Arroser
 ovè tsina    Asseoir
 ova tsina    Asseoir
 okura    Attacher
-onon ka    Attacher (s')
+onon ka    s'attacher
 obao    Atteindre
 oboo    Avoir
-oyo andza    Baigner(se)
+oyo andza    Baigner
+oyo andza    se baigner
 okuon ndzuo    Balayer
 okura kula    Barrer
 otsuä    Bâtir
 obèrè    Battre
-odzuana    Battre (se)
+odzuana    se battre
 obila diè    Blâmer
 odzuala    Blesser
 onuan    Boire
@@ -155,7 +163,7 @@ oneo ku ba    Chauffer
 tuë ba    Chauffer
 ossoo    Chercher
 ofuolo    Choisir
-ossa mfu    Coiffer(se)
+ossa mfu    Coiffer
 obana    Commencer
 otala    Compter
 opè    Congédier
@@ -163,7 +171,7 @@ otsuara diè    Congédier
 oyao    Connaître
 otsuä    Construire
 ofula    Consulter
-osséo tulo    Coucher(se)
+osséo tulo    Coucher
 obaon ikuo    Coudre
 otsira    Couper
 obara tini    Courir
@@ -201,7 +209,7 @@ obira    Emmener
 obira    Emporter
 ofuon    Emprunter
 oluo    Enseigner
-obara    Enfuir (s')
+obara    s'enfuir
 oyo do    Entendre
 osson    Entrer
 oyuö    Envoyer
@@ -222,7 +230,7 @@ ukièlè    Garder
 olina    Goûter
 okula    Grandir
 obila diè    Gronder
-odzoon    Gronder (pluie)
+odzoon    Gronder
 obo nuru    Guérir
 ofuo kula    Guider
 okala mu ola    Habiter
@@ -231,11 +239,11 @@ obièlè ilo    Haïr
 obéo yao    Ignorer
 otsion do    Imaginer
 oyèlè    Imiter
-obuono    Implorer (dieu)
+obuono    Implorer
 odzio mpion    Inhumer
 otoo    Injurier
 oluo andza ma alo    Inonder
-okila nkun    Inscrire (nom)
+okila nkun    Inscrire
 oluo ikana    Instruire
 otsuä    Interdire
 ofula ando    Interroger
@@ -244,8 +252,8 @@ otaon    Jouer
 osséa    Laisser
 oyéo    Lâcher
 ossuao    Laver
-ossènè    Lever (mettre debout)
-otéo    Lever (mettre debout)
+ossènè    Lever
+otéo    Lever
 ovéo    Lier
 otala onkana    Lire
 odzuana    Lutter
@@ -266,7 +274,7 @@ otsaba mu andza    Nager
 obura    Naître
 owa nkun    Nommer
 obuno    Nourrir
-o nuan andza    Noyer (se)
+o nuan andza    Noyer 
 otaala bara-bari    Obéir
 otala    Observer
 oboo    Obtenir
@@ -291,11 +299,11 @@ olila    Pleurer
 ofura    Plier
 obira    Porter
 okoo mu ossa ilo    Pouvoir faire
-ossa tsua tsua    Presser (se)
+ossa tsua tsua    Presser 
 okala ya ilo    Posséder
 otsuan kula    Précéder
 owolo    Prendre
-olaon vi odza    Préparer (nourriture)
+olaon vi odza    Préparer
 ofuon    Prêter
 otsuan ankula    Prévenir
 oyao do yi ya    Prévoir
@@ -306,9 +314,9 @@ omara    Quitter
 oyiè    Quitter
 ota ankoon    Raconter
 otuolo ilo    Ramasser
-obaon    Rappeler (se)
+obaon    Rappeler 
 oyo    Recevoir
-otono ibion    Réclamer (dette)
+otono ibion    Réclamer
 oka    Récolter
 obana    Recommencer
 otsion ando    Réfléchir
@@ -353,7 +361,7 @@ obion    Toucher
 okala kula    Tourner
 ofuna    Trahir
 oyuõ    Transmettre
-owa alua    Transmettre (maladie)
+owa alua    Transmettre la maladie
 otula    Transpercer
 obira    Transporter
 ossala    Travailler
@@ -369,9 +377,9 @@ okièlè mu mpiu    Veiller
 otio    Vendre
 usion a nkira    Vénérer les saints
 oya    Venir
-oluo andza    Verser (l'eau)
+oluo andza    Verser l'eau
 olè ikuo    Vêtir
-oyuba idzia    Vider (un étang)
+oyuba idzia    Vider un étang
 oyièlè    Vieillir
 otala    Visiter
 otala    Voir
@@ -429,7 +437,7 @@ liyu    Arachide
 dzu    Arachide
 savuka    Avocat, avocatier
 asavocat    Avocat, avocatier
-nta    Courge (graines de)
+nta    Courge
 dzagnon    Oignon
 ikulu    Oseille
 gakuo    Feuilles de manioc
@@ -863,7 +871,7 @@ Alaon    c'est cuit
 Agenda    agenda
 Agnongnon    étoiles
 Ampfun    rhumatisme
-Ampule    ampoule (s)
+Ampule    ampoule
 Ampule    abcès
 Ampfiè    abcès
 Anclé    clés
@@ -924,7 +932,7 @@ Buo    peur
 Buori    bonjour
 Buru a dzaon    religieux
 Buru a dzaon    chrétien
-Саса    matières fécales (excréments humains)
+Саса    matières fécales
 Caffé    café
 Cahiè    cahier
 Calandrié    calendrier
@@ -936,7 +944,7 @@ Cantine    seau
 Capitale    capitale
 Cartable    cartable
 Cassète    cassette
-Cersso    cerceau (cercle léger poussé par les enfants)
+Cersso    cerceau
 Champagne    champagne
 Cheval    cheval
 Chocola    chocolat
@@ -973,7 +981,6 @@ Dzini li gnon    croc d'une bête
 Dziu ba    se brûler
 Dzou    grenouille
 Dzu    arachides
-Dzu    liyu (arachide)
 Dzuë    voyage
 Ebali    savane
 Ebali    fleuve
@@ -1073,7 +1080,8 @@ Izun    vertige
 Jambon    jambon
 Jardin    jardin
 Juè    jouet
-Jine    jean (pantalon)
+Jine    jean
+jine    pantalon
 Ka    antilope
 Kaa    amulette
 Kaa    pintade
@@ -1131,7 +1139,7 @@ Maon yu onkio    ma mère cadette
 Мaрa    pain
 Mardi    mardi
 Mariassi    mariage
-Mars    mars (mois de)
+Mars    mars
 Maya    viens
 Mba    feu
 Mbala    mariage
@@ -1202,7 +1210,7 @@ Mwana    enfant
 Mwana buru    petit enfant humain
 Mwana onké    petite fille
 Mwana a bolo    petit garçon
-Mwana wa béa    bébé (2 -5 ans)
+Mwana wa béa    bébé de deux à cin ans
 Mwin    vivant
 Mwin    ventre
 Mwin    mal au ventre
@@ -1287,7 +1295,7 @@ O la    chez
 Ola na ?    chez qui ?
 Ola bwo ?    chez eux ?
 Ola diè ?    chez lui ?
-Ola diè    chez lui (affirmation)
+Ola diè    chez lui
 Olièlè    aigle
 Oluia    remplir
 Olaon    jupe
@@ -1319,8 +1327,8 @@ Opha, edzio    après
 Opha, edzio    plus tard
 Opha mè table    débarrasse la table après
 Opha ya    viens après
-Opha woli kiè    prends-le ou la après (objet ou chose)
-Opha dzio kiè    enterre-le ou la après (homme ou femme)
+Opha woli kiè    prends-le après
+Opha dzio kiè    enterre-le après
 Opfi    court
 Opina    noir
 Opina    noirceur
@@ -1352,7 +1360,6 @@ Plantè    plante
 Perokè    perroquet
 Péruke    perruque
 Péruke    postiche de faux cheveux
-Pi    noir(e)
 Pii    calme
 Pile    pile
 Piin    blanc
@@ -1399,12 +1406,12 @@ Sua-nuru    bain
 Sua-nuru    action de purification de son corps
 Sua-nuru    se purifier
 Sukali    sucre
-Sukali    sucré(e)
+Sukali    sucré
 Ta !    attention
 Ta !    méfie-toi !
 Ta diè    regarde-le ou la !
 Ta ossoon    cause
-Ta ossoon    converse (avec moi)
+Ta ossoon    converse
 Taali    serpent
 Table    table
 Tablo    tableau
@@ -1429,7 +1436,7 @@ Tiono    lève-toi !
 Tirè    produit embellissant pour les lèvres
 Triko    tricot
 Tomatè    tomate
-Too    fesse (s)
+Too    fesse
 Tsali    lac
 Tséakuo    poignet
 T'siètsiè    salon
@@ -1454,8 +1461,8 @@ Tumaviri    automobile
 Lumbu    aiguille
 Tulu oto    tuberculose
 Tuolo    sommeil
-Ubia    très mauvais (goût)
-Ubi    mauvais (goût)
+Ubia    très mauvais goût
+Ubi    mauvais goût
 Ufula    renseignement
 Ukali    adultère
 Ukana dzaon    bible
@@ -1464,7 +1471,7 @@ Ukéo    accepter
 Ula    long
 Ula    très long
 Umbé    cru
-Umbi    mauvais (comportement, attitude)
+Umbi    mauvais comportement
 Umpfili    veuf
 Umpfili    veuve
 Umpfu    diable
@@ -1989,3 +1996,94 @@ terin li avion okula     le terrain d'aterrissage des avions est très long
 mu wolo avion, oviè bo passipor     pour prendre l'avion, il faut avoir un passeport
 mu osson otsa avion, oviè lui valissi    pour entrer dans l'avion, il faut faire passer sa valise
 duaniè, a sion wè ya ilo vi ilo    les douaniers t'ont surpris avec beaucoup de bagages non déclarés
+camga wa wolo wè wi Ibina?     prends-tu le véhicule d'Ibina?
+kula i nor ya gudron?    la route du nord est-elle bitumée?
+mu tu Abba, anlère kuè?    combien de temps faut-il pour arriver à Abba?
+wè ku impé ima yiè ossa?    que vas-tu faire à Impé?
+mpfun olono gawa?    le chef du village d'Olono s'appelle-t-il Gawa?
+mè ko mu bira ilo vi ilo?     puis-je embarquer avec beaucoup de choses?
+biè li ngo kuè?     combien coûte le billet jusqu'à Ngo?
+bwo a wolo shuèki?    acceptent-ils un paiement par chèque?
+kia dzi bwo yila dzi?    ne prennent-ils que des espèces?
+biè li mwana wu béa kuè?     combien paie-t-on le bilolet d'un nouveau-né?
+li bura buru kuè?     et celui d'un adulte?
+mu yiè ya ka vuru, a kilomètres kuè?     combien de kilomètres parcoure-t-on aller et retour?
+lère ima lituo?    à quelle heure arriverions-nous?
+camgna abon     le camion s'est renversé
+bara ana a kui     quatre personnes sont mortes
+kula bi     la route est mauvaise
+luo camgna lissense    remplis le réservoir d'essence
+cmagna a koro mu dzuä     le véhicules s'est embourbé
+camgna assi pani     l'automobile est tombée en panne
+à pied    mu ntsi
+à pieds     mu mili
+wè ko mu yiè mu ntsi?     peux-tu marcher?
+bwo ofa amana okoon nkio yi?    pourront-ils escalader cette montagne?
+ofura ikikio, pini wè     descendre une colline n'est pas difficile
+bwo adzinu otsa idzua     ils se sont perdus dans la forêt
+biè liyiè tswa-tswa     vous marchez vite
+diè ya na ayini?     avec qui est-il parti?
+wè ka bara tini mu tsa mii wo     ne cours pas sous un chaud soleil
+dzadu kuni?     où est le marché?
+ntsoo ya tali?     le manioc coûte-t-il cher?
+wè ima dzi ofuon?     que veux-tu acheter?
+wè dzi ofuon issipari?     voulez-vous acheter des chaussures
+doctère     docteur
+alua    maladie
+oloo     vomir
+baali    plaie
+mwim    mal de ventre
+ontsuë     mal de tête
+onkaon     fièvre
+iyuon     rhume
+tulu    toux
+tulu onto    bronchite chronique
+muin a lura     diarrhée
+hopitali    hôpital
+tumbu     piqûre
+mion    médicament
+ifirmié    infirmier
+matrone     sage-femme
+kinini     quinine
+wè ima?    qu'est-ce qui vous arrive?
+mè ya aloi     je suis malade
+mè ya muin     j'ai mal au ventre
+diè ya onkaon     il a la fièvre
+mè mini assa puru     j'ai mal aux dents
+mè pini mu nuru wè     je suis fatigué
+diè lidzuon lissa     il a des vertiges
+diè igwo issa puru ya ontsuè     il a mal au dos et à la tête
+mè iburi okuoni    je n'arrive pas à accoucher
+ngakuo    les feuilles de manioc
+taa    graines de courge
+ikulu     oseille
+tina    antennes du "diable"
+okon    asperge
+mpao    viande du buffle
+dzuobi     hippopotame
+tsé     gazelle
+ka    antilope
+nkion     singe
+ndzo     éléphant
+nkwé     lion
+ngwo     panthère
+mpara     rat sauvage
+ntsué     poule
+ntsué     coq
+ntsué     poulet
+kaä     pintade
+ikali    perdrix
+ikuku     pigeon
+nkwun     cigogne
+nguolo     silure
+ndzuon     anguille
+nga pei     poissons à écailles
+nguä     sanglier
+apé    sauterelles
+dziè    grillon
+atsièlè     chenilles
+savuka     avocat
+manguli     mangue
+laari     orange
+nkuo     banane
+bili    cola
